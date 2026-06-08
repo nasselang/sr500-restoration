@@ -5,16 +5,20 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 
 ## Skal kjøpes NÅ
 
-### Frambrems — skivebolter
-- **90101-08312-00** — Bolt (skivebolt) — fra USD 4,39
+### Frambrems — skivebolter (OEM)
+- **90101-08312-00** — Bolt, Flange M8 (OEM) — fra USD 4,39
+  - Alternativ: M8 A4-80 flensbolt i rustfritt (Biltema/Clas)
+  - Lengde: 20-25mm — mål original
 - **1J3-25834-01-00** — Washer, Lock (låseskive) — fra USD 9,22
-  - Kilde: CMSNL / MegaZip
+  - 🟢 **Sendt fra eBay** 2026-06-07
   - Lagt til 2026-06-07
 
 ### Frambrems — kaliper (ettermarked)
-- **Ny kaliper** — ettermarked (f.eks. Yambits eller eBay)
-  - Må sjekke: passar original klosser/stempel? Eller kjøpes komplett med klosser?
-  - Lagt til 2026-06-07 — Johnny går for ettermarked
+- **KEDO Replica Front Brake Caliper Left** — komplett med stempel/pakninger/smådeler
+  - SKU: 41127 — **€118**
+  - URL: https://www.kedo.com/replica-front-brake-caliper-left-complete-incl-piston-gaskets-small-parts.html
+  - Passer SR500 — replica av original
+  - Lagt til 2026-06-07
 
 ### Frambrems — bremseslange
 - **Ny enkelt-slange** (hel slange, ikke originalt to-slangesystem)
