@@ -9,9 +9,24 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 - **90101-08312-00** — Bolt, Flange M8 (OEM) — fra USD 4,39
   - Alternativ: M8 A4-80 flensbolt i rustfritt (Biltema/Clas)
   - Lengde: 20-25mm — mål original
-- **1J3-25834-01-00** — Washer, Lock (låseskive) — fra USD 9,22
+- **1J3-25834-01-00** — Washer, Lock (låseskive) — **€16,88**
   - 🟢 **Sendt fra eBay** 2026-06-07
   - Lagt til 2026-06-07
+
+### Bakre bremselysbryter
+- **jm no 705 35 31 — Rear Brake Switch** — **€23,43**
+  - ✅ **Levert og mottatt**
+  - Lagt til 2026-06-13
+
+### Bensinkran
+- **102YF117 — Fuel Petcock** (bensinkran) — **€24,67**
+  - ✅ **Levert og mottatt**
+  - Lagt til 2026-06-13
+
+### Engine Cover Screw Bolt Set
+- **Engine Cover Screw Bolt Set** — £22,27
+  - ✅ **Levert og mottatt**
+  - Lagt til 2026-06-13
 
 ### Frambrems — kaliper (ettermarked)
 - **KEDO Replica Front Brake Caliper Left** — komplett med stempel/pakninger/smådeler
@@ -28,7 +43,7 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - Lagt til 2026-06-07
 
 ### Rengjøring
-- **Biltema Avfettingsspray / Universalavfetting** — ✅ **kjøpt** 01.06.2026
+- **Biltema Avfettingsspray / Universalavfetting** — ca. kr 300 — ✅ **kjøpt** 01.06.2026
 
 ### Gummiforinger til ramma (Yambits)
 - **Footrest Damper** (×4) — ✅ **bestilt** 📦 Ordre #389881, £33,99 — ✅ **levert** 02.06.2026 📬 (Royal Mail LT096190635GB)
@@ -47,11 +62,11 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 - **Indicator Damper Rubber Rear** — https://yambits.co.uk/sr500-indicator-damper-rubber-rear-p-22899.html
 
 ### Svingarm-deler (bestilt CMSNL)
-- **Seal, Guard** (431-22151-03-00) ×2 — 🟢 **sendt** 📦 CMSNL — €34,92 via PayPal 01.06.2026
-- **Oil Seal** (93108-35004-00) ×2 — 🟢 **sendt** 📦 CMSNL — €29,92 via PayPal 01.06.2026
+- **Seal, Guard** (431-22151-03-00) ×2 — ✅ **levert** 📦 CMSNL — €34,92 via PayPal 01.06.2026
+- **Oil Seal** (93108-35004-00) ×2 — ✅ **levert** 📦 CMSNL — €29,92 via PayPal 01.06.2026
 
 ### Gummiforinger (eBay)
-- **Fuel Tank Support Rubber 2 Pcs** (Fit SR400/SR500) — 📦 kr 376,32 — 🟢 **i transitt** 28.05.2026 — sendt via Thailand Post, sporing i eBay-systemet (Ordre #362683748431, selger sakito_classicbike) — ETA 26. juni–24. juli ✈️ (fra USA)
+- **Fuel Tank Support Rubber 2 Pcs** (Fit SR400/SR500) — 📦 kr 376,32 — ✅ **levert og hentet** (eBay, sakito_classicbike, ordre #362683748431)
 
 ## Ønskes kjøpt senere
 
