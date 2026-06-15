@@ -5,6 +5,27 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 
 ## Skal kjøpes NÅ
 
+### Øvre styrekrone — flensbolt
+- **90105-14102-00** — Bolt, Washer Based (flensbolt til styrestamme) — fra USD 7,97
+  - Lagt til 2026-06-14
+
+### Forskjerm (eBay)
+- **Motorcycle Front Fender Mudguard Metal Steel** for Yamaha SR400/SR500/XS650 — sort
+  - **$115,26** (USD) = **NOK 1 143** (inkl. frakt + skatt)
+  - 🟢 **Bestilt** 📦 Ordre #27-14742-35382 via eBay
+  - Selger: xzy136316
+  - ✅ PayPal-betaling bekreftet kr 1.142,55 (14.06.2026)
+  - ETA: 3. aug – 31. aug
+  - Lagt til 2026-06-14
+
+### YAMAHA SR500 verkstedhåndbok (eBay)
+- **YAMAHA SR500 MANUAL** — verkstedhåndbok / service manual
+  - **kr 730,57** (NOK) via PayPal
+  - 🟢 **Bestilt** 📦 via eBay (14.06.2026)
+  - Selger tilbød 10% rabatt før kjøp
+  - ETA: 23. jul – 12. aug
+  - Lagt til 2026-06-15
+
 ### Frambrems — skivebolter (OEM)
 - **90101-08312-00** — Bolt, Flange M8 (OEM) — fra USD 4,39
   - Alternativ: M8 A4-80 flensbolt i rustfritt (Biltema/Clas)
