@@ -31,7 +31,7 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - Alternativ: M8 A4-80 flensbolt i rustfritt (Biltema/Clas)
   - Lengde: 20-25mm — mål original
 - **1J3-25834-01-00** — Washer, Lock (låseskive) — **€16,88**
-  - 🟢 **Sendt fra eBay** 2026-06-07
+  - ✅ **Levert og mottatt** 2026-06-17
   - Lagt til 2026-06-07
 
 ### Bakre bremselysbryter
