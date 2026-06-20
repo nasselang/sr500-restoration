@@ -7,7 +7,10 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 
 ### Øvre styrekrone — flensbolt
 - **90105-14102-00** — Bolt, Washer Based (flensbolt til styrestamme) — fra USD 7,97
-  - Lagt til 2026-06-14
+  - 🟢 **Bestilt** 📦 via CMSNL
+  - ✅ PayPal-betaling bekreftet €18,67 (19.06.2026) — Ordre #5d84930c-1af4-4fbe-8566-620d612f4a8a
+  - ETA: 5–10 virkedager (shipping via UPSS)
+  - Lagt til 2026-06-14, bestilt 2026-06-19
 
 ### Forskjerm (eBay)
 - **Motorcycle Front Fender Mudguard Metal Steel** for Yamaha SR400/SR500/XS650 — sort
