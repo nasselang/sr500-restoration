@@ -131,6 +131,13 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - Status: **ønskes kjøpt senere**
   - Notat: lagt inn av Johnny 2026-05-01
 
+### Lithium Battery CCA240 12V 5AH (Cafe Racer Webshop)
+- **Pris: €149,96**
+  - URL: <https://www.caferacerwebshop.com/en/protect-box-battery-lithium-cca240-12v-5ah.html>
+  - Type: Litium-ion batteri med BMS, 12V 5AH
+  - Status: **ønskes kjøpt senere**
+  - Notat: lagt inn av Johnny 2026-06-19
+
 ### Vape Ignition System
 - **Pris: EUR 512,00**
   - URL: <https://www.tola-tools.de/en/vape-ignition-yamaha-sr500-tt500-xt500.html>
