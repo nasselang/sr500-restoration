@@ -15,7 +15,7 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 ### Forskjerm (eBay)
 - **Motorcycle Front Fender Mudguard Metal Steel** for Yamaha SR400/SR500/XS650 — sort
   - **$115,26** (USD) = **NOK 1 143** (inkl. frakt + skatt)
-  - 🟢 **Bestilt** 📦 Ordre #27-14742-35382 via eBay
+  - 🟢 **Sendt** 📦 Ordre #27-14742-35382 via eBay
   - Selger: xzy136316
   - ✅ PayPal-betaling bekreftet kr 1.142,55 (14.06.2026)
   - ETA: 3. aug – 31. aug
