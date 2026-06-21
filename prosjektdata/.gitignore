@@ -1,0 +1,13 @@
+# Store filer over 50MB
+*.pdf
+*.zip
+*.tar
+
+# OneDrive symlink — bare lokalt
+data/images/SR500prosjekt
+
+# macOS
+.DS_Store
+
+# Windows zone identifiers
+*:Zone.Identifier
