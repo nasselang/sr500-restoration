@@ -5,12 +5,38 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 
 ## Skal kjøpes NÅ
 
+### Eksosbånd
+- **Oxford eksosbånd til MC** — 50 mm × 5 meter
+  - Højstyling: https://www.hojstyling.no/custom/eksosanlegg-lyddemper/oxford-eksosband-til-mc-50-mm-5-meter/
+  - 🟢 **Bestilt** 📦 via Højstyling (21.06.2026)
+  - Ordrebekreftelse mottatt
+  - Lagt til 2026-06-21
+
+### Styre (eBay)
+- **Motorcycle Black Custom Handlebar** — nær originalt, sort
+  - **NOK 532,63** (item) + **NOK 180,55** (frakt) = **kr 643,44** totalt
+  - 🟢 **Bestilt** 📦 via eBay (21.06.2026)
+  - Selger: Guangzhoushizhuojunshiyeyouxiangongsi (Kina)
+  - ✅ PayPal-betaling bekreftet kr 643,44
+  - ETA: 10. jul – 31. jul
+  - Lagt til 2026-06-21
+
 ### Øvre styrekrone — flensbolt
 - **90105-14102-00** — Bolt, Washer Based (flensbolt til styrestamme) — fra USD 7,97
-  - 🟢 **Bestilt** 📦 via CMSNL
+  - 🟢 **Sendt** 📦 via CMSNL
   - ✅ PayPal-betaling bekreftet €18,67 (19.06.2026) — Ordre #5d84930c-1af4-4fbe-8566-620d612f4a8a
   - ETA: 5–10 virkedager (shipping via UPSS)
+  - Sporingsnummer: 1Z291W4Y6895774616
   - Lagt til 2026-06-14, bestilt 2026-06-19
+
+### Toppkrone — klembolter ×2
+- **97313-08055-00** (erstatter: **97013-08055-00**) — Bolt (661) — M8×55mm — klembolt til handlebar-feste
+  - 🟢 **Sendt** 📦 via CMSNL (21.06.2026)
+  - Ordre #d84ca4ff-1b48-4cf3-a474-0ed908cff1c6
+  - EUR 2,50 × 2 = EUR 5,00 + frakt EUR 9,94 = **EUR 18,67** totalt
+  - Shipping: UPSS
+  - Sporingsnummer: 1Z291W4Y6895774616
+  - Lagt til 2026-06-21
 
 ### Forskjerm (eBay)
 - **Motorcycle Front Fender Mudguard Metal Steel** for Yamaha SR400/SR500/XS650 — sort
