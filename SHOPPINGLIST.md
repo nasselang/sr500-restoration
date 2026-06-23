@@ -9,13 +9,14 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 - **Oxford eksosbånd til MC** — 50 mm × 5 meter
   - Højstyling: https://www.hojstyling.no/custom/eksosanlegg-lyddemper/oxford-eksosband-til-mc-50-mm-5-meter/
   - 🟢 **Bestilt** 📦 via Højstyling (21.06.2026)
-  - Ordrebekreftelse mottatt
+  - ✅ Ordrebekreftelse mottatt (22.06.2026)
+  - Venting: info om forventet levering
   - Lagt til 2026-06-21
 
 ### Styre (eBay)
 - **Motorcycle Black Custom Handlebar** — nær originalt, sort
   - **NOK 532,63** (item) + **NOK 180,55** (frakt) = **kr 643,44** totalt
-  - 🟢 **Bestilt** 📦 via eBay (21.06.2026)
+  - 🟢 **Bestilt** 📦 via eBay (21.06.2026) — 📦 **Hos transportør**
   - Selger: Guangzhoushizhuojunshiyeyouxiangongsi (Kina)
   - ✅ PayPal-betaling bekreftet kr 643,44
   - ETA: 10. jul – 31. jul
@@ -23,19 +24,20 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
 
 ### Øvre styrekrone — flensbolt
 - **90105-14102-00** — Bolt, Washer Based (flensbolt til styrestamme) — fra USD 7,97
-  - 🟢 **Sendt** 📦 via CMSNL
+  - 🟢 **Sendt** 📦 via CMSNL — **22.06.2026** 🚚
   - ✅ PayPal-betaling bekreftet €18,67 (19.06.2026) — Ordre #5d84930c-1af4-4fbe-8566-620d612f4a8a
+  - Faktura #1669033
+  - **UPS-sporing:** `1Z291W4Y6895774616`
   - ETA: 5–10 virkedager (shipping via UPSS)
-  - Sporingsnummer: 1Z291W4Y6895774616
   - Lagt til 2026-06-14, bestilt 2026-06-19
 
 ### Toppkrone — klembolter ×2
 - **97313-08055-00** (erstatter: **97013-08055-00**) — Bolt (661) — M8×55mm — klembolt til handlebar-feste
-  - 🟢 **Sendt** 📦 via CMSNL (21.06.2026)
+  - 🟢 **Bestilt** 📦 via CMSNL (21.06.2026) — ✅ ordrebekreftelse mottatt
   - Ordre #d84ca4ff-1b48-4cf3-a474-0ed908cff1c6
   - EUR 2,50 × 2 = EUR 5,00 + frakt EUR 9,94 = **EUR 18,67** totalt
   - Shipping: UPSS
-  - Sporingsnummer: 1Z291W4Y6895774616
+  - Sannsynligvis i samme UPS-sending som flensbolten (1Z291W4Y6895774616)
   - Lagt til 2026-06-21
 
 ### Forskjerm (eBay)
@@ -182,6 +184,17 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - Status: **ønskes kjøpt senere**
   - Notat: Passer SR400/500 TT500 XT500. Lagt inn av Johnny 2026-05-01, korrigert 2026-05-11
 
+### Domino Push/Pull Throttle (Cafe Racer Garage)
+- **$125,96 USD** (~kr 1 320)
+  - URL: <https://caferacergarage.com/product/push-pull-motorcycle-throttle/>
+  - SKU: MT304
+  - **Gratis frakt worldwide** 🚚
+  - Domino racing-kvalitet, raskere cable pull rate enn originalt
+  - Universal 7/8" (22mm) — passer SR500
+  - Status: **ønskes kjøpt senere**
+  - Alternativ til eBay og Kedo sine throttle kits
+  - Lagt til 2026-06-22
+
 ### LED Frontlykt
 - **Classic LED Headlight Insert (GBP £219.00)**
   - Kilde: KEDO
@@ -196,6 +209,11 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - URL: <https://kedopartsaustralia.com/push-pull-throttle-kit-sr400-sr500-tt500-xt500/>
   - Status: **ønskes kjøpt senere**
   - Notat: lagt inn av Johnny 2026-04-25
+- **Domino Push/Pull Throttle — Cafe Racer Garage** — $125,96 / ~kr 1 320
+  - SKU: MT304 — gratis frakt worldwide
+  - URL: <https://caferacergarage.com/product/push-pull-motorcycle-throttle/>
+  - Status: **ønskes kjøpt senere**
+  - Notat: lagt til 2026-06-22 som alternativ
 
 ### Filternett
 - **Net, Filter (583-21756-00-00)**  
@@ -204,22 +222,18 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - Leverandører: [YoshiParts](https://yoshiparts.com/parts/yamaha-583217560000), [MG-Teileshop](https://www.mg-teileshop.de/yamaha-xt500-sr500-netz-filter-net-filter-583-21756-00-original-neu.html?language=en)
 
 ### Elektrisk / styring
-- **mo.unit blue (EUR 335,29)**
-  - Produkt: **Bluetooth motorcycle control**
-  - Kilde: motogadget
-  - URL: <https://www.motogadget.com/en-en/products/mo-unit-blue>
-  - Status: **ønskes kjøpt senere**
-  - Notat: lagt inn av Johnny 2026-04-25
 
-- **mo.button (EUR 99,00)**
-  - Produkt: **cable reduction system**
-  - Kilde: motogadget
-  - URL: <https://www.motogadget.com/en-en/products/mo-button>
-  - Status: **ønskes kjøpt senere**
-  - Notat: lagt inn av Johnny 2026-04-25
+✅ **Bestilt 22.06.2026 — Ordre #23606 (motogadget)**
+- **mo.unit blue** (€335,29) 🟢 Bestilt
+- **mo.button** (€83,19) 🟢 Bestilt
+- **mo.switch basic LED 3 — høyre sort** (€116,81) 🟢 Bestilt
+- **mo.switch basic LED 3 — venstre sort** (€116,81) 🟢 Bestilt
+- **Frakt:** €17,90
+- **Total:** **€670,00** (~kr 7 700)
+- **Status:** 🔄 Pakke klargjøres
 
+❌ **Fortsatt ønskes kjøpt:**
 - **mo.unit ground distributor (EUR 39,00)**
-  - Produkt: **motorcycle electronics**
   - Kilde: motogadget
   - URL: <https://www.motogadget.com/en-en/products/mo-unit-ground-distributor>
   - Status: **ønskes kjøpt senere**
@@ -244,13 +258,6 @@ Bruk denne lista som fast referanse hver gang Johnny spør hva som står på sho
   - URL: <https://www.motogadget.com/en-en/products/motoscope-pro-universal-mounting-plate>
   - Status: **ønskes kjøpt senere**
   - Notat: lagt inn av Johnny 2026-04-25
-
-- **mo.switch basic LED 3 button (EUR 139,00)**
-  - Antall: **2 stk**
-  - Kilde: motogadget
-  - URL: <https://www.motogadget.com/en-en/products/mo-switch-basic-led-3-buttons>
-  - Status: **ønskes kjøpt senere**
-  - Notat: Johnny trenger to slike. Lagt inn 2026-04-25
 
 - **mo.unit battery cable 40A fuse (short) (EUR 45,01)**
   - Variant: **short**
