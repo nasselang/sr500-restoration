@@ -147,10 +147,11 @@ Totalt investert hittil: **~kr 26 430**
 - **JMT Litium-Ion Batteri** (Højstyling) — **kr 702**
   - URL: <https://www.hojstyling.no/mc-deler/service-mc-deler/reservedeler-till-mc/jmt-kraftfullt-litium-ion-batteri-til-motorsykkel/>
 
-### Throttle (tre alternativer)
-- **Domino Push/Pull Throttle** (Cafe Racer Garage) — **$125,96** / ~kr 1.320
+### Throttle (bestilt — Domino fra Cafe Racer Garage)
+- **Domino Push/Pull Throttle** (Cafe Racer Garage) — **$48,41** ✅ Bestilt 25.06 (#330875)
   - SKU: MT304 — Universal 7/8" (22mm)
   - URL: <https://caferacergarage.com/product/push-pull-motorcycle-throttle/>
+  - Ordre #330875 — 5-8 dager levering, gratis frakt
   - Gratis frakt worldwide 🚚
 - **Push Pull Throttle kit** (eBay) — **AUD $152,95**
   - URL: <https://www.ebay.com/itm/127604884581>
