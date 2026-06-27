@@ -216,15 +216,15 @@ Totalt investert hittil: **~kr 26 569**
 
 > *Låseskive frambrems (€16,88 ≈ kr 200) kan være inkludert i tidligere kjøp.*
 
-### 📦 Bestilt, pris usikker
+### 📦 Bestilt, venter på levering
 
-| Del | Kilde | Merknad |
-|---|---|---|
-| Flensbolt + klembolter ×2 | CMSNL | €37,35, sendt 22.06 (UPS) |
-| Oxford eksosbånd | Højstyling | Venter levering |
-| Styre | eBay | kr 643 (inkl. frakt), ETA 10-31 jul |
-| Forskjerm | eBay | Sendt, ETA 3-31 aug |
-| Verkstedhåndbok | eBay | $58,96, ETA 23 jul-12 aug |
+| Del | Pris | Kilde | Merknad |
+|---|---|---|---|
+| Flensbolt + klembolter ×2 | €37,35 | CMSNL | Sendt 22.06 (UPS) |
+| Oxford eksosbånd | kr 330 | Højstyling | Venter levering |
+| Styre | kr 643 | eBay | ETA 10-31 jul |
+| Forskjerm | $92,21 | eBay | Sendt, ETA 3-31 aug |
+| Verkstedhåndbok | $58,96 | eBay | ETA 23 jul-12 aug |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
