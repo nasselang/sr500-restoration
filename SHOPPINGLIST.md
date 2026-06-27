@@ -17,10 +17,9 @@ Totalt investert hittil: **~kr 26 569**
 
 ### Forskjerm (eBay)
 - **Motorcycle Front Fender Mudguard Metal Steel** — sort, passer SR400/SR500/XS650
-  - **$115,26** (USD) = **NOK 1.143** (inkl. frakt + skatt)
+  - **$92,21** (USD)
   - 🟢 **Sendt** 📦 Ordre #27-14742-35382
   - Selger: xzy136316
-  - ✅ PayPal-betaling bekreftet kr 1.142,55 (14.06.2026)
   - ETA: 3. aug – 31. aug
 
 ### Låseskive frambrems
