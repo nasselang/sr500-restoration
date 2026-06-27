@@ -221,7 +221,7 @@ Totalt investert hittil: **~kr 26 569**
 
 | Del | Kilde | Merknad |
 |---|---|---|
-| Flensbolt + klembolter ×2 | CMSNL | Sendt/venter, pris ikke ført |
+| Flensbolt + klembolter ×2 | CMSNL | €37,35, sendt 22.06 (UPS) |
 | Oxford eksosbånd | Højstyling | Venter levering |
 | Styre | eBay | kr 643 (inkl. frakt), ETA 10-31 jul |
 | Forskjerm | eBay | Sendt, ETA 3-31 aug |
