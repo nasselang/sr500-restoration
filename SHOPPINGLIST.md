@@ -1,7 +1,7 @@
 # Yamaha SR500 – shoppingliste
 
 Sist oppdatert: 27. juni 2026
-Totalt investert hittil: **~kr 26 430**
+Totalt investert hittil: **~kr 26 569**
 
 ---
 
@@ -200,3 +200,46 @@ Totalt investert hittil: **~kr 26 430**
 - **90101-08312-00** — Bolt, Flange M8 — fra USD 4,39
   - Alternativ: M8 A4-80 flensbolt i rustfritt (Biltema/Clas)
   - Lengde: 20-25mm — mål original
+
+---
+
+## 📊 Regnskap
+
+### 💸 Betalt hittil
+
+| Post | Beløp |
+|---|---|
+| Tidligere kjøp (CMSNL, eBay, Højstyling m.m.) | ~kr 12 000 |
+| motogadget (mo.unit, mo.button, mo.switch ×2) | ~kr 7 700 |
+| VAPE Ignition (TOLA-Tools) | ~kr 6 200 |
+| Lager+simring forhjul (Online MC) | kr 530 |
+| Svinghjulsavdrager (Thansen) | kr 119 |
+| **Sum betalt** | **~kr 26 569** |
+
+> *Låseskive frambrems (€16,88 ≈ kr 200) kan være inkludert i tidligere kjøp.*
+
+### 📦 Bestilt, pris usikker
+
+| Del | Kilde | Merknad |
+|---|---|---|
+| Flensbolt + klembolter ×2 | CMSNL | Sendt/venter, pris ikke ført |
+| Oxford eksosbånd | Højstyling | Venter levering |
+| Styre | eBay | ETA 10-31 jul |
+| Forskjerm | eBay | Sendt, ETA 3-31 aug |
+| Verkstedhåndbok | eBay | ETA 23 jul-12 aug |
+
+### 🎯 Gjenstående ønsker (estimert)
+
+| Del | Estimert pris |
+|---|---|
+| Cafe Racer / Scrambler-sete (Motea) | ~kr 1 200 |
+| Bakdempere Zaddox RS2 (Motea) | fra ~kr 1 750 |
+| Fuel Tank + Seat Set VT1 (Motea) | ~kr 2 500 |
+| Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
+| Domino Push/Pull Throttle (Cafe Racer Garage) | ~$126 (~kr 1 320) |
+| Motogadget rest (distributor, breakout, motoscope, plate, cable) | ~€612 (~kr 7 000) |
+| **Estimert sum gjenstående** | **~kr 15 520+** |
+
+---
+
+**🔢 Totalt investert hittil: ~kr 26 569**
