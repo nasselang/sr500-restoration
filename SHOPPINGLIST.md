@@ -85,9 +85,8 @@ Totalt investert hittil: **~kr 26 569**
 
 ### Verkstedhåndbok (eBay)
 - **YAMAHA SR500 MANUAL** — verkstedhåndbok / service manual
-  - **kr 730,57** via PayPal
+  - **$58,96** (USD)
   - Bestilt via eBay (14.06)
-  - Selger tilbød 10% rabatt før kjøp
   - ETA: 23. jul – 12. aug
 
 ---
@@ -225,7 +224,7 @@ Totalt investert hittil: **~kr 26 569**
 | Oxford eksosbånd | Højstyling | Venter levering |
 | Styre | eBay | kr 643 (inkl. frakt), ETA 10-31 jul |
 | Forskjerm | eBay | Sendt, ETA 3-31 aug |
-| Verkstedhåndbok | eBay | ETA 23 jul-12 aug |
+| Verkstedhåndbok | eBay | $58,96, ETA 23 jul-12 aug |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
