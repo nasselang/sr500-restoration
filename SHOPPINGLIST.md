@@ -70,7 +70,7 @@ Totalt investert hittil: **~kr 26 569**
   - Sannsynligvis i samme UPS-sending som flensbolten
 
 ### Oxford eksosbånd
-- **Oxford eksosbånd til MC** — 50 mm × 5 meter
+- **Oxford eksosbånd til MC** — 50 mm × 5 meter — **kr 330**
   - Højstyling
   - URL: <https://www.hojstyling.no/custom/eksosanlegg-lyddemper/oxford-eksosband-til-mc-50-mm-5-meter/>
   - Bestilt — venter info om forventet levering
