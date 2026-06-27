@@ -30,7 +30,7 @@ Sist oppdatert: 2026-06-27
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
 | Flensbolt styrestamme (90105-14102-00) | **CMSNL** (#1669033) | — | 🚚 Sendt 22.06 (UPS) |
 | Klembolter (97313-08055-00) ×2 | **CMSNL** | — | 🟡 Bestilt 21.06 |
-| Oxford eksosbånd | **Højstyling** | — | 🟡 Bestilt, venter levering |
+| Oxford eksosbånd | **Højstyling** | kr 330 | 🟡 Bestilt, venter levering |
 
 ---
 
