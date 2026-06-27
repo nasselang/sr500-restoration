@@ -55,35 +55,35 @@ Sist oppdatert: 2026-06-27
 
 ### 💸 Betalt hittil
 
-| # | Post | Pris | Kilde |
-|---|---|---|---|
-| 1 | Pulverlakkering ramme + svingarm | kr 5 250 | Oslopulverlakk |
-| 2 | Footrest Damper ×4 | £33,99 | Yambits |
-| 3 | Chain Guard Mounting Rubber | £12,41 | Yambits |
-| 4 | Sandblåserkabinett (verktøy) | kr 1 990 | Moe & Co |
-| 5 | Fuel Tank Support Rubber 2 pcs | kr 376 | eBay |
-| 6 | Seal, Guard (431-22151-03-00) ×2 | €34,92 | CMSNL |
-| 7 | Oil Seal (93108-35004-00) ×2 | €29,92 | CMSNL |
-| 8 | Rear Brake Switch (jm 705 35 31) | €23,43 | — |
-| 9 | Bensinkran (102YF117, Fuel Petcock) | €24,67 | — |
-| 10 | Engine Cover Screw Bolt Set | £22,27 | — |
-| 11 | Biltema avfettingsspray | ~kr 300 | Biltema |
-| 12 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | eBay |
-| | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 (~kr 7 700) | motogadget GmbH |
-| | VAPE Ignition (TOLA-Tools) | ~€534 (~kr 6 200) | TOLA-Tools |
-| | Lager+simring forhjul (Online MC) | kr 530 | Online MC |
-| | Svinghjulsavdrager (Thansen) | kr 119 | Thansen |
-| **Sum betalt** | | **~kr 26 569** | |
+| # | Post | Pris | ~NOK | Kilde |
+|---|---|---|---|---|
+| 1 | Pulverlakkering ramme + svingarm | kr 5 250 | kr 5 250 | Oslopulverlakk |
+| 2 | Footrest Damper ×4 | £33,99 | ~kr 442 | Yambits |
+| 3 | Chain Guard Mounting Rubber | £12,41 | ~kr 161 | Yambits |
+| 4 | Sandblåserkabinett (verktøy) | kr 1 990 | kr 1 990 | Moe & Co |
+| 5 | Fuel Tank Support Rubber 2 pcs | kr 376 | kr 376 | eBay |
+| 6 | Seal, Guard (431-22151-03-00) ×2 | €34,92 | ~kr 402 | CMSNL |
+| 7 | Oil Seal (93108-35004-00) ×2 | €29,92 | ~kr 344 | CMSNL |
+| 8 | Rear Brake Switch (jm 705 35 31) | €23,43 | ~kr 269 | — |
+| 9 | Bensinkran (102YF117, Fuel Petcock) | €24,67 | ~kr 284 | — |
+| 10 | Engine Cover Screw Bolt Set | £22,27 | ~kr 290 | — |
+| 11 | Biltema avfettingsspray | ~kr 300 | ~kr 300 | Biltema |
+| 12 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay |
+| | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH |
+| | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools |
+| | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC |
+| | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen |
+| **Sum betalt** | | | **~kr 26 569** | |
 
 ### 📦 Bestilt, venter på levering
 
-| Del | Pris | Kilde | Merknad |
-|---|---|---|---|
-| Flensbolt + klembolter ×2 | €37,35 | CMSNL | Sendt 22.06 (UPS) |
-| Oxford eksosbånd | kr 330 | Højstyling | Venter levering |
-| Styre | kr 643 | eBay | ETA 10-31 jul |
-| Forskjerm | $92,21 | eBay | Sendt, ETA 3-31 aug |
-| Verkstedhåndbok | $58,96 | eBay | ETA 23 jul-12 aug |
+| Del | Pris | ~NOK | Kilde | Merknad |
+|---|---|---|---|---|
+| Flensbolt + klembolter ×2 | €37,35 | ~kr 430 | CMSNL | Sendt 22.06 (UPS) |
+| Oxford eksosbånd | kr 330 | kr 330 | Højstyling | Venter levering |
+| Styre | kr 643 | kr 643 | eBay | ETA 10-31 jul |
+| Forskjerm | $92,21 | ~kr 968 | eBay | Sendt, ETA 3-31 aug |
+| Verkstedhåndbok | $58,96 | ~kr 619 | eBay | ETA 23 jul-12 aug |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
