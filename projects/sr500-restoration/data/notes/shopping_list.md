@@ -18,7 +18,7 @@ Sist oppdatert: 2026-06-27
 | Del | Pris | Status |
 |---|---|---|
 | Styre | — | 🟡 Bestilt (ETA 10-31 jul) |
-| Forskjerm | — | 🟢 Sendt (ETA 3-31 aug) |
+| Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | — | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | 🟢 Sendt 07.06 |
 
