@@ -69,7 +69,6 @@ Sist oppdatert: 2026-06-27
 | 10 | Engine Cover Screw Bolt Set | £22,27 | — |
 | 11 | Biltema avfettingsspray | ~kr 300 | Biltema |
 | 12 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | eBay |
-| | **Sum tidligere kjøp (ca.)** | **~kr 12 000** *(inkl. frakt/toll)* | |
 | | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 (~kr 7 700) | motogadget GmbH |
 | | VAPE Ignition (TOLA-Tools) | ~€534 (~kr 6 200) | TOLA-Tools |
 | | Lager+simring forhjul (Online MC) | kr 530 | Online MC |
