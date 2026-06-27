@@ -55,16 +55,26 @@ Sist oppdatert: 2026-06-27
 
 ### 💸 Betalt hittil
 
-| Post | Beløp |
-|---|---|
-| Tidligere kjøp (CMSNL, eBay, Højstyling m.m.) | ~kr 12 000 |
-| motogadget (mo.unit, mo.button, mo.switch ×2) | ~kr 7 700 |
-| VAPE Ignition (TOLA-Tools) | ~kr 6 200 |
-| Lager+simring forhjul (Online MC) | kr 530 |
-| Svinghjulsavdrager (Thansen) | kr 119 |
-| **Sum betalt** | **~kr 26 569** |
-
-> *Låseskive frambrems (€16,88 ≈ kr 200) kan være inkludert i tidligere kjøp.*
+| # | Post | Pris | Kilde |
+|---|---|---|---|
+| 1 | Pulverlakkering ramme + svingarm | kr 5 250 | Oslopulverlakk |
+| 2 | Footrest Damper ×4 | £33,99 | Yambits |
+| 3 | Chain Guard Mounting Rubber | £12,41 | Yambits |
+| 4 | Sandblåserkabinett (verktøy) | kr 1 990 | Moe & Co |
+| 5 | Fuel Tank Support Rubber 2 pcs | kr 376 | eBay |
+| 6 | Seal, Guard (431-22151-03-00) ×2 | €34,92 | CMSNL |
+| 7 | Oil Seal (93108-35004-00) ×2 | €29,92 | CMSNL |
+| 8 | Rear Brake Switch (jm 705 35 31) | €23,43 | — |
+| 9 | Bensinkran (102YF117, Fuel Petcock) | €24,67 | — |
+| 10 | Engine Cover Screw Bolt Set | £22,27 | — |
+| 11 | Biltema avfettingsspray | ~kr 300 | Biltema |
+| 12 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | eBay |
+| | **Sum tidligere kjøp (ca.)** | **~kr 12 000** *(inkl. frakt/toll)* | |
+| | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 (~kr 7 700) | motogadget GmbH |
+| | VAPE Ignition (TOLA-Tools) | ~€534 (~kr 6 200) | TOLA-Tools |
+| | Lager+simring forhjul (Online MC) | kr 530 | Online MC |
+| | Svinghjulsavdrager (Thansen) | kr 119 | Thansen |
+| **Sum betalt** | | **~kr 26 569** | |
 
 ### 📦 Bestilt, venter på levering
 
