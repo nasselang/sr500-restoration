@@ -28,8 +28,7 @@ Sist oppdatert: 2026-06-27
 | Svinghjulsavdrager 27×1mm | **Thansen** (#115498590) | kr 119 | 🆕 Bestilt 26.06 |
 | VAPE Ignition SR500/TT500/XT500 | **TOLA-Tools** (#202652798) | €533,79 (~kr 6 200) | 🆕 Bestilt 26.06, PayPal ✅ |
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
-| Flensbolt styrestamme (90105-14102-00) | **CMSNL** (#1669033) | — | 🚚 Sendt 22.06 (UPS) |
-| Klembolter (97313-08055-00) ×2 | **CMSNL** | — | 🟡 Bestilt 21.06 |
+| Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
 | Oxford eksosbånd | **Højstyling** | kr 330 | 🟡 Bestilt, venter levering |
 
 ---
@@ -71,7 +70,7 @@ Sist oppdatert: 2026-06-27
 
 | Del | Kilde | Merknad |
 |---|---|---|
-| Flensbolt + klembolter ×2 | CMSNL | Sendt/venter, pris ikke ført |
+| Flensbolt + klembolter ×2 | CMSNL | €37,35, sendt 22.06 (UPS) |
 | Oxford eksosbånd | Højstyling | Venter levering |
 | Styre | eBay | kr 643 (inkl. frakt), ETA 10-31 jul |
 | Forskjerm | eBay | Sendt, ETA 3-31 aug |
