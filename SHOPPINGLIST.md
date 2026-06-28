@@ -40,9 +40,6 @@ Sist oppdatert: 2026-06-28
 **Elektronikk**
 
 **Deler**
-- Cafe Racer / Scrambler-sete (Motea, Craftride flat brun) — kr 1 199,99
-- Bakdempere Zaddox RS2 (Motea) — fra kr 1 747,49
-- Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99
 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96
 - Bremseklosser foran EBC FA87 (organisk) — ca. kr 250–500
 
@@ -83,11 +80,9 @@ Sist oppdatert: 2026-06-28
 
 | Del | Estimert pris |
 |---|---|
-| Cafe Racer / Scrambler-sete (Motea) | ~kr 1 200 |
-| Bakdempere Zaddox RS2 (Motea) | fra ~kr 1 750 |
-| Fuel Tank + Seat Set VT1 (Motea) | ~kr 2 500 |
 | Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
-| **Estimert sum gjenstående** | **~kr 8 520+** |
+| Bremseklosser foran EBC FA87 | ~kr 400 |
+| **Estimert sum gjenstående** | **~kr 2 150+** |
 
 ---
 
