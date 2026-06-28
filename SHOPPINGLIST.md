@@ -31,7 +31,7 @@ Sist oppdatert: 2026-06-28
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
-| Oxford eksosbånd | **Højstyling** | kr 330 | 🟡 Bestilt, venter levering |
+| Oxford eksosbånd | **Højstyling** | kr 330 | ✅ Levert 28.06 |
 
 ---
 
@@ -77,7 +77,7 @@ Sist oppdatert: 2026-06-28
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | 🆕 Bestilt 27.06 |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | 🆕 Bestilt 26.06 |
-| 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | 🟡 Bestilt, venter levering |
+| 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | ✅ Levert 28.06 |
 | 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
