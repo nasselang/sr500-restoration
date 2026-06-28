@@ -1,7 +1,4 @@
----
-Ingen push uten godkjenning!
-Viser utkast til Johnny før publisering.
----
+<!-- Utkast — vises til Johnny før publisering -->
 
 # Yamaha SR500 – shoppingliste
 
