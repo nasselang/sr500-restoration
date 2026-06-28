@@ -31,7 +31,6 @@ Sist oppdatert: 2026-06-28
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
 | Oxford eksosbånd | **Højstyling** | kr 330 | 🟡 Bestilt, venter levering |
-| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt |
 
 ---
 
@@ -77,12 +76,11 @@ Sist oppdatert: 2026-06-28
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | 🆕 Bestilt 27.06 |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | 🆕 Bestilt 26.06 |
-| 19 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
-| 20 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | 🟡 Bestilt, venter levering |
+| 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | 🟡 Bestilt, venter levering |
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | £22,45 | ~kr 307 | eBay | 🆕 Bestilt 28.06 |
-| | **Sum betalt hittil** | | **~kr 27 384** | | |
+| | **Sum betalt hittil** | | **~kr 26 876** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -92,10 +90,10 @@ Sist oppdatert: 2026-06-28
 | Bakdempere Zaddox RS2 (Motea) | fra ~kr 1 750 |
 | Fuel Tank + Seat Set VT1 (Motea) | ~kr 2 500 |
 | Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
-| Domino Push/Pull Throttle (Cafe Racer Garage) | ✅ Bestilt $48,41 (~kr 508) |
+
 | Motogadget rest (distributor, breakout, motoscope, plate, cable) | ~? |
 | **Estimert sum gjenstående** | **~kr 8 520+** |
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 27 384**
+**🔢 Totalt investert hittil: ~kr 26 876**
