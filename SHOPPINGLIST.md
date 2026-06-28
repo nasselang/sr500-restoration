@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-06-27
+Sist oppdatert: 2026-06-28
 
 ---
 
@@ -21,6 +21,7 @@ Sist oppdatert: 2026-06-27
 | Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | 🟢 Sendt 07.06 |
+| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | £22,45 | 🆕 Bestilt 28.06 (ETA 2-10 jul) |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -78,7 +79,8 @@ Sist oppdatert: 2026-06-27
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | 🟡 Bestilt, venter levering |
 | 20 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 21 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| | **Sum betalt hittil** | | **~kr 26 569** | | |
+| 22 | Oljefilter (4X7-13440-90-00) + O-ringer | £22,45 | ~kr 307 | eBay | 🆕 Bestilt 28.06 |
+| | **Sum betalt hittil** | | **~kr 26 876** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
