@@ -49,6 +49,7 @@ Sist oppdatert: 2026-06-28
 - Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99
 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96
 - Domino Push/Pull Throttle (Cafe Racer Garage) — $125,96 / ~kr 1 320
+- Bremseklosser foran EBC FA87 (organisk) — ca. kr 250–500
 
 ---
 
