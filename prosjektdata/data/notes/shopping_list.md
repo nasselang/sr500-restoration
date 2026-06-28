@@ -30,7 +30,7 @@ Sist oppdatert: 2026-06-28
 | VAPE Ignition SR500/TT500/XT500 | **TOLA-Tools** (#202652798) | €533,79 (~kr 6 200) | 🆕 Bestilt 26.06, PayPal ✅ |
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
-| Oxford eksosbånd | **Højstyling** | kr 330 | 🟡 Bestilt, venter levering |
+| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 
 ---
 
@@ -48,7 +48,7 @@ Sist oppdatert: 2026-06-28
 - Bakdempere Zaddox RS2 (Motea) — fra kr 1 747,49
 - Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99
 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96
-- Domino Push/Pull Throttle (Cafe Racer Garage) — $125,96 / ~kr 1 320
+- Bremseklosser foran EBC FA87 (organisk) — ca. kr 250–500
 
 ---
 
@@ -77,10 +77,11 @@ Sist oppdatert: 2026-06-28
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | 🆕 Bestilt 27.06 |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | 🆕 Bestilt 26.06 |
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | 🟡 Bestilt, venter levering |
-| 20 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
-| 21 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| 22 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🆕 Bestilt 28.06 |
-| | **Sum betalt hittil** | | **~kr 26 569** | | |
+| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
+| 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
+| 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
+| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🆕 Bestilt 28.06 |
+| | **Sum betalt hittil** | | **~kr 27 384** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -90,10 +91,10 @@ Sist oppdatert: 2026-06-28
 | Bakdempere Zaddox RS2 (Motea) | fra ~kr 1 750 |
 | Fuel Tank + Seat Set VT1 (Motea) | ~kr 2 500 |
 | Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
-| Domino Push/Pull Throttle (Cafe Racer Garage) | ~$126 (~kr 1 320) |
+
 | Motogadget rest (distributor, breakout, motoscope, plate, cable) | ~? |
 | **Estimert sum gjenstående** | **~kr 8 520+** |
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 26 569**
+**🔢 Totalt investert hittil: ~kr 27 384**
