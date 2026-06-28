@@ -50,6 +50,14 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 
 - **2026-05-31:** Sandblåser mottatt! Planen er å blåse deler først, ramma kommer etterpå.
 - **2026-06-08:** Sandblåser i drift! Styrekrone sandblåst med bra resultat.
+- **2026-06-19:** Ramme + svingarm tilbake fra Oslopulverlakk ✅ kr 5 250. Tank levert for lakkering.
+- **2026-06-22:** CMSNL flensbolt sendt (UPS sporing). eBay bestillinger: styre, forskjerm, verkstedhåndbok.
+- **2026-06-23:** Motogadget bestilt! mo.unit blue + mo.button + switches — €670 totalt.
+- **2026-06-26:** Svinghjulsavdrager (27×1mm LH) bestilt fra Thansen — kr 119.
+- **2026-06-26:** VAPE Ignition bestilt fra TOLA-Tools (#202652798) — €533,79 ~kr 6 200. PayPal ✅
+- **2026-06-27:** Lager+simring-sett forhjul bestilt fra Online MC (#89847) — kr 530
 
-Hvis noen av disse punktene skal utvides eller oppdateres ytterligere, gi meg beskjed! Nå er MEMORY.md på plass igjen.
+## Totalt investert hittil
+- ~kr 26 430
+
 - **Publiseringsrutine:** Alltid vis utkast til Johnny før publisering til GitHub Pages. Aldri push uten godkjenning. Blogg: https://nasselang.github.io/sr500-restoration/
