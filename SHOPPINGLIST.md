@@ -20,7 +20,7 @@ Sist oppdatert: 2026-06-28
 | Styre | kr 643 | 🟡 Bestilt (ETA 10-31 jul) |
 | Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
-| Låseskive frambrems (1J3-25834-01-00) | €16,88 | 🟢 Sendt 07.06 |
+| Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
 | Oljefilter (4X7-13440-90-00) + O-ringer ×2 | £22,45 | 🆕 Bestilt 28.06 (ETA 2-10 jul) |
 
 **Annet**
