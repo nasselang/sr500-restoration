@@ -40,6 +40,7 @@ Sist oppdatert: 2026-06-28
 
 **Deler**
 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96
+- Shido LTZ5S Lithium (alternativ) — ca. kr 800–1 200
 - Bremseklosser foran EBC FA87 (organisk) — ca. kr 250–500
 
 ---
