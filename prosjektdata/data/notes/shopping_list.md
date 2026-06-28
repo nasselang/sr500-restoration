@@ -32,6 +32,7 @@ Sist oppdatert: 2026-06-28
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
+| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🆕 Bestilt 28.06 |
 
 ---
 
@@ -79,7 +80,8 @@ Sist oppdatert: 2026-06-28
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🆕 Bestilt 28.06 |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
-| | **Sum betalt hittil** | | **~kr 27 659** | | |
+| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🆕 Bestilt 28.06 |
+| | **Sum betalt hittil** | | **~kr 27 823** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -91,4 +93,4 @@ Sist oppdatert: 2026-06-28
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 27 659**
+**🔢 Totalt investert hittil: ~kr 27 823**
