@@ -31,6 +31,7 @@ Sist oppdatert: 2026-06-28
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | 🆕 Bestilt 27.06 |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | 🚚 Sendt 22.06 (UPS) |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
+| Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
 | Oxford eksosbånd | **Højstyling** | kr 330 | ✅ Levert 28.06 |
 
 ---
@@ -76,7 +77,8 @@ Sist oppdatert: 2026-06-28
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | £22,45 | ~kr 307 | eBay | 🆕 Bestilt 28.06 |
-| | **Sum betalt hittil** | | **~kr 27 384** | | |
+| 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
+| | **Sum betalt hittil** | | **~kr 27 659** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -88,4 +90,4 @@ Sist oppdatert: 2026-06-28
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 27 384**
+**🔢 Totalt investert hittil: ~kr 27 659**
