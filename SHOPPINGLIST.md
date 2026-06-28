@@ -69,7 +69,7 @@ Sist oppdatert: 2026-06-28
 | 10 | Engine Cover Screw Bolt Set | £22,27 | ~kr 290 | — | ✅ Levert |
 | 11 | Biltema avfettingsspray | ~kr 300 | ~kr 300 | Biltema | ✅ Levert |
 | 12 | Flensbolt + klembolter ×2 | €37,35 | ~kr 430 | CMSNL | 🚚 Sendt 22.06 (UPS) |
-| 13 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay | 🚚 Sendt 07.06 |
+| 13 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay | ✅ Levert 28.06 |
 | 14 | Forskjerm | $92,21 | ~kr 968 | eBay | 🚚 Sendt, ETA 3-31 aug |
 | 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | 🟡 Bestilt 22.06 |
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
