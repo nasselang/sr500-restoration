@@ -37,11 +37,6 @@ Sist oppdatert: 2026-06-28
 ## ⏳ ØNSKES KJØPT / VURDERES
 
 **Elektronikk**
-- ground distributor (motogadget)
-- breakout box (motogadget)
-- motoscope pro (motogadget)
-- mounting plate (motogadget)
-- battery cable (motogadget)
 
 **Deler**
 - Cafe Racer / Scrambler-sete (Motea, Craftride flat brun) — kr 1 199,99
@@ -91,8 +86,6 @@ Sist oppdatert: 2026-06-28
 | Bakdempere Zaddox RS2 (Motea) | fra ~kr 1 750 |
 | Fuel Tank + Seat Set VT1 (Motea) | ~kr 2 500 |
 | Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
-
-| Motogadget rest (distributor, breakout, motoscope, plate, cable) | ~? |
 | **Estimert sum gjenstående** | **~kr 8 520+** |
 
 ---
