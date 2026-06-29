@@ -21,7 +21,7 @@ Sist oppdatert: 2026-06-28
 | Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
-| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | £22,45 | 🆕 Bestilt 28.06 (ETA 2-10 jul) |
+| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🆕 Bestilt 28.06 |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -33,7 +33,6 @@ Sist oppdatert: 2026-06-28
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🆕 Bestilt 28.06 |
-| Oxford eksosbånd | **Højstyling** | kr 330 | ✅ Levert 28.06 |
 
 ---
 
@@ -79,7 +78,7 @@ Sist oppdatert: 2026-06-28
 | 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | £22,45 | ~kr 307 | eBay | 🆕 Bestilt 28.06 |
+| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🆕 Bestilt 28.06 |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🆕 Bestilt 28.06 |
 | | **Sum betalt hittil** | | **~kr 27 823** | | |
