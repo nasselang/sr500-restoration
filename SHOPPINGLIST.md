@@ -1,12 +1,13 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-06-28
+Sist oppdatert: 2026-06-30
 
 ---
 
 ## ✅ BESTILT / UNDERVEIS
 
 **motogadget GmbH (#23606)** — €670 totalt (bestilt 22.06)
+🟢 **Klar til henting på Extra Skøyenåsen** — sporingsnr CE381818881DE, hentekode GJ66
 | Del | Pris |
 |---|---|
 | mo.unit blue | €335,29 |
@@ -21,7 +22,7 @@ Sist oppdatert: 2026-06-28
 | Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
-| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🆕 Bestilt 28.06 |
+| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Sendt (LO427521045GB) |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -70,7 +71,7 @@ Sist oppdatert: 2026-06-28
 | 12 | Flensbolt + klembolter ×2 | €37,35 | ~kr 430 | CMSNL | 🚚 Sendt 22.06 (UPS) |
 | 13 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay | ✅ Levert 28.06 |
 | 14 | Forskjerm | $92,21 | ~kr 968 | eBay | 🚚 Sendt, ETA 3-31 aug |
-| 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | 🟡 Bestilt 22.06 |
+| 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | 🟢 Ankommet (Extra Skøyenåsen, kode GJ66) |
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | 🆕 Bestilt 27.06 |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | 🆕 Bestilt 26.06 |
@@ -78,7 +79,7 @@ Sist oppdatert: 2026-06-28
 | 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🆕 Bestilt 28.06 |
+| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Sendt (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🆕 Bestilt 28.06 |
 | | **Sum betalt hittil** | | **~kr 27 823** | | |
