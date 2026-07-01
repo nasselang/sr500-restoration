@@ -1,10 +1,58 @@
-{"posts":[
-  {"file":"2026-06-21-styrekroner-gaffelbein-handlebar.html","date":"2026-06-21","title":"🔧 Styrekroner montert — nytt styre bestilt","desc":"Styrekronene er lakkerte og montert med gaffelbein. Nytt originalt sort styre bestilt fra eBay. Forstillingen tar form!"},
-  {"file":"2026-06-20-motor-rengjoring-styrekroner.html","date":"2026-06-20","title":"🧼 Motorrengjøring og lakkering av styrekroner","desc":"Motoren har fått en real omgang med avfetting. 45 år med oljegrime tar ikke av seg selv! I tillegg har styrekronene fått første strøk felglakk 🎨"},
-  {"file":"2026-06-19-ramme-hentet-pulverlakk.html","date":"2026-06-19","title":"🏗️ Ramma er hentet fra pulverlakkerer!","desc":"Ramma og svingarmen tilbake fra Oslopulverlakk — resultatet ble knallbra! Tanken levert for glassblåsing og lakk. Nye bilder 📸"},
-  {"file":"2026-06-11-ramme-lakk-sandblasting.html","date":"2026-06-11","title":"🔧 Sandblåsing i gang — ramma levert til lakk!","desc":"Sandblåseren har fått kjørt seg — begge styrekroner blåst. Ramma og svingarm levert til Oslopulverlakk. ~2 ukers ventetid."},
-  {"file":"2026-06-07-ramme-klar-for-lakk.html","date":"2026-06-07","title":"🏗️ Ramma klar — forstillingen demontert","desc":"Ramma rengjort og klar for pulverlakk i uke 24. Forstillingen demontert, gaffelrør sjekket, ny frontskjerm må på plass."},
-  {"file":"2026-05-24-motor-ute-ramme-klar.html","date":"2026-05-24","title":"🏗️ Motor ute — ramma ribbet og klar for lakk","desc":"Motoren er endelig ute av ramma. Ramma er ribbet og klar for dyprengjøring og pulverlakk. 37 nye bilder 📸"},
-  {"file":"2026-05-14-status-motor-ute-av-ramme.html","date":"2026-05-14","title":"🏗️ Motor løsnet fra ramma","desc":"Motoren er løsnet — rammen klar for pulverlakk. Neste steg og leverandørstatus."},
-  {"file":"2026-05-14-velkommen.html","date":"2026-05-14","title":"Velkommen til prosjektet!","desc":"Første post — bloggen er i gang 🏍️"}
-]}
+{
+    "posts": [
+        {
+            "file": "2026-07-01-sandblasting-motogadget-topploft.html",
+            "date": "2026-07-01",
+            "title": "🏗️ Sandblåsing, MotoGadget og toppløft",
+            "desc": "Sandblåsing av motorfester og rammedeler. MotoGadget-pakka er ankommet! Polering av deksler og beslutning om toppløft."
+        },
+        {
+            "file": "2026-06-21-styrekroner-gaffelbein-handlebar.html",
+            "date": "2026-06-21",
+            "title": "🔧 Styrekroner montert — nytt styre bestilt",
+            "desc": "Styrekronene er lakkerte og montert med gaffelbein. Nytt originalt sort styre bestilt fra eBay. Forstillingen tar form!"
+        },
+        {
+            "file": "2026-06-20-motor-rengjoring-styrekroner.html",
+            "date": "2026-06-20",
+            "title": "🧼 Motorrengjøring og lakkering av styrekroner",
+            "desc": "Motoren har fått en real omgang med avfetting. 45 år med oljegrime tar ikke av seg selv! I tillegg har styrekronene fått første strøk felglakk 🎨"
+        },
+        {
+            "file": "2026-06-19-ramme-hentet-pulverlakk.html",
+            "date": "2026-06-19",
+            "title": "🏗️ Ramma er hentet fra pulverlakkerer!",
+            "desc": "Ramma og svingarmen tilbake fra Oslopulverlakk — resultatet ble knallbra! Tanken levert for glassblåsing og lakk. Nye bilder 📸"
+        },
+        {
+            "file": "2026-06-11-ramme-lakk-sandblasting.html",
+            "date": "2026-06-11",
+            "title": "🔧 Sandblåsing i gang — ramma levert til lakk!",
+            "desc": "Sandblåseren har fått kjørt seg — begge styrekroner blåst. Ramma og svingarm levert til Oslopulverlakk. ~2 ukers ventetid."
+        },
+        {
+            "file": "2026-06-07-ramme-klar-for-lakk.html",
+            "date": "2026-06-07",
+            "title": "🏗️ Ramma klar — forstillingen demontert",
+            "desc": "Ramma rengjort og klar for pulverlakk i uke 24. Forstillingen demontert, gaffelrør sjekket, ny frontskjerm må på plass."
+        },
+        {
+            "file": "2026-05-24-motor-ute-ramme-klar.html",
+            "date": "2026-05-24",
+            "title": "🏗️ Motor ute — ramma ribbet og klar for lakk",
+            "desc": "Motoren er endelig ute av ramma. Ramma er ribbet og klar for dyprengjøring og pulverlakk. 37 nye bilder 📸"
+        },
+        {
+            "file": "2026-05-14-status-motor-ute-av-ramme.html",
+            "date": "2026-05-14",
+            "title": "🏗️ Motor løsnet fra ramma",
+            "desc": "Motoren er løsnet — rammen klar for pulverlakk. Neste steg og leverandørstatus."
+        },
+        {
+            "file": "2026-05-14-velkommen.html",
+            "date": "2026-05-14",
+            "title": "Velkommen til prosjektet!",
+            "desc": "Første post — bloggen er i gang 🏍️"
+        }
+    ]
+}
