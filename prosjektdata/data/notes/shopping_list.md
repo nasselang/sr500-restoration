@@ -33,7 +33,7 @@ Sist oppdatert: 2026-07-02
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
-| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🆕 Bestilt 28.06 |
+| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🟢 Klar til henting Extra Skøyenåsen |
 
 ---
 
@@ -71,7 +71,7 @@ Sist oppdatert: 2026-07-02
 | 12 | Flensbolt + klembolter ×2 | €37,35 | ~kr 430 | CMSNL | ✅ Mottatt |
 | 13 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay | ✅ Levert 28.06 |
 | 14 | Forskjerm | $92,21 | ~kr 968 | eBay | 🚚 Sendt, ETA 3-31 aug |
-| 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | ✅ Mottatt |
+| 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | ✅ Hentet Extra |
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | ✅ Mottatt |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | ✅ Mottatt |
@@ -81,7 +81,7 @@ Sist oppdatert: 2026-07-02
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Sendt (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
-| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🆕 Bestilt 28.06 |
+| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🟢 Klar til henting Extra |
 | | **Sum betalt hittil** | | **~kr 27 823** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
