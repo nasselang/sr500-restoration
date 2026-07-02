@@ -19,7 +19,7 @@ Sist oppdatert: 2026-07-02
 | Del | Pris | Status |
 |---|---|---|
 | Styre | kr 643 | 🟡 Bestilt (ETA 10-31 jul) |
-| Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
+| Forskjerm | $92,21 | ✅ Hentet 02.07 |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
 | Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Sendt (LO427521045GB) |
@@ -70,7 +70,7 @@ Sist oppdatert: 2026-07-02
 | 11 | Biltema avfettingsspray | ~kr 300 | ~kr 300 | Biltema | ✅ Levert |
 | 12 | Flensbolt + klembolter ×2 | €37,35 | ~kr 430 | CMSNL | ✅ Mottatt |
 | 13 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ~kr 194 | eBay | ✅ Levert 28.06 |
-| 14 | Forskjerm | $92,21 | ~kr 968 | eBay | 🚚 Sendt, ETA 3-31 aug |
+| 14 | Forskjerm | $92,21 | ~kr 968 | eBay | ✅ Hentet 02.07 |
 | 15 | motogadget (mo.unit, mo.button, mo.switch ×2) | ~€670 | ~kr 7 700 | motogadget GmbH | ✅ Hentet Extra |
 | 16 | VAPE Ignition (TOLA-Tools) | ~€534 | ~kr 6 200 | TOLA-Tools | 🆕 Bestilt 26.06 |
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | ✅ Mottatt |
