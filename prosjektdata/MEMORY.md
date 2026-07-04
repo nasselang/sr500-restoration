@@ -56,8 +56,10 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-06-26:** Svinghjulsavdrager (27×1mm LH) bestilt fra Thansen — kr 119.
 - **2026-06-26:** VAPE Ignition bestilt fra TOLA-Tools (#202652798) — €533,79 ~kr 6 200. PayPal ✅
 - **2026-06-27:** Lager+simring-sett forhjul bestilt fra Online MC (#89847) — kr 530
+- **2026-07-02:** CMSNL flensbolt, Motogadget-pakke, Online MC forhjul-sett og Thansen svinghjulsavdrager ✅ **Mottatt**
+- **2026-07-03:** ✅ **Tank hentet fra lakkering — sort finish!** Bilder lagret i `data/tank/`.
 
 ## Totalt investert hittil
-- ~kr 26 430
+- ~kr 27 823
 
 - **Publiseringsrutine:** Alltid vis utkast til Johnny før publisering til GitHub Pages. Aldri push uten godkjenning. Blogg: https://nasselang.github.io/sr500-restoration/

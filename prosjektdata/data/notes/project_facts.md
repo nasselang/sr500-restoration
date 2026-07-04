@@ -30,3 +30,4 @@
 - **2026-06-11:** Nedre styrekrone også sandblåst. ✅ Ramme + svingarm levert til Oslopulverlakk — forventet ferdig om ~2 uker.
 - **2026-06-19:** ✅ **Ramme og svingarm tilbake fra Oslopulverlakk!** 💰 kr 5 250. Superbra resultat! 🖼️ Nye bilder lastet opp til OneDrive.
 - **2026-06-19:** 🔄 **Tank levert for glassblåsing og lakkering.**
+- **2026-07-03:** ✅ **Tank hentet fra lakkering!** Sort finish. Bilder på OneDrive og i `data/tank/`.
