@@ -82,7 +82,8 @@ Sist oppdatert: 2026-07-02
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Sendt (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🟢 Klar til henting Extra |
-| | **Sum betalt hittil** | | **~kr 27 823** | | |
+| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🆕 Bestilt 05.07 |
+| | **Sum betalt hittil** | | **~kr 27 923** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -94,4 +95,4 @@ Sist oppdatert: 2026-07-02
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 27 823**
+**🔢 Totalt investert hittil: ~kr 27 923**
