@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-02
+Sist oppdatert: 2026-07-07
 
 ---
 
@@ -22,7 +22,7 @@ Sist oppdatert: 2026-07-02
 | Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
-| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Sendt (LO427521045GB) |
+| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -33,7 +33,7 @@ Sist oppdatert: 2026-07-02
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
-| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🟢 Klar til henting Extra Skøyenåsen |
+| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🟢 Klar til henting — Prinsesse, Bryn senter |
 
 ---
 
@@ -79,9 +79,9 @@ Sist oppdatert: 2026-07-02
 | 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
 | 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Sendt (LO427521045GB) |
+| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
-| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🟢 Klar til henting Extra |
+| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🟢 Klar til henting — Prinsesse, Bryn senter |
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🆕 Bestilt 05.07 |
 | | **Sum betalt hittil** | | **~kr 27 923** | | |
 
