@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-07
+Sist oppdatert: 2026-07-09
 
 ---
 
@@ -19,7 +19,7 @@ Sist oppdatert: 2026-07-07
 | Del | Pris | Status |
 |---|---|---|
 | Styre | kr 643 | 🟡 Bestilt (ETA 10-31 jul) |
-| Forskjerm | $92,21 | 🟢 Sendt (ETA 3-31 aug) |
+| Forskjerm | $92,21 | ✅ Hentet 02.07 |
 | Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
 | Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
@@ -33,7 +33,7 @@ Sist oppdatert: 2026-07-07
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
-| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | 🟢 Klar til henting — Prinsesse, Bryn senter |
+| 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 |
 
 ---
 
@@ -81,7 +81,7 @@ Sist oppdatert: 2026-07-07
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
-| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | 🟢 Klar til henting — Prinsesse, Bryn senter |
+| 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🆕 Bestilt 05.07 |
 | | **Sum betalt hittil** | | **~kr 27 923** | | |
 

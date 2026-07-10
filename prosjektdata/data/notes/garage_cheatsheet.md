@@ -47,6 +47,12 @@
 - Foran: 3.50-19
 - Bak: 4.00-18
 
+## Hjullagre (bak)
+- 1 × 6203ZZ (17×40×12, stålskjold) — item 3
+- 2 × 6203RS (17×40×12, gummipakning 1 side) — item 4
+- Oljetetning: 25×40×8 mm — item 5
+- Støvtetning: 1E6-25319-01-00 — item 25
+
 ## Gaffel
 - 35 mm
 - 182 cc olje per bein
