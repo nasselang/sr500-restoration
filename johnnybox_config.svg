@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1450" width="1000" height="1450">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d29922"/>
+      <stop offset="100%" stop-color="#bb8009"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="100%" stop-color="#1f6feb"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="1450" fill="url(#bg)" rx="12"/>
+
+  <!-- Title -->
+  <text x="500" y="42" text-anchor="middle" fill="#58a6ff" font-size="24" font-weight="bold" font-family="sans-serif">🔧 JohnnyBox — Systemkonfigurasjon</text>
+  <text x="500" y="62" text-anchor="middle" fill="#8b949e" font-size="14" font-family="sans-serif">Per 2026-05-11 · WSL2 på Windows 11 · OpenClaw</text>
+
+  <!-- ========== LAYER 1 ========== -->
+  <rect x="20" y="80" width="960" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="102" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">📦 LAG 1 — Vertsmaskin</text>
+
+  <rect x="35" y="112" width="440" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="136" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🪟 Windows 11 — JohnnyBox</text>
+  <text x="48" y="156" fill="#8b949e" font-size="12" font-family="sans-serif">6.6.87.2-WSL2-kernel · NVIDIA GPU</text>
+  <text x="48" y="174" fill="#8b949e" font-size="12" font-family="sans-serif">OneDrive via /mnt/c · VS Code · Git</text>
+
+  <rect x="490" y="112" width="225" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="503" y="136" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">💻 VS Code</text>
+  <text x="503" y="156" fill="#8b949e" font-size="12" font-family="sans-serif">GitHub Copilot</text>
+  <text x="503" y="174" fill="#8b949e" font-size="12" font-family="sans-serif">WSL2 remote</text>
+
+  <rect x="730" y="112" width="235" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="743" y="136" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">📂 Windows Filsystem</text>
+  <text x="743" y="156" fill="#8b949e" font-size="12" font-family="sans-serif">/mnt/c/Users/nasse/</text>
+  <text x="743" y="174" fill="#8b949e" font-size="12" font-family="sans-serif">OneDrive · Downloads</text>
+
+  <!-- Arrow 1→2 -->
+  <polygon points="500,205 490,205 500,215 510,205" fill="#30363d"/>
+  <line x1="500" y1="200" x2="500" y2="205" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 2 ========== -->
+  <rect x="20" y="218" width="960" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="240" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">🐧 LAG 2 — WSL2 (Ubuntu 24.04 LTS)</text>
+
+  <rect x="35" y="250" width="310" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="274" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🐚 Bash</text>
+  <text x="48" y="294" fill="#8b949e" font-size="12" font-family="sans-serif">Standard shell</text>
+  <text x="48" y="312" fill="#8b949e" font-size="12" font-family="sans-serif">JohnnyBox-terminal</text>
+
+  <rect x="355" y="250" width="310" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="368" y="274" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🟩 Node.js v24.14.1</text>
+  <text x="368" y="294" fill="#8b949e" font-size="12" font-family="sans-serif">Via nvm</text>
+  <text x="368" y="312" fill="#8b949e" font-size="12" font-family="sans-serif">OpenClaw kjører her</text>
+
+  <rect x="675" y="250" width="290" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="688" y="274" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🐍 Python 3</text>
+  <text x="688" y="294" fill="#8b949e" font-size="12" font-family="sans-serif">lookup.py · regnr</text>
+  <text x="688" y="312" fill="#8b949e" font-size="12" font-family="sans-serif">gcalcli</text>
+
+  <!-- Arrow 2→3 -->
+  <polygon points="500,343 490,343 500,353 510,343" fill="#30363d"/>
+  <line x1="500" y1="338" x2="500" y2="343" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 3 ========== -->
+  <rect x="20" y="356" width="960" height="135" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="378" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">🤖 LAG 3 — OpenClaw Engine</text>
+
+  <rect x="35" y="390" width="225" height="90" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="414" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🚪 Gateway</text>
+  <text x="48" y="434" fill="#8b949e" font-size="11" font-family="sans-serif">localhost:18789 · loopback</text>
+  <text x="48" y="452" fill="#8b949e" font-size="11" font-family="sans-serif">Token-autentisering</text>
+  <text x="48" y="470" fill="#8b949e" font-size="11" font-family="sans-serif">Local mode</text>
+
+  <rect x="272" y="390" width="225" height="90" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="285" y="414" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🧠 Modeller</text>
+  <rect x="285" y="424" width="60" height="18" rx="3" fill="#238636"/><text x="290" y="437" fill="#fff" font-size="10" font-family="sans-serif">primær</text>
+  <text x="350" y="437" fill="#8b949e" font-size="11" font-family="sans-serif">DeepSeek V4 Flash</text>
+  <rect x="285" y="447" width="50" height="18" rx="3" fill="#1f6feb"/><text x="290" y="460" fill="#fff" font-size="10" font-family="sans-serif">fallback</text>
+  <text x="340" y="460" fill="#8b949e" font-size="11" font-family="sans-serif">GPT-4o / GPT-4.1</text>
+
+  <rect x="509" y="390" width="225" height="90" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="522" y="414" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🧩 Profil</text>
+  <rect x="522" y="424" width="48" height="18" rx="3" fill="#238636"/><text x="527" y="437" fill="#fff" font-size="10" font-family="sans-serif">coding</text>
+  <text x="575" y="437" fill="#8b949e" font-size="11" font-family="sans-serif">Tools profile</text>
+  <text x="522" y="460" fill="#8b949e" font-size="11" font-family="sans-serif">Web search: DuckDuckGo</text>
+
+  <rect x="746" y="390" width="220" height="90" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="759" y="414" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🧬 Minne</text>
+  <text x="759" y="434" fill="#8b949e" font-size="11" font-family="sans-serif">memory-lancedb</text>
+  <text x="759" y="452" fill="#8b949e" font-size="11" font-family="sans-serif">memory-wiki</text>
+  <text x="759" y="470" fill="#8b949e" font-size="11" font-family="sans-serif">Daglige logger</text>
+
+  <!-- Arrow 3→4 -->
+  <polygon points="500,496 490,496 500,506 510,496" fill="#30363d"/>
+  <line x1="500" y1="491" x2="500" y2="496" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 4 ========== -->
+  <rect x="20" y="509" width="960" height="82" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="531" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">👤 LAG 4 — Agenter</text>
+
+  <rect x="35" y="542" width="460" height="38" rx="8" fill="#1c2333" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="48" y="566" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🔧 main</text>
+  <rect x="85" y="552" width="55" height="18" rx="3" fill="#1f6feb"/><text x="91" y="565" fill="#fff" font-size="10" font-family="sans-serif">default</text>
+  <text x="148" y="566" fill="#8b949e" font-size="12" font-family="sans-serif">Primæragent · workspace root · Generell assistent</text>
+
+  <rect x="505" y="542" width="460" height="38" rx="8" fill="#1c2333" stroke="#d29922" stroke-width="1.5"/>
+  <text x="518" y="566" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🏍️ sr500</text>
+  <text x="580" y="566" fill="#8b949e" font-size="12" font-family="sans-serif">Dedikert SR500-agent · Eget workspace, SOUL, IDENTITY</text>
+
+  <!-- Arrow 4→5 -->
+  <polygon points="500,596 490,596 500,606 510,596" fill="#30363d"/>
+  <line x1="500" y1="591" x2="500" y2="596" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 5 ========== -->
+  <rect x="20" y="609" width="960" height="195" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="631" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">📁 LAG 5 — Workspace (main)</text>
+
+  <!-- Row 1 -->
+  <rect x="35" y="644" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="663" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">📜 AGENTS.md</text>
+  <text x="48" y="680" fill="#8b949e" font-size="10" font-family="sans-serif">Personlighet &amp; regler</text>
+
+  <rect x="222" y="644" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="235" y="663" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">💫 SOUL.md</text>
+  <text x="235" y="680" fill="#8b949e" font-size="10" font-family="sans-serif">Kjernedentitet</text>
+
+  <rect x="409" y="644" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="422" y="663" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">👤 USER.md</text>
+  <text x="422" y="680" fill="#8b949e" font-size="10" font-family="sans-serif">Johnny · SR500-eier</text>
+
+  <rect x="596" y="644" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="609" y="663" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">🧠 MEMORY.md</text>
+  <text x="609" y="680" fill="#8b949e" font-size="10" font-family="sans-serif">Langtidsminne</text>
+
+  <rect x="783" y="644" width="183" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="796" y="663" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">💚 HEARTBEAT.md</text>
+  <text x="796" y="680" fill="#8b949e" font-size="10" font-family="sans-serif">eBay-sjekk 12:00</text>
+
+  <!-- Row 2 -->
+  <rect x="35" y="698" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="717" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">📔 memory/</text>
+  <text x="48" y="734" fill="#8b949e" font-size="10" font-family="sans-serif">Daglige logger</text>
+
+  <rect x="222" y="698" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="235" y="717" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">📚 bibliotek/</text>
+  <text x="235" y="734" fill="#8b949e" font-size="10" font-family="sans-serif">Vegvesen-oppslag</text>
+
+  <rect x="409" y="698" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="422" y="717" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">🔌 skills/</text>
+  <text x="422" y="734" fill="#8b949e" font-size="10" font-family="sans-serif">gcalcli</text>
+
+  <rect x="596" y="698" width="180" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="609" y="717" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">⚙️ state/</text>
+  <text x="609" y="734" fill="#8b949e" font-size="10" font-family="sans-serif">Tilstand &amp; sessions</text>
+
+  <rect x="783" y="698" width="183" height="47" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="796" y="717" fill="#f0f6fc" font-size="13" font-weight="bold" font-family="sans-serif">📥 downloads/</text>
+  <text x="796" y="734" fill="#8b949e" font-size="10" font-family="sans-serif">Nedlastede filer</text>
+
+  <!-- SR500 Section -->
+  <rect x="35" y="755" width="930" height="47" rx="8" fill="#1c2333" stroke="#d29922" stroke-width="1.5"/>
+  <text x="50" y="774" fill="#d29922" font-size="13" font-weight="bold" font-family="sans-serif">🏍️ SR500-agentens workspace</text>
+  <text x="230" y="774" fill="#8b949e" font-size="11" font-family="sans-serif">📊 data/ (deler, CSV)</text>
+  <text x="380" y="774" fill="#8b949e" font-size="11" font-family="sans-serif">📑 reference/ (PDF-kataloger)</text>
+  <text x="560" y="774" fill="#8b949e" font-size="11" font-family="sans-serif">📚 bibliotek/</text>
+  <text x="680" y="774" fill="#8b949e" font-size="11" font-family="sans-serif">📸 Bilder → OneDrive</text>
+
+  <!-- Arrow 5→6 -->
+  <polygon points="500,809 490,809 500,819 510,809" fill="#30363d"/>
+  <line x1="500" y1="804" x2="500" y2="809" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 6 ========== -->
+  <rect x="20" y="822" width="960" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="844" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">🔗 LAG 6 — Tjenester &amp; Integrasjoner</text>
+
+  <rect x="35" y="856" width="225" height="75" rx="8" fill="#1c2333" stroke="#4285f466" stroke-width="1"/>
+  <text x="48" y="880" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">📧 Google</text>
+  <text x="48" y="900" fill="#8b949e" font-size="11" font-family="sans-serif">Gmail · Calendar · Drive</text>
+  <text x="48" y="918" fill="#8b949e" font-size="11" font-family="sans-serif">via gog CLI</text>
+
+  <rect x="272" y="856" width="225" height="75" rx="8" fill="#1c2333" stroke="#26a5e466" stroke-width="1"/>
+  <text x="285" y="880" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">📱 Telegram</text>
+  <text x="285" y="900" fill="#8b949e" font-size="11" font-family="sans-serif">Bot-kanal</text>
+  <text x="285" y="918" fill="#8b949e" font-size="11" font-family="sans-serif">Hovedkommunikasjon</text>
+
+  <rect x="509" y="856" width="225" height="75" rx="8" fill="#1c2333" stroke="#f5a62366" stroke-width="1"/>
+  <text x="522" y="880" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🦆 DuckDuckGo</text>
+  <text x="522" y="900" fill="#8b949e" font-size="11" font-family="sans-serif">Web search</text>
+  <text x="522" y="918" fill="#8b949e" font-size="11" font-family="sans-serif">eBay-søk</text>
+
+  <rect x="746" y="856" width="220" height="75" rx="8" fill="#1c2333" stroke="#8957e566" stroke-width="1"/>
+  <text x="759" y="880" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🎤 ElevenLabs</text>
+  <text x="759" y="900" fill="#8b949e" font-size="11" font-family="sans-serif">TTS</text>
+  <text x="759" y="918" fill="#8b949e" font-size="11" font-family="sans-serif">Voice storytelling</text>
+
+  <!-- Arrow 6→7 -->
+  <polygon points="500,947 490,947 500,957 510,947" fill="#30363d"/>
+  <line x1="500" y1="942" x2="500" y2="947" stroke="#30363d" stroke-width="2"/>
+
+  <!-- ========== LAYER 7 ========== -->
+  <rect x="20" y="960" width="960" height="120" rx="10" fill="#161b22" stroke="#30363d" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="35" y="982" fill="#58a6ff" font-size="13" font-weight="bold" font-family="sans-serif" letter-spacing="1.5">🛠️ LAG 7 — Lokale verktøy</text>
+
+  <rect x="35" y="994" width="310" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="48" y="1018" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">📋 regnr</text>
+  <text x="48" y="1038" fill="#8b949e" font-size="11" font-family="sans-serif">Oppslag på norske reg.merker</text>
+  <text x="48" y="1056" fill="#8b949e" font-size="11" font-family="sans-serif">Automatisk Veivesen-data</text>
+
+  <rect x="355" y="994" width="295" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="368" y="1018" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">🔍 lookup.py</text>
+  <text x="368" y="1038" fill="#8b949e" font-size="11" font-family="sans-serif">SR500-delesøk i CSV-data</text>
+
+  <rect x="660" y="994" width="305" height="75" rx="8" fill="#1c2333" stroke="#58a6ff44" stroke-width="1"/>
+  <text x="673" y="1018" fill="#f0f6fc" font-size="14" font-weight="bold" font-family="sans-serif">📅 gcalcli</text>
+  <text x="673" y="1038" fill="#8b949e" font-size="11" font-family="sans-serif">Google Calendar i terminalen</text>
+
+  <!-- Legend -->
+  <rect x="20" y="1095" width="960" height="45" rx="8" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="50" y="1110" width="12" height="12" rx="6" fill="#238636"/>
+  <text x="68" y="1120" fill="#8b949e" font-size="11" font-family="sans-serif">primærmodell</text>
+  <rect x="155" y="1110" width="12" height="12" rx="6" fill="#1f6feb"/>
+  <text x="173" y="1120" fill="#8b949e" font-size="11" font-family="sans-serif">standard/fallback</text>
+  <rect x="290" y="1110" width="12" height="12" rx="6" fill="#d29922"/>
+  <text x="308" y="1120" fill="#8b949e" font-size="11" font-family="sans-serif">SR500-spesifikk</text>
+  <rect x="405" y="1110" width="12" height="12" rx="6" fill="#8957e5"/>
+  <text x="423" y="1120" fill="#8b949e" font-size="11" font-family="sans-serif">tredjepartstjeneste</text>
+  <text x="540" y="1120" fill="#8b949e" font-size="11" font-family="sans-serif">🔧 main-agent · 🏍️ sr500-agent</text>
+
+  <!-- Footer -->
+  <text x="500" y="1165" text-anchor="middle" fill="#484f58" font-size="11" font-family="sans-serif">Generert 2026-05-11 · Oversikt over JohnnyBox sin OpenClaw-konfigurasjon</text>
+</svg>

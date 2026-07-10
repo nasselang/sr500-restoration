@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🏍️ SR500 — Interaktiv Deleoversikt</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{
+  background:#0d1117;color:#e6edf3;
+  font-family:'Segoe UI',system-ui,-apple-system,sans-serif;
+  min-height:100vh;overflow-x:hidden
+}
+.header{
+  text-align:center;padding:20px 20px 10px;
+  border-bottom:1px solid #21262d;
+}
+.header h1{font-size:1.4em;color:#d29922}
+.header p{color:#8b949e;font-size:.85em;margin-top:4px}
+.main{display:flex;flex-direction:column;gap:0;max-width:1200px;margin:0 auto}
+
+/* SVG area */
+.svg-wrap{
+  background:#161b22;padding:10px;border-bottom:1px solid #21262d;
+  position:relative;overflow:hidden
+}
+.svg-wrap svg{width:100%;height:auto;display:block}
+
+/* Legend */
+.legend{
+  display:flex;gap:12px;flex-wrap:wrap;justify-content:center;
+  padding:8px;font-size:.75em;color:#8b949e;
+  border-bottom:1px solid #21262d;background:#0d1117
+}
+.legend span{display:flex;align-items:center;gap:5px}
+.dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+
+/* Panel */
+.panel{
+  background:#161b22;padding:16px;min-height:200px;
+  transition:all .3s ease
+}
+.panel-placeholder{
+  text-align:center;padding:40px 20px;color:#484f58
+}
+.panel-placeholder h3{font-size:1.1em;margin-bottom:8px}
+.panel-placeholder p{font-size:.85em}
+.panel-header{
+  display:flex;justify-content:space-between;align-items:center;
+  margin-bottom:12px;padding-bottom:8px;
+  border-bottom:1px solid #21262d
+}
+.panel-header h2{font-size:1.1em;color:#d29922}
+.panel-header .status{font-size:.75em;padding:2px 8px;border-radius:3px}
+.status-todo{background:#9e6a03;color:#fff}
+.status-wip{background:#1f6feb;color:#fff}
+.status-done{background:#238636;color:#fff}
+.panel-body{font-size:.85em;line-height:1.6}
+.panel-body table{width:100%;border-collapse:collapse;margin-top:8px}
+.panel-body th,.panel-body td{
+  text-align:left;padding:4px 8px;border-bottom:1px solid #21262d
+}
+.panel-body th{color:#8b949e;font-weight:600;font-size:.8em}
+.panel-body td{font-size:.82em}
+.panel-body .sup{color:#58a6ff;text-decoration:none}
+.panel-body .sup:hover{text-decoration:underline}
+.panel-body .img-note{color:#d29922;font-style:italic;margin-top:8px}
+.panel-body .subtitle{color:#8b949e;font-size:.85em;margin-bottom:6px}
+
+/* Part tooltips on SVG */
+.part-label{font-size:9px;fill:#8b949e;font-family:sans-serif}
+.part-title{font-size:10px;font-weight:bold;fill:#e6edf3;font-family:sans-serif}
+
+/* SVG hover/active effects */
+.clickable{cursor:pointer;transition:opacity .2s}
+.clickable:hover{opacity:1!important;filter:drop-shadow(0 0 6px rgba(88,166,255,.5))}
+.clickable.active{filter:drop-shadow(0 0 10px rgba(210,153,34,.7))}
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>🏍️ SR500 — Interaktiv Deleoversikt</h1>
+  <p>Klikk på en komponent for å se delenummer, bilder og leverandører</p>
+</div>
+
+<div class="main">
+
+<!-- SVG -->
+<div class="svg-wrap">
+<svg viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+
+<!-- Background -->
+<rect width="900" height="420" fill="#161b22" rx="8"/>
+
+<!-- ============= FRONT WHEEL ============= -->
+<g class="clickable" data-part="frontwheel" opacity=".85">
+  <circle cx="160" cy="340" r="60" fill="none" stroke="#30363d" stroke-width="5"/>
+  <circle cx="160" cy="340" r="52" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="160" cy="340" r="8" fill="#484f58"/>
+  <line x1="160" y1="285" x2="160" y2="395" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="105" y1="340" x2="215" y2="340" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="121" y1="301" x2="199" y2="379" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="199" y1="301" x2="121" y2="379" stroke="#30363d" stroke-width="1.5"/>
+  <text x="160" y="406" text-anchor="middle" class="part-label">🔘 Forhjul</text>
+</g>
+
+<!-- ============= REAR WHEEL ============= -->
+<g class="clickable" data-part="rearwheel" opacity=".85">
+  <circle cx="710" cy="340" r="60" fill="none" stroke="#30363d" stroke-width="5"/>
+  <circle cx="710" cy="340" r="52" fill="none" stroke="#30363d" stroke-width="2"/>
+  <circle cx="710" cy="340" r="8" fill="#484f58"/>
+  <line x1="710" y1="285" x2="710" y2="395" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="655" y1="340" x2="765" y2="340" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="671" y1="301" x2="749" y2="379" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="749" y1="301" x2="671" y2="379" stroke="#30363d" stroke-width="1.5"/>
+  <!-- sprocket -->
+  <circle cx="710" cy="340" r="18" fill="none" stroke="#484f58" stroke-width="2"/>
+  <circle cx="710" cy="340" r="14" fill="none" stroke="#484f58" stroke-width="1"/>
+  <text x="710" y="406" text-anchor="middle" class="part-label">🔘 Baknav/Hjul</text>
+</g>
+
+<!-- ============= FRONT FENDER ============= -->
+<g class="clickable" data-part="frontfender-rearfender" opacity=".75">
+  <path d="M100 295 Q130 270 220 295" fill="none" stroke="#484f58" stroke-width="4" stroke-linecap="round"/>
+  <text x="160" y="270" text-anchor="middle" class="part-label">🔘 Fremre skjerm</text>
+</g>
+
+<!-- ============= REAR FENDER ============= -->
+<g class="clickable" data-part="frontfender-rearfender" opacity=".75">
+  <path d="M650 295 Q680 265 770 295" fill="none" stroke="#484f58" stroke-width="4" stroke-linecap="round"/>
+  <text x="710" y="268" text-anchor="middle" class="part-label">🔘 Bakre skjerm</text>
+</g>
+
+<!-- ============= FRONT FORK ============= -->
+<g class="clickable" data-part="frontfork" opacity=".85">
+  <!-- Fork tubes -->
+  <line x1="185" y1="160" x2="160" y2="280" stroke="#8b949e" stroke-width="6" stroke-linecap="round"/>
+  <line x1="210" y1="155" x2="195" y2="280" stroke="#8b949e" stroke-width="6" stroke-linecap="round"/>
+  <!-- Fork caps -->
+  <rect x="178" y="150" width="14" height="12" rx="3" fill="#484f58"/>
+  <rect x="204" y="146" width="14" height="12" rx="3" fill="#484f58"/>
+  <!-- Lower legs -->
+  <line x1="160" y1="230" x2="160" y2="280" stroke="#6e7681" stroke-width="8" stroke-linecap="round"/>
+  <line x1="195" y1="230" x2="195" y2="280" stroke="#6e7681" stroke-width="8" stroke-linecap="round"/>
+  <!-- Triple clamps -->
+  <rect x="160" y="158" width="50" height="6" rx="2" fill="#484f58"/>
+  <rect x="165" y="175" width="45" height="6" rx="2" fill="#484f58"/>
+  <text x="188" y="200" text-anchor="middle" class="part-label">🔘 Framgaffel</text>
+</g>
+
+<!-- ============= HANDLEBARS ============= -->
+<g class="clickable" data-part="handlebar" opacity=".85">
+  <path d="M165 155 Q180 130 240 135 Q260 136 270 145" fill="none" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+  <text x="240" y="128" text-anchor="middle" class="part-label">🔘 Styret</text>
+</g>
+
+<!-- ============= HEADLIGHT ============= -->
+<g class="clickable" data-part="handlebarcable" opacity=".7">
+  <circle cx="175" cy="148" r="15" fill="none" stroke="#484f58" stroke-width="3"/>
+  <circle cx="175" cy="148" r="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <text x="175" y="130" text-anchor="middle" class="part-label">🔘 Elektrisk</text>
+</g>
+
+<!-- ============= FRAME (backbone) ============= -->
+<g class="clickable" data-part="frame" opacity=".7">
+  <!-- Main spine -->
+  <path d="M210 180 L320 175 L400 180 L430 185" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <!-- Down tube -->
+  <path d="M320 175 L310 260 L290 290 L275 300" fill="none" stroke="#58a6ff" stroke-width="4" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <!-- Seat rail -->
+  <path d="M430 185 L550 195 L620 220 L650 260" fill="none" stroke="#58a6ff" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <!-- Rear subframe -->
+  <path d="M430 185 L460 220 L500 260" fill="none" stroke="#58a6ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <path d="M500 260 L620 220" fill="none" stroke="#58a6ff" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="6,3"/>
+  <!-- Swingarm pivot area -->
+  <circle cx="430" cy="275" r="5" fill="#58a6ff" opacity=".5"/>
+  <text x="380" y="155" text-anchor="middle" class="part-label">🔘 Ramme</text>
+</g>
+
+<!-- ============= REAR ARM (swingarm) ============= -->
+<g class="clickable" data-part="reararm" opacity=".75">
+  <line x1="430" y1="275" x2="650" y2="280" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+  <line x1="430" y1="275" x2="650" y2="270" stroke="#6e7681" stroke-width="4" stroke-linecap="round"/>
+  <text x="540" y="295" text-anchor="middle" class="part-label">🔘 Bakarm</text>
+</g>
+
+<!-- ============= REAR SHOCKS ============= -->
+<g class="clickable" data-part="reararm" opacity=".75">
+  <line x1="530" y1="195" x2="560" y2="275" stroke="#484f58" stroke-width="4" stroke-linecap="round"/>
+  <line x1="535" y1="195" x2="565" y2="275" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+  <!-- Spring coils -->
+  <line x1="533" y1="230" x2="533" y2="250" stroke="#58a6ff" stroke-width="1.5"/>
+  <line x1="536" y1="225" x2="536" y2="255" stroke="#58a6ff" stroke-width="1"/>  
+  <rect x="525" y="192" width="16" height="8" rx="2" fill="#484f58"/>
+</g>
+
+<!-- ============= ENGINE (CRANKCASE) ============= -->
+<g class="clickable" data-part="crankcase" opacity=".85">
+  <ellipse cx="340" cy="265" rx="55" ry="30" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <path d="M290 255 L390 255 L380 290 L300 290 Z" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <!-- Engine fins detail -->
+  <line x1="295" y1="260" x2="385" y2="260" stroke="#484f58" stroke-width="1"/>
+  <line x1="297" y1="268" x2="383" y2="268" stroke="#484f58" stroke-width="1"/>
+  <line x1="299" y1="276" x2="381" y2="276" stroke="#484f58" stroke-width="1"/>
+  <!-- Drain plug -->
+  <circle cx="340" cy="290" r="3" fill="#484f58"/>
+  <text x="340" y="310" text-anchor="middle" class="part-label">🔘 Motorblokk</text>
+</g>
+
+<!-- ============= CYLINDER & HEAD ============= -->
+<g class="clickable" data-part="cylinder" opacity=".85">
+  <rect x="315" y="195" width="50" height="60" rx="3" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <!-- Cylinder fins -->
+  <line x1="315" y1="200" x2="365" y2="200" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="315" y1="208" x2="365" y2="208" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="315" y1="216" x2="365" y2="216" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="315" y1="224" x2="365" y2="224" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="315" y1="232" x2="365" y2="232" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="315" y1="240" x2="365" y2="240" stroke="#484f58" stroke-width="1.5"/>
+  <text x="340" y="185" text-anchor="middle" class="part-label">🔘 Sylinder</text>
+</g>
+
+<!-- ============= CYLINDER HEAD ============= -->
+<g class="clickable" data-part="cylinderhead" opacity=".85">
+  <rect x="312" y="180" width="56" height="18" rx="3" fill="#6e7681" stroke="#8b949e" stroke-width="1.5"/>
+  <!-- Valve cover -->
+  <rect x="322" y="178" width="36" height="6" rx="2" fill="#484f58"/>
+  <text x="340" y="168" text-anchor="middle" class="part-label">🔘 Topplokk</text>
+</g>
+
+<!-- ============= EXHAUST ============= -->
+<g class="clickable" data-part="exhaust" opacity=".8">
+  <!-- Header pipe -->
+  <path d="M320 250 Q290 260 280 280 Q270 300 300 315 Q340 330 450 335 Q550 338 620 330 Q660 325 690 335" 
+        fill="none" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+  <!-- Muffler -->
+  <ellipse cx="700" cy="335" rx="18" ry="10" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <text x="500" y="355" text-anchor="middle" class="part-label">🔘 Eksosanlegg</text>
+</g>
+
+<!-- ============= INTAKE / CARBURETOR ============= -->
+<g class="clickable" data-part="carburetor" opacity=".8">
+  <rect x="368" y="215" width="28" height="30" rx="4" fill="#6e7681" stroke="#8b949e" stroke-width="1.5"/>
+  <!-- Intake manifold -->
+  <path d="M365 225 L390 230" fill="none" stroke="#484f58" stroke-width="3"/>
+  <!-- Air filter box -->
+  <rect x="395" y="218" width="22" height="24" rx="4" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="400" y="208" text-anchor="middle" class="part-label">🔘 Forgasser</text>
+</g>
+
+<!-- ============= FUEL TANK ============= -->
+<g class="clickable" data-part="fueltank" opacity=".85">
+  <path d="M230 175 Q240 155 300 150 Q360 148 400 160 L415 180 L415 185 Q380 185 360 180 L240 182 Z" 
+        fill="#30363d" stroke="#d29922" stroke-width="2"/>
+  <!-- Tank graphic line -->
+  <path d="M240 170 Q300 160 400 170" fill="none" stroke="#d29922" stroke-width="1" opacity=".5"/>
+  <!-- Gas cap -->
+  <ellipse cx="310" cy="150" rx="8" ry="4" fill="#484f58"/>
+  <text x="330" y="143" text-anchor="middle" class="part-label">🔘 Drivstofftank</text>
+</g>
+
+<!-- ============= SEAT ============= -->
+<g class="clickable" data-part="seat" opacity=".85">
+  <path d="M420 180 Q470 175 550 185 Q600 193 620 210 L620 218 Q550 210 500 205 L420 200 Z" 
+        fill="#30363d" stroke="#6e7681" stroke-width="1.5"/>
+  <text x="530" y="175" text-anchor="middle" class="part-label">🔘 Sete</text>
+</g>
+
+<!-- ============= SIDE COVERS ============= -->
+<g class="clickable" data-part="sidecover" opacity=".75">
+  <path d="M400 190 L420 225 L430 220 L430 190 Z" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <rect x="432" y="192" width="30" height="35" rx="3" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="470" y="215" text-anchor="middle" class="part-label">🔘 Sidecovers</text>
+</g>
+
+<!-- ============= KICKSTARTER ============= -->
+<g class="clickable" data-part="kickstarter" opacity=".8">
+  <path d="M280 280 L265 300 L255 315 L250 325" fill="none" stroke="#8b949e" stroke-width="3" stroke-linecap="round"/>
+  <!-- Pedal -->
+  <ellipse cx="249" cy="328" rx="8" ry="4" fill="#484f58"/>
+  <text x="255" y="342" text-anchor="middle" class="part-label">🔘 Kickstarter</text>
+</g>
+
+<!-- ============= MAGNETO AREA ============= -->
+<g class="clickable" data-part="magneto" opacity=".7">
+  <circle cx="290" cy="275" r="12" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <circle cx="290" cy="275" r="6" fill="none" stroke="#484f58" stroke-width="1"/>
+  <text x="275" y="300" text-anchor="middle" class="part-label">🔘 Magneto</text>
+</g>
+
+<!-- ============= CLUTCH / TRANSMISSION ============= -->
+<g class="clickable" data-part="clutch" opacity=".75">
+  <ellipse cx="380" cy="275" rx="18" ry="14" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <circle cx="380" cy="275" r="6" fill="none" stroke="#484f58" stroke-width="1"/>
+  <text x="400" y="300" text-anchor="middle" class="part-label">🔘 Clutch/Gir</text>
+</g>
+
+<!-- ============= SHIFT PEDAL ============= -->
+<g class="clickable" data-part="shiftcampedal" opacity=".7">
+  <path d="M385 285 L395 310 L400 320" fill="none" stroke="#484f58" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="401" cy="323" rx="5" ry="3" fill="#484f58"/>
+  <text x="390" y="338" text-anchor="middle" class="part-label">🔘 Girpedal</text>
+</g>
+
+<!-- ============= FOOTPEGS / STANDS ============= -->
+<g class="clickable" data-part="standfootrest" opacity=".7">
+  <line x1="350" y1="295" x2="350" y2="315" stroke="#484f58" stroke-width="2.5"/>
+  <rect x="344" y="314" width="12" height="4" rx="1" fill="#484f58"/>
+  <line x1="450" y1="300" x2="450" y2="318" stroke="#484f58" stroke-width="2.5"/>
+  <rect x="445" y="317" width="12" height="4" rx="1" fill="#484f58"/>
+  <text x="400" y="330" text-anchor="middle" class="part-label">🔘 Støtte/fothvilere</text>
+</g>
+
+<!-- ============= CRANKSHAFT ============= -->
+<g class="clickable" data-part="crankshaft" opacity=".7">
+  <circle cx="330" cy="270" r="8" fill="none" stroke="#484f58" stroke-width="1.5" stroke-dasharray="3,2"/>
+  <text x="330" cy="280" class="part-label" y="293">🔘 Veivaksel</text>
+</g>
+
+<!-- ============= VALVES / CAMSHAFT ============= -->
+<g class="clickable" data-part="valve" opacity=".6">
+  <rect x="330" y="178" width="20" height="8" rx="2" fill="none" stroke="#484f58" stroke-width="1" stroke-dasharray="3,2"/>
+  <text x="310" y="163" text-anchor="middle" class="part-label">🔘 Ventiler/Nokker</text>
+</g>
+
+</svg>
+</div>
+
+<!-- Legend -->
+<div class="legend">
+  <span><span class="dot" style="background:#d29922"></span> SR500-komponent</span>
+  <span><span class="dot" style="background:#58a6ff"></span> Klikkbar del</span>
+  <span><span class="dot" style="background:#30363d"></span> Uspesifisert</span>
+  <span>💡 Klikk på en komponent for detaljer</span>
+</div>
+
+<!-- Details Panel -->
+<div class="panel" id="panel">
+  <div class="panel-placeholder" id="placeholder">
+    <h3>👆 Klikk på en komponent i bildet</h3>
+    <p>Velg en del for å se delenumre, bildestatus og leverandører</p>
+  </div>
+  <div id="details" style="display:none">
+    <div class="panel-header">
+      <h2 id="partTitle"></h2>
+      <span class="status" id="partStatus"></span>
+    </div>
+    <div class="panel-body" id="partBody"></div>
+  </div>
+</div>
+
+</div>
+
+<script>
+const partData = {
+  frame: {
+    name: "🔘 Ramme",
+    status: "wip",
+    statusLabel: "Under arbeid",
+    subtitle: "Hovedramme — skal pulverlakkeres hos Oslopulverlakk",
+    img: true,
+    parts: [
+      {no:"1", pn:"2J4-21110-31-33", desc:"Frame", price:"—"},
+      {no:"2", pn:"90105-10039-00", desc:"Bolt, Flange", price:"$5.81"},
+      {no:"9", pn:"2J2-21315-00-33", desc:"Stay, Engine 2", price:"$25.15"},
+      {no:"20", pn:"3X4-21471-00-90", desc:"Protector, Engine", price:"$42.91"},
+      {no:"41", pn:"583-21756-00-00", desc:"Net, Filter", price:"$46.28"}
+    ],
+    suppliers: ["CMSNL","Megazip","Yambits","Ravns Garage"],
+    note: "Motoren må ut før ramme-pulverlakk"
+  },
+  frontwheel: {
+    name: "🔘 Forhjul",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "21\" forhjul med trommelbrems",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-25111-00-00", desc:"Front Wheel Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits","KEDO"],
+    note: "Sjekk eger og dekk før montering"
+  },
+  rearwheel: {
+    name: "🔘 Baknav/Hjul",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "18\" bakhjul med trommelbrems",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-25311-00-00", desc:"Rear Wheel Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits"],
+    note: ""
+  },
+  frontfork: {
+    name: "🔘 Framgaffel",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Teleskopgaffel, 35mm",
+    img: true,
+    parts: [
+      {no:"1", pn:"2J2-23101-01-00", desc:"Front Fork Assembly", price:"—"},
+      {no:"2", pn:"2F0-23126-00-00", desc:"Tube, Outer 1", price:"—"},
+      {no:"4", pn:"1T3-23145-00-00", desc:"Oil Seal", price:"$6.06"},
+      {no:"8", pn:"1W1-23173-L0-00", desc:"Taper Spindle", price:"$24.65"}
+    ],
+    suppliers: ["CMSNL","Yambits","KEDO"],
+    note: "Skift oljetetninger og olje"
+  },
+  handlebar: {
+    name: "🔘 Styret",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Bredt enduro-styre",
+    img: true,
+    parts: [
+      {no:"—", pn:"—", desc:"Styre + brytere", price:"—"}
+    ],
+    suppliers: ["AGM","Højstyling"],
+    note: "Sjekk gummihåndtak og brytere"
+  },
+  handlebarcable: {
+    name: "🔘 Elektrisk",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Lys, brytere, ledningsnett",
+    img: true,
+    parts: [
+      {no:"—", pn:"—", desc:"Ledningsnett", price:"—"},
+      {no:"—", pn:"—", desc:"Frontlykt", price:"—"}
+    ],
+    suppliers: ["motogadget","KEDO"],
+    note: "Vurder motogadget mo.unit blue"
+  },
+  frontfender_rearfender: {
+    name: "🔘 Skjermer (for/bak)",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Plastskjermer, hvit",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-21511-00-00", desc:"Front Fender", price:"—"},
+      {no:"—", pn:"2J2-21611-00-00", desc:"Rear Fender", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits","MotoLanna"],
+    note: "Vurder rustfrie stål fra MotoLanna"
+  },
+  crankcase: {
+    name: "🔘 Motorblokk",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Crankcase, 499cc thumper",
+    img: true,
+    parts: [
+      {no:"1", pn:"2J4-15100-00-00", desc:"Crankcase Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","Megazip"],
+    note: "Motoren er løsnet fra rammen, gjenstår å vinkle ut"
+  },
+  cylinder: {
+    name: "🔘 Sylinder",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Enkeltsylinder, 87mm boring",
+    img: true,
+    parts: [
+      {no:"1", pn:"2J4-11310-00-00", desc:"Cylinder", price:"—"},
+      {no:"6", pn:"583-11351-00-00", desc:"Gskt, Cyln Dr", price:"$19.69"}
+    ],
+    suppliers: ["CMSNL","Megazip","Yambits"],
+    note: "Sjekk slitasje og honing-behov"
+  },
+  cylinderhead: {
+    name: "🔘 Topplokk",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Sylinderhode med 2 ventiler",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J4-11110-00-00", desc:"Cylinder Head", price:"—"}
+    ],
+    suppliers: ["CMSNL","Megazip"],
+    note: "Sjekk ventiltetting og pakning"
+  },
+  exhaust: {
+    name: "🔘 Eksosanlegg",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Original eksos, enkel pipe",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-14710-00-00", desc:"Exhaust Pipe", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits","KEDO"],
+    note: "Sjekk rust, vurder KEDO eksosanlegg"
+  },
+  carburetor: {
+    name: "🔘 Forgasser",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Mikuni BS38SS, 38mm",
+    img: true,
+    parts: [
+      {no:"1", pn:"3H1-14101-00-00", desc:"Carburetor Assembly", price:"—"},
+      {no:"2", pn:"92990-05100-00", desc:"Washer, Plate", price:"$0.70"}
+    ],
+    suppliers: ["CMSNL","Yambits","KEDO"],
+    note: "Full overhaling anbefales"
+  },
+  fueltank: {
+    name: "🔘 Drivstofftank",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Teardrop-tank, hvit",
+    img: true,
+    parts: [
+      {no:"1", pn:"2J2-24110-01-W5", desc:"Fuel Tank", price:"—"},
+      {no:"2", pn:"2F3-24161-20-00", desc:"Emblem, Yamaha", price:"—"}
+    ],
+    suppliers: ["CMSNL","Megazip"],
+    note: "Sjekk innvendig rust"
+  },
+  seat: {
+    name: "🔘 Sete",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Langt flat-set",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-24710-00-00", desc:"Seat Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits"],
+    note: "Vurder omstopling"
+  },
+  sidecover: {
+    name: "🔘 Sidecovers",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Plastdeksler, hvit",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-21710-00-00", desc:"Side Cover, L", price:"—"},
+      {no:"—", pn:"2J2-21720-00-00", desc:"Side Cover, R", price:"—"}
+    ],
+    suppliers: ["CMSNL","The Vintage Spoke"],
+    note: ""
+  },
+  kickstarter: {
+    name: "🔘 Kickstarter",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Kickstartarm",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-15660-00-00", desc:"Kickstarter Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits"],
+    note: "SR500 er kickstart-only!"
+  },
+  magneto: {
+    name: "🔘 Magneto",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Original påhenger-tenning",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-81310-00-00", desc:"Magneto Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL","KEDO","Vape Ignition"],
+    note: "Vurder Vape elektronisk tenning"
+  },
+  clutch: {
+    name: "🔘 Clutch/Gir",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Clutch, transmisjon, gir",
+    img: true,
+    parts: [
+      {no:"—", pn:"—", desc:"Clutch + gear parts", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits"],
+    note: "Sjekk clutch-plater"
+  },
+  reararm: {
+    name: "🔘 Bakarm / Dempere",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Svingarm + twin shocks",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-22110-00-00", desc:"Rear Arm", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits","KEDO"],
+    note: "Sjekk bøssinger og dempere"
+  },
+  crankshaft: {
+    name: "🔘 Veivaksel",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Veivaksel med svinghjul",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J4-11400-00-00", desc:"Crankshaft Assy", price:"—"}
+    ],
+    suppliers: ["CMSNL"],
+    note: ""
+  },
+  valve: {
+    name: "🔘 Ventiler/Nokker",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Topplokk-ventiler, kamaksel",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J4-12110-00-00", desc:"Camshaft", price:"—"}
+    ],
+    suppliers: ["CMSNL"],
+    note: "Sjekk ventiltoleranser"
+  },
+  shiftcampedal: {
+    name: "🔘 Girpedal",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Venstresidig girpedal",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-18110-00-00", desc:"Shift Pedal", price:"—"}
+    ],
+    suppliers: ["CMSNL"],
+    note: ""
+  },
+  standfootrest: {
+    name: "🔘 Støtte/Fothvilere",
+    status: "todo",
+    statusLabel: "Ikke påbegynt",
+    subtitle: "Sidestøtte, fothvilere",
+    img: true,
+    parts: [
+      {no:"—", pn:"2J2-27110-00-00", desc:"Stand", price:"—"}
+    ],
+    suppliers: ["CMSNL","Yambits"],
+    note: ""
+  }
+};
+
+// Fix key mapping: SVG data-part attributes vs JS keys
+const keyMap = {
+  "frontfender-rearfender": "frontfender_rearfender",
+  "handlebarcable": "handlebarcable",
+  "frontfender-rearfender": "frontfender_rearfender"
+};
+
+document.querySelectorAll('.clickable').forEach(el => {
+  el.addEventListener('click', function() {
+    // Deselect all
+    document.querySelectorAll('.clickable.active').forEach(a => a.classList.remove('active'));
+    this.classList.add('active');
+    
+    const rawKey = this.getAttribute('data-part');
+    const key = keyMap[rawKey] || rawKey;
+    const data = partData[key];
+    
+    if (!data) {
+      document.getElementById('placeholder').style.display = 'block';
+      document.getElementById('details').style.display = 'none';
+      return;
+    }
+    
+    document.getElementById('placeholder').style.display = 'none';
+    document.getElementById('details').style.display = 'block';
+    
+    document.getElementById('partTitle').textContent = data.name;
+    document.getElementById('partStatus').textContent = data.statusLabel;
+    document.getElementById('partStatus').className = 'status status-' + data.status;
+    
+    let html = `<div class="subtitle">${data.subtitle}</div>`;
+    
+    if (data.note) {
+      html += `<div style="background:#1c2333;border:1px solid #d2992233;border-radius:6px;padding:8px;margin-bottom:8px;color:#d29922">📌 ${data.note}</div>`;
+    }
+    
+    if (data.parts && data.parts.length > 0) {
+      html += '<table><tr><th>#</th><th>Delenummer</th><th>Beskrivelse</th><th>Pris</th></tr>';
+      data.parts.forEach(p => {
+        html += `<tr><td>${p.no}</td><td style="font-family:monospace;color:#58a6ff">${p.pn}</td><td>${p.desc}</td><td>${p.price}</td></tr>`;
+      });
+      html += '</table>';
+    }
+    
+    if (data.suppliers && data.suppliers.length > 0) {
+      const supLinks = {
+        "CMSNL": "https://www.cmsnl.com/yamaha-sr500_model16794/",
+        "Megazip": "https://www.megazip.net/zapchasti-dlya-motocyklov/yamaha/sr500-14186",
+        "Yambits": "https://yambits.co.uk/parts_for_yamaha_sr500.html",
+        "KEDO": "https://www.kedo.de/sr500",
+        "Ravns Garage": "https://www.ravnsgarage.no/yamaha-delekatalog",
+        "AGM": "https://www.agm.no/mc/deler-til-motorsykkel",
+        "Højstyling": "https://www.hojstyling.no/",
+        "MotoLanna": "https://www.motolanna.com/ourshop/cat_180462-Yamaha.html",
+        "motogadget": "https://www.motogadget.com/en-en/",
+        "Vape Ignition": "https://www.tola-tools.de/en/vape-ignition-yamaha-sr500-tt500-xt500.html",
+        "The Vintage Spoke": "https://www.thevintagespoke.com/shop/SR500/"
+      };
+      html += `<div style="margin-top:10px"><strong>Leverandører:</strong> `;
+      html += data.suppliers.map(s => {
+        const url = supLinks[s];
+        if (url) return `<a href="${url}" target="_blank" class="sup">${s}</a>`;
+        return s;
+      }).join(' · ');
+      html += '</div>';
+    }
+    
+    if (data.img) {
+      html += `<div class="img-note">📸 Bilde tilgjengelig i data-mappen</div>`;
+    }
+    
+    document.getElementById('partBody').innerHTML = html;
+    
+    // Scroll to panel on mobile
+    if (window.innerWidth < 768) {
+      document.getElementById('panel').scrollIntoView({behavior:'smooth'});
+    }
+  });
+});
+</script>
+</body>
+</html>

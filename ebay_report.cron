@@ -1,0 +1,1 @@
+0 12 * * * cd /home/johnny/.openclaw/workspace && openclaw run "Sjekk eBay for Yamaha SR500-deler" --channel telegram

@@ -1,0 +1,535 @@
+{
+  "kjoretoydataListe": [
+    {
+      "kjoretoyId": {
+        "kjennemerke": "BB 5092",
+        "understellsnummer": "2J4243737"
+      },
+      "forstegangsregistrering": {
+        "registrertForstegangNorgeDato": "2012-04-18"
+      },
+      "kjennemerke": [
+        {
+          "fomTidspunkt": "2017-04-03T00:05:00+02:00",
+          "kjennemerke": "BB 5092",
+          "kjennemerkekategori": "KJORETOY",
+          "kjennemerketype": {
+            "kodeBeskrivelse": "Sorte tegn på hvit bunn",
+            "kodeNavn": "Ordinære kjennemerker",
+            "kodeVerdi": "ORDINART",
+            "tidligereKodeVerdi": []
+          }
+        }
+      ],
+      "registrering": {
+        "fomTidspunkt": "2025-11-01T19:09:58.733+01:00",
+        "kjoringensArt": {
+          "kodeBeskrivelse": "Annen egentransport.",
+          "kodeNavn": "Egentransport",
+          "kodeVerdi": "EGENTRANSP_ANNEN",
+          "tidligereKodeVerdi": []
+        },
+        "registreringsstatus": {
+          "kodeBeskrivelse": "Registrert",
+          "kodeNavn": "Påregistrert",
+          "kodeVerdi": "REGISTRERT",
+          "tidligereKodeVerdi": []
+        },
+        "registrertForstegangPaEierskap": "2025-11-01T19:09:58.733+01:00"
+      },
+      "godkjenning": {
+        "forstegangsGodkjenning": {
+          "bruktimport": {
+            "importland": {
+              "landNavn": "SVERIGE",
+              "landkode": "SWE"
+            },
+            "kilometerstand": 54835,
+            "tidligereUtenlandskKjennemerke": "GGF 936",
+            "tidligereUtenlandskVognkortNummer": "1017355145"
+          },
+          "forstegangRegistrertDato": "1981-08-04",
+          "fortollingOgMva": {
+            "fortollingsreferanse": "0201412012000145"
+          },
+          "godkjenningsId": "4226978",
+          "godkjenningsundertype": {
+            "kodeNavn": "Typegodkjent - Nytt (COC) / Brukt (vognkort)",
+            "kodeVerdi": "ENKELTGODKJENNING",
+            "tidligereKodeVerdi": []
+          },
+          "gyldigFraDato": "2012-04-13",
+          "gyldigFraDatoTid": "2012-04-13T00:00:00+02:00",
+          "unntak": []
+        },
+        "kjoretoymerknad": [],
+        "registreringsbegrensninger": {
+          "registreringsbegrensning": []
+        },
+        "tekniskGodkjenning": {
+          "godkjenningsId": "4226978",
+          "godkjenningsundertype": {
+            "kodeNavn": "Typegodkjent - Nytt (COC) / Brukt (vognkort)",
+            "kodeVerdi": "ENKELTGODKJENNING",
+            "tidligereKodeVerdi": []
+          },
+          "gyldigFraDato": "2012-04-13",
+          "gyldigFraDatoTid": "2012-04-13T10:42:11+02:00",
+          "kjoretoyklassifisering": {
+            "beskrivelse": "Tung motorsykkel",
+            "kjoretoyAvgiftsKode": {
+              "kodeBeskrivelse": "Tung motorsykkel, herunder mellomtung motorsykkel",
+              "kodeNavn": "Tung motorsykkel, herunder mellomtung motorsykkel",
+              "kodeVerdi": "620",
+              "tidligereKodeVerdi": []
+            },
+            "spesielleKjennetegn": "Slagvolum over 125 cm3 og/eller effekt over 11 kw",
+            "tekniskKode": {
+              "kodeBeskrivelse": "Motorsykkel (lett -, mellomtung – og tung motorsykkel) med 2 hjul",
+              "kodeNavn": "Motorsykkel",
+              "kodeVerdi": "L3e",
+              "tidligereKodeVerdi": []
+            },
+            "tekniskUnderkode": {
+              "kodeVerdi": "INGENKODE",
+              "tidligereKodeVerdi": []
+            }
+          },
+          "krav": [
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "Vindu",
+                "kodeVerdi": "VINDU_9901",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Ikke omfattet av krav",
+                "kodeVerdi": "IKKE_OMFATTET",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "35: Kjennemerkets plassering bak",
+                "kodeVerdi": "KJENNEMERKETS_PLASSERING_BAK_35",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "46: Betjeningsinnretninger, kontrollamper og indikatorer",
+                "kodeVerdi": "BETJENINGSINNRETNINGER_KONTROLLAMPER_OG_INDIKATORER_46",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "39: Utvendig utstikkende deler",
+                "kodeVerdi": "UTVENDIG_UTSTIKKENDE_DELER_39",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "38: Speil",
+                "kodeVerdi": "SPEIL_38",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "26: Vekter og dimensjoner",
+                "kodeVerdi": "VEKTER_OG_DIMENSJONER_26",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "40: Støtteben",
+                "kodeVerdi": "STOTTEBEN_40",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "20: Drivstofftank",
+                "kodeVerdi": "DRIVSTOFFTANK_20",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "32: Montering av lykter og lyssignaler",
+                "kodeVerdi": "MONTERING_AV_LYKTER_OG_LYSSIGNALER_32",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "37: Støy",
+                "kodeVerdi": "STOY_37",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "Avgiftsklassifisering",
+                "kodeVerdi": "AVGIFTSKLASSIFISERING_00",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Forskrift om engangsavgift og avgiftsvedtak",
+                "kodeVerdi": "KRAV_1",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "41: Beskyttelse mot uberettiget bruk",
+                "kodeVerdi": "BESKYTTELSE_MOT_UBERETTIGET_BRUK_41",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "43: Fastholdelsesanordninger",
+                "kodeVerdi": "FASTHOLDELSESANORDNINGER_43",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "29: Dekk",
+                "kodeVerdi": "DEKK_29",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "45: Hastighetsmåler",
+                "kodeVerdi": "HASTIGHETSMALER_45",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "34: Lydsignal",
+                "kodeVerdi": "LYDSIGNAL_34",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "31: Bremser",
+                "kodeVerdi": "BREMSER_31",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "28: Avgass",
+                "kodeVerdi": "AVGASS_28",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "47: Merking av kjøretøy",
+                "kodeVerdi": "MERKING_AV_KJORETOY_47",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "36: Elektromagnetisk kompatibilitet",
+                "kodeVerdi": "ELEKTROMAGNETISK_KOMPATIBILITET_36",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "Styring",
+                "kodeVerdi": "STYRING_9051",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Annet godkjent krav",
+                "kodeVerdi": "ANNET_GODKJENT",
+                "tidligereKodeVerdi": []
+              }
+            }
+          ],
+          "tekniskeData": {
+            "akslinger": {
+              "akselGruppe": [
+                {
+                  "akselListe": {
+                    "aksel": [
+                      {
+                        "antallHjul": 1,
+                        "avstandTilNesteAksling": 1430,
+                        "drivAksel": false,
+                        "id": 1,
+                        "plasseringAksel": "1",
+                        "tekniskTillattAkselLast": 142
+                      }
+                    ]
+                  },
+                  "id": 1,
+                  "plasseringAkselGruppe": "1",
+                  "tekniskTillattAkselGruppeLast": 142
+                },
+                {
+                  "akselListe": {
+                    "aksel": [
+                      {
+                        "antallHjul": 1,
+                        "drivAksel": true,
+                        "id": 2,
+                        "plasseringAksel": "2",
+                        "tekniskTillattAkselLast": 248
+                      }
+                    ]
+                  },
+                  "id": 2,
+                  "plasseringAkselGruppe": "2",
+                  "tekniskTillattAkselGruppeLast": 248
+                }
+              ],
+              "antallAksler": 2
+            },
+            "bremser": {
+              "tilhengerBremseforbindelse": []
+            },
+            "dekkOgFelg": {
+              "akselDekkOgFelgKombinasjon": [
+                {
+                  "akselDekkOgFelg": [
+                    {
+                      "akselId": 1,
+                      "belastningskodeDekk": "41",
+                      "dekkdimensjon": "3.50S19",
+                      "felgdimensjon": "1,85",
+                      "hastighetskodeDekk": "S"
+                    },
+                    {
+                      "akselId": 2,
+                      "belastningskodeDekk": "60",
+                      "dekkdimensjon": "4.00S18",
+                      "felgdimensjon": "2,15",
+                      "hastighetskodeDekk": "S"
+                    }
+                  ]
+                }
+              ]
+            },
+            "dimensjoner": {
+              "bredde": 830,
+              "lengde": 2110
+            },
+            "generelt": {
+              "fabrikant": [],
+              "handelsbetegnelse": [
+                "SR 500 2j4"
+              ],
+              "merke": [
+                {
+                  "merke": "YAMAHA",
+                  "merkeKode": "8550"
+                }
+              ],
+              "tekniskKode": {
+                "kodeBeskrivelse": "Motorsykkel (lett -, mellomtung – og tung motorsykkel) med 2 hjul",
+                "kodeNavn": "Motorsykkel",
+                "kodeVerdi": "L3e",
+                "tidligereKodeVerdi": []
+              },
+              "typebetegnelse": "2j4"
+            },
+            "karosseriOgLasteplan": {
+              "antallDorer": [],
+              "dorUtforming": [],
+              "kjennemerketypeBak": {
+                "kodeBeskrivelse": "Lite høyt",
+                "kodeNavn": "Lite høyt",
+                "kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+                "kodeVerdi": "LH",
+                "tidligereKodeVerdi": []
+              },
+              "kjennemerkestorrelseBak": {
+                "kodeBeskrivelse": "Lite høyt",
+                "kodeNavn": "Lite høyt",
+                "kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+                "kodeVerdi": "LH",
+                "tidligereKodeVerdi": []
+              },
+              "plasseringFabrikasjonsplate": [],
+              "plasseringUnderstellsnummer": [],
+              "rFarge": [
+                {
+                  "kodeBeskrivelse": "herunder: Blåsvart, grafitt mørk, gråsort, koksgrå mørk, koksgrå mørk metallic",
+                  "kodeNavn": "Svart",
+                  "kodeTypeId": "TEKNISKEDATA.KAROSSERIFARGE",
+                  "kodeVerdi": "06",
+                  "tidligereKodeVerdi": []
+                }
+              ]
+            },
+            "miljodata": {
+              "miljoOgdrivstoffGruppe": [
+                {
+                  "drivstoffKodeMiljodata": {
+                    "kodeBeskrivelse": "Bensin",
+                    "kodeNavn": "Bensin",
+                    "kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+                    "kodeVerdi": "1",
+                    "tidligereKodeVerdi": []
+                  },
+                  "lyd": {}
+                }
+              ]
+            },
+            "motorOgDrivverk": {
+              "girkassetype": {
+                "kodeBeskrivelse": "Manuell",
+                "kodeNavn": "Manuell",
+                "kodeTypeId": "TEKNISKEDATA.GIRKASSETYPE",
+                "kodeVerdi": "M",
+                "tidligereKodeVerdi": []
+              },
+              "girutvekslingPrGir": [],
+              "maksimumHastighet": [
+                180
+              ],
+              "maksimumHastighetMalt": [],
+              "motor": [
+                {
+                  "drivstoff": [
+                    {
+                      "drivstoffKode": {
+                        "kodeBeskrivelse": "Bensin",
+                        "kodeNavn": "Bensin",
+                        "kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+                        "kodeVerdi": "1",
+                        "tidligereKodeVerdi": []
+                      },
+                      "effektVektForhold": 0.13885714,
+                      "maksNettoEffekt": 24.3
+                    }
+                  ],
+                  "slagvolum": 499
+                }
+              ]
+            },
+            "ovrigeTekniskeData": [],
+            "persontall": {
+              "sitteplasserForan": 1,
+              "sitteplasserTotalt": 2
+            },
+            "tilhengerkopling": {
+              "kopling": []
+            },
+            "vekter": {
+              "egenvekt": 175,
+              "nyttelast": 145,
+              "tillattTotalvekt": 390,
+              "vogntogvektAvhBremsesystem": []
+            }
+          },
+          "unntak": []
+        },
+        "tilleggsgodkjenninger": []
+      }
+    }
+  ]
+}

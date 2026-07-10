@@ -1,0 +1,11 @@
+ID                DATE              FROM                                                       SUBJECT                                                             LABELS                         THREAD
+19f0885f762b3d75  2026-06-27 12:00  Norli bokhandel <kundeservice@norli.no>                    Velkommen til Norli.no                                              UNREAD,CATEGORY_UPDATES,INBOX  -
+19f07ddbde111633  2026-06-27 08:56  Pinterest <recommendations@inspire.pinterest.com>          Cb550 cafe racer                                                    CATEGORY_PROMOTIONS,UNREAD     -
+19f07b01bbb42254  2026-06-27 08:06  "Best of MSN UK (MSN Unfold)" <msn@email2.microsoft.com>   He was fooling around on the edge - then his hand suddenly slipped  UNREAD,CATEGORY_UPDATES        -
+19f07ae821f70e62  2026-06-27 08:05  Spreadshirt <info@reply.spreadshirt.net>                   Husk: 20 % rabatt for navnet ditt 💫                                 CATEGORY_PROMOTIONS,UNREAD     -
+19f057effb05ab78  2026-06-26 21:53  NerdWallet <nerdwallet@mail.nerdwallet.com>                Keep your money safe 🔒                                              CATEGORY_PROMOTIONS,UNREAD     -
+19f04a6292d04f4b  2026-06-26 17:57  "Mspa.no - Norges mest solgte boblebad" <noreply@mspa.no>  Fotball-VM + sommerferie =  BOBLEBADBOOOOM🇳🇴⚽                       CATEGORY_PROMOTIONS,UNREAD     -
+19f046f4b20ec73e  2026-06-26 16:57  Pinterest <recommendations@explore.pinterest.com>          Helt hekta                                                          CATEGORY_PROMOTIONS,UNREAD     -
+19f03f666b86c17f  2026-06-26 14:44  Charlie - GMM <support@guitarmasterymethod.com>            Free Live Guitar Workshop                                           CATEGORY_PROMOTIONS,UNREAD     -
+19f03938bb872ebc  2026-06-26 12:57  Pinterest <recommendations@discover.pinterest.com>         Harley Davidson motorsykkel                                         CATEGORY_PROMOTIONS,UNREAD     -
+19f03923b2919560  2026-06-26 12:55  Samsung <no-reply@m1.email.samsung.com>                    Johnny, få en gratis test av mobilen din                            UNREAD,CATEGORY_UPDATES        -

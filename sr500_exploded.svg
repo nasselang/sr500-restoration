@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420">
+  <style>
+    text{font-family:sans-serif;font-size:10px;fill:#8b949e}
+    .title{font-size:12px;font-weight:bold;fill:#d29922}
+    .lbl{font-size:9px;fill:#8b949e}
+  </style>
+  <rect width="900" height="420" fill="#0d1117" rx="8"/>
+  
+  <text x="450" y="25" text-anchor="middle" class="title" font-size="16">🏍️ Yamaha SR500 (1981, 2J4) — Deleoversikt</text>
+  <text x="450" y="42" text-anchor="middle" style="fill:#484f58;font-size:11px">Klikkbar HTML-versjon: ~/workspace/sr500_exploded.html</text>
+
+  <!-- Ground -->
+  <line x1="40" y1="400" x2="860" y2="400" stroke="#21262d" stroke-width="2"/>
+
+  <!-- Front wheel -->
+  <circle cx="160" cy="340" r="55" fill="none" stroke="#30363d" stroke-width="4"/>
+  <circle cx="160" cy="340" r="48" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="160" cy="340" r="7" fill="#484f58"/>
+  <line x1="160" y1="292" x2="160" y2="388" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="112" y1="340" x2="208" y2="340" stroke="#30363d" stroke-width="1.5"/>
+  <text x="160" y="412" text-anchor="middle" class="lbl">🔘 Forhjul</text>
+
+  <!-- Rear wheel -->
+  <circle cx="710" cy="340" r="55" fill="none" stroke="#30363d" stroke-width="4"/>
+  <circle cx="710" cy="340" r="48" fill="none" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="710" cy="340" r="7" fill="#484f58"/>
+  <line x1="710" y1="292" x2="710" y2="388" stroke="#30363d" stroke-width="1.5"/>
+  <line x1="662" y1="340" x2="758" y2="340" stroke="#30363d" stroke-width="1.5"/>
+  <circle cx="710" cy="340" r="16" fill="none" stroke="#484f58" stroke-width="1.5"/>
+  <text x="710" y="412" text-anchor="middle" class="lbl">🔘 Baknav/Hjul</text>
+
+  <!-- Front fender -->
+  <path d="M100 300 Q130 275 220 300" fill="none" stroke="#484f58" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="160" y="275" text-anchor="middle" class="lbl">🔘 Fremre skjerm</text>
+
+  <!-- Rear fender -->
+  <path d="M650 300 Q680 270 770 300" fill="none" stroke="#484f58" stroke-width="3.5" stroke-linecap="round"/>
+  <text x="710" y="273" text-anchor="middle" class="lbl">🔘 Bakre skjerm</text>
+
+  <!-- Fork -->
+  <line x1="183" y1="165" x2="160" y2="285" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+  <line x1="208" y1="160" x2="195" y2="285" stroke="#8b949e" stroke-width="5" stroke-linecap="round"/>
+  <rect x="178" y="155" width="12" height="10" rx="2" fill="#484f58"/>
+  <rect x="202" y="152" width="12" height="10" rx="2" fill="#484f58"/>
+  <rect x="160" y="163" width="48" height="5" rx="2" fill="#484f58"/>
+  <rect x="165" y="180" width="43" height="5" rx="2" fill="#484f58"/>
+  <text x="185" y="210" text-anchor="middle" class="lbl">🔘 Framgaffel</text>
+
+  <!-- Handlebars -->
+  <path d="M163 160 Q178 135 238 140 Q258 141 268 150" fill="none" stroke="#8b949e" stroke-width="4" stroke-linecap="round"/>
+  <text x="235" y="132" text-anchor="middle" class="lbl">🔘 Styret</text>
+
+  <!-- Headlight -->
+  <circle cx="172" cy="153" r="13" fill="none" stroke="#484f58" stroke-width="2.5"/>
+  <text x="172" y="135" text-anchor="middle" class="lbl">🔘 Elektrisk</text>
+
+  <!-- Frame -->
+  <path d="M210 185 L320 180 L400 185 L430 190" fill="none" stroke="#d29922" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <path d="M320 180 L310 265 L290 295 L275 305" fill="none" stroke="#d29922" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <path d="M430 190 L550 200 L620 225 L650 265" fill="none" stroke="#d29922" stroke-width="3" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <path d="M430 190 L460 225 L500 265" fill="none" stroke="#d29922" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="5,3"/>
+  <circle cx="430" cy="280" r="4" fill="#d29922" opacity=".5"/>
+  <text x="380" y="160" text-anchor="middle" class="lbl">🔘 Ramme</text>
+
+  <!-- Swingarm -->
+  <line x1="430" y1="280" x2="650" y2="285" stroke="#8b949e" stroke-width="4" stroke-linecap="round"/>
+  <text x="540" y="300" text-anchor="middle" class="lbl">🔘 Bakarm</text>
+
+  <!-- Rear shocks -->
+  <line x1="530" y1="200" x2="560" y2="280" stroke="#484f58" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="535" y1="200" x2="565" y2="280" stroke="#30363d" stroke-width="2.5" stroke-linecap="round"/>
+
+  <!-- Engine block -->
+  <ellipse cx="340" cy="270" rx="50" ry="28" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <path d="M294 258 L386 258 L376 292 L304 292 Z" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <!-- Fins -->
+  <line x1="298" y1="265" x2="382" y2="265" stroke="#484f58" stroke-width="1"/>
+  <line x1="300" y1="273" x2="380" y2="273" stroke="#484f58" stroke-width="1"/>
+  <line x1="302" y1="281" x2="378" y2="281" stroke="#484f58" stroke-width="1"/>
+  <circle cx="340" cy="295" r="3" fill="#484f58"/>
+  <text x="340" y="315" text-anchor="middle" class="lbl">🔘 Motorblokk</text>
+
+  <!-- Cylinder -->
+  <rect x="317" y="200" width="46" height="58" rx="3" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <line x1="319" y1="208" x2="361" y2="208" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="319" y1="216" x2="361" y2="216" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="319" y1="224" x2="361" y2="224" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="319" y1="232" x2="361" y2="232" stroke="#484f58" stroke-width="1.5"/>
+  <line x1="319" y1="240" x2="361" y2="240" stroke="#484f58" stroke-width="1.5"/>
+  <text x="340" y="192" text-anchor="middle" class="lbl">🔘 Sylinder</text>
+
+  <!-- Cylinder head -->
+  <rect x="314" y="184" width="52" height="16" rx="3" fill="#6e7681" stroke="#8b949e" stroke-width="1.5"/>
+  <rect x="324" y="182" width="32" height="5" rx="2" fill="#484f58"/>
+  <text x="340" y="173" text-anchor="middle" class="lbl">🔘 Topplokk</text>
+
+  <!-- Exhaust -->
+  <path d="M318 255 Q288 265 278 285 Q268 305 298 320 Q338 335 448 340 Q548 343 618 335 Q658 330 688 340" fill="none" stroke="#8b949e" stroke-width="4.5" stroke-linecap="round"/>
+  <ellipse cx="698" cy="340" rx="16" ry="9" fill="#30363d" stroke="#484f58" stroke-width="2"/>
+  <text x="500" y="362" text-anchor="middle" class="lbl">🔘 Eksosanlegg</text>
+
+  <!-- Carburetor -->
+  <rect x="370" y="220" width="24" height="26" rx="4" fill="#6e7681" stroke="#8b949e" stroke-width="1.5"/>
+  <path d="M367 228 L392 233" fill="none" stroke="#484f58" stroke-width="2.5"/>
+  <rect x="396" y="223" width="18" height="20" rx="3" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="400" y="212" text-anchor="middle" class="lbl">🔘 Forgasser</text>
+
+  <!-- Fuel tank -->
+  <path d="M230 180 Q240 158 300 153 Q360 152 400 163 L415 183 L415 188 Q380 188 360 183 L240 186 Z" fill="#30363d" stroke="#d29922" stroke-width="2"/>
+  <ellipse cx="310" cy="154" rx="7" ry="3" fill="#484f58"/>
+  <text x="325" y="147" text-anchor="middle" class="lbl">🔘 Drivstofftank</text>
+
+  <!-- Seat -->
+  <path d="M420 185 Q470 180 550 190 Q600 198 620 215 L620 223 Q550 215 500 210 L420 205 Z" fill="#30363d" stroke="#6e7681" stroke-width="1.5"/>
+  <text x="530" y="180" text-anchor="middle" class="lbl">🔘 Sete</text>
+
+  <!-- Side covers -->
+  <path d="M402 195 L420 230 L430 225 L430 195 Z" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <rect x="432" y="197" width="26" height="32" rx="3" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="470" y="220" text-anchor="middle" class="lbl">🔘 Sidecovers</text>
+
+  <!-- Kickstarter -->
+  <path d="M282 285 L267 305 L257 320 L252 330" fill="none" stroke="#8b949e" stroke-width="2.5" stroke-linecap="round"/>
+  <ellipse cx="250" cy="333" rx="7" ry="3" fill="#484f58"/>
+  <text x="257" y="348" text-anchor="middle" class="lbl">🔘 Kickstarter</text>
+
+  <!-- Magneto -->
+  <circle cx="292" cy="280" r="10" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="278" y="305" text-anchor="middle" class="lbl">🔘 Magneto</text>
+
+  <!-- Clutch/transmission -->
+  <ellipse cx="380" cy="280" rx="16" ry="12" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+  <text x="398" y="305" text-anchor="middle" class="lbl">🔘 Clutch/Gir</text>
+
+  <!-- Shift pedal -->
+  <path d="M387 290 L397 315 L402 325" fill="none" stroke="#484f58" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="403" cy="328" rx="4" ry="2.5" fill="#484f58"/>
+  <text x="392" y="343" text-anchor="middle" class="lbl">🔘 Girpedal</text>
+
+  <!-- Footpegs -->
+  <line x1="352" y1="300" x2="352" y2="318" stroke="#484f58" stroke-width="2"/>
+  <rect x="347" y="317" width="10" height="3" rx="1" fill="#484f58"/>
+  <line x1="448" y1="305" x2="448" y2="321" stroke="#484f58" stroke-width="2"/>
+  <rect x="443" y="320" width="10" height="3" rx="1" fill="#484f58"/>
+
+  <!-- Legend -->
+  <line x1="40" y1="418" x2="860" y2="418" stroke="#21262d" stroke-width="1"/>
+  <text x="450" y="415" text-anchor="middle" style="fill:#484f58;font-size:8px">Hver del har data i workspace/projects/sr500-restoration/data/ — Åpne sr500_exploded.html i nettleser for interaktiv versjon</text>
+</svg>

@@ -1,0 +1,410 @@
+{
+  "kjoretoydataListe": [
+    {
+      "kjoretoyId": {
+        "kjennemerke": "KL 4560",
+        "understellsnummer": "H1F23712"
+      },
+      "forstegangsregistrering": {
+        "registrertForstegangNorgeDato": "2003-08-01"
+      },
+      "kjennemerke": [
+        {
+          "fomTidspunkt": "2003-08-01T00:00:00+02:00",
+          "kjennemerke": "KL 4560",
+          "kjennemerkekategori": "KJORETOY",
+          "kjennemerketype": {
+            "kodeBeskrivelse": "Sorte tegn på hvit bunn",
+            "kodeNavn": "Ordinære kjennemerker",
+            "kodeVerdi": "ORDINART",
+            "tidligereKodeVerdi": []
+          }
+        }
+      ],
+      "registrering": {
+        "fomTidspunkt": "2003-08-01T00:00:00+02:00",
+        "kjoringensArt": {
+          "kodeBeskrivelse": "Annen egentransport.",
+          "kodeNavn": "Egentransport",
+          "kodeVerdi": "EGENTRANSP_ANNEN",
+          "tidligereKodeVerdi": []
+        },
+        "registreringsstatus": {
+          "kodeBeskrivelse": "Registrert",
+          "kodeNavn": "Påregistrert",
+          "kodeVerdi": "REGISTRERT",
+          "tidligereKodeVerdi": []
+        },
+        "registrertForstegangPaEierskap": "2003-08-01T00:00:00+02:00"
+      },
+      "godkjenning": {
+        "forstegangsGodkjenning": {
+          "bruktimport": {
+            "importland": {
+              "landkode": "XXU"
+            },
+            "kilometerstand": 0
+          },
+          "forstegangRegistrertDato": "1974-01-01",
+          "godkjenningsId": "100050444800",
+          "godkjenningsundertype": {
+            "kodeNavn": "Typegodkjent - Nytt (COC) / Brukt (vognkort)",
+            "kodeVerdi": "ENKELTGODKJENNING",
+            "tidligereKodeVerdi": []
+          },
+          "gyldigFraDato": "2003-08-01",
+          "gyldigFraDatoTid": "2003-08-01T00:00:00+02:00",
+          "unntak": []
+        },
+        "kjoretoymerknad": [],
+        "registreringsbegrensninger": {
+          "registreringsbegrensning": []
+        },
+        "tekniskGodkjenning": {
+          "godkjenningsId": "6975159",
+          "godkjenningsundertype": {
+            "kodeNavn": "Godkjenning av ombygget kjøretøy",
+            "kodeVerdi": "OMBYGGING",
+            "tidligereKodeVerdi": []
+          },
+          "gyldigFraDato": "2024-04-29",
+          "gyldigFraDatoTid": "2024-04-29T14:03:14+02:00",
+          "kjoretoyklassifisering": {
+            "beskrivelse": "Tung motorsykkel",
+            "kjoretoyAvgiftsKode": {
+              "kodeBeskrivelse": "Tung motorsykkel, herunder mellomtung motorsykkel",
+              "kodeNavn": "Tung motorsykkel, herunder mellomtung motorsykkel",
+              "kodeVerdi": "620",
+              "tidligereKodeVerdi": []
+            },
+            "spesielleKjennetegn": "",
+            "tekniskKode": {
+              "kodeBeskrivelse": "Tung motorsykkel (reg i Norge før 9. november 2003)",
+              "kodeNavn": "Motorsykkel",
+              "kodeVerdi": "MCT",
+              "tidligereKodeVerdi": []
+            },
+            "tekniskUnderkode": {
+              "kodeVerdi": "INGENKODE",
+              "tidligereKodeVerdi": []
+            }
+          },
+          "krav": [
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "39: Utvendig utstikkende deler",
+                "kodeVerdi": "UTVENDIG_UTSTIKKENDE_DELER_39",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "46: Betjeningsinnretninger, kontrollamper og indikatorer",
+                "kodeVerdi": "BETJENINGSINNRETNINGER_KONTROLLAMPER_OG_INDIKATORER_46",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "28: Avgass",
+                "kodeVerdi": "AVGASS_28",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "31: Bremser",
+                "kodeVerdi": "BREMSER_31",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "KTK § 23-4",
+                "kodeVerdi": "KRAV_2b18e702ce5f",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "37: Støy",
+                "kodeVerdi": "STOY_37",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "Avgiftsklassifisering",
+                "kodeVerdi": "AVGIFTSKLASSIFISERING_00",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "Forskrift om engangsavgift og avgiftsvedtak",
+                "kodeVerdi": "KRAV_1",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "47: Merking av kjøretøy",
+                "kodeVerdi": "MERKING_AV_KJORETOY_47",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "41: Beskyttelse mot uberettiget bruk",
+                "kodeVerdi": "BESKYTTELSE_MOT_UBERETTIGET_BRUK_41",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "Styring",
+                "kodeVerdi": "STYRING_9051",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "17: Hastighetsmåler",
+                "kodeVerdi": "HASTIGHETSMALER_17",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            },
+            {
+              "kravomrade": {
+                "kodeBeskrivelse": "42: Ruter, vindusviskere, spylere, defroster",
+                "kodeVerdi": "RUTER_VINDUSVISKERE_SPYLERE_DEFROSTER_42",
+                "tidligereKodeVerdi": []
+              },
+              "kravoppfyllelse": {
+                "kodeBeskrivelse": "I henhold til tidligere godkjenning",
+                "kodeVerdi": "I_HENHOLD_TIL_TIDL_GODKJENNING",
+                "tidligereKodeVerdi": []
+              }
+            }
+          ],
+          "tekniskeData": {
+            "akslinger": {
+              "akselGruppe": [
+                {
+                  "akselListe": {
+                    "aksel": [
+                      {
+                        "avstandTilNesteAksling": 1445,
+                        "drivAksel": false,
+                        "id": 1,
+                        "plasseringAksel": "1",
+                        "tekniskTillattAkselLast": 122
+                      }
+                    ]
+                  },
+                  "id": 1,
+                  "plasseringAkselGruppe": "1",
+                  "tekniskTillattAkselGruppeLast": 122
+                },
+                {
+                  "akselListe": {
+                    "aksel": [
+                      {
+                        "drivAksel": true,
+                        "id": 2,
+                        "plasseringAksel": "2",
+                        "tekniskTillattAkselLast": 215
+                      }
+                    ]
+                  },
+                  "id": 2,
+                  "plasseringAkselGruppe": "2",
+                  "tekniskTillattAkselGruppeLast": 215
+                }
+              ],
+              "antallAksler": 2
+            },
+            "bremser": {
+              "tilhengerBremseforbindelse": []
+            },
+            "dekkOgFelg": {
+              "akselDekkOgFelgKombinasjon": [
+                {
+                  "akselDekkOgFelg": [
+                    {
+                      "akselId": 1,
+                      "belastningskodeDekk": "11",
+                      "dekkdimensjon": "110/80ZR 18",
+                      "felgdimensjon": "2.50"
+                    },
+                    {
+                      "akselId": 2,
+                      "belastningskodeDekk": "31",
+                      "dekkdimensjon": "140/70R18",
+                      "felgdimensjon": "4.00"
+                    }
+                  ]
+                }
+              ]
+            },
+            "dimensjoner": {
+              "bredde": 800,
+              "lengde": 2200
+            },
+            "generelt": {
+              "fabrikant": [],
+              "handelsbetegnelse": [
+                "H-1"
+              ],
+              "merke": [
+                {
+                  "merke": "KAWASAKI",
+                  "merkeKode": "7970"
+                }
+              ],
+              "tekniskKode": {
+                "kodeBeskrivelse": "Tung motorsykkel (reg i Norge før 9. november 2003)",
+                "kodeNavn": "Motorsykkel",
+                "kodeVerdi": "MCT",
+                "tidligereKodeVerdi": []
+              },
+              "typebetegnelse": "-"
+            },
+            "karosseriOgLasteplan": {
+              "antallDorer": [],
+              "dorUtforming": [],
+              "kjennemerketypeBak": {
+                "kodeBeskrivelse": "Lite høyt",
+                "kodeNavn": "Lite høyt",
+                "kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+                "kodeVerdi": "LH",
+                "tidligereKodeVerdi": []
+              },
+              "kjennemerkestorrelseBak": {
+                "kodeBeskrivelse": "Lite høyt",
+                "kodeNavn": "Lite høyt",
+                "kodeTypeId": "TEKNISKEDATA.KJENNEMERKESTORRELSE",
+                "kodeVerdi": "LH",
+                "tidligereKodeVerdi": []
+              },
+              "plasseringFabrikasjonsplate": [],
+              "plasseringUnderstellsnummer": [
+                {
+                  "kodeBeskrivelse": "Styrehode - Venstre side",
+                  "kodeNavn": "Styrehode - Venstre side",
+                  "kodeTypeId": "TEKNISKEDATA.PLASSERINGMERKING",
+                  "kodeVerdi": "STYREHODE_VENSTRE",
+                  "tidligereKodeVerdi": []
+                }
+              ],
+              "rFarge": [
+                {
+                  "kodeNavn": "Blå",
+                  "kodeTypeId": "TEKNISKEDATA.KAROSSERIFARGE",
+                  "kodeVerdi": "03",
+                  "tidligereKodeVerdi": []
+                }
+              ]
+            },
+            "miljodata": {
+              "miljoOgdrivstoffGruppe": [
+                {
+                  "drivstoffKodeMiljodata": {
+                    "kodeBeskrivelse": "Bensin",
+                    "kodeNavn": "Bensin",
+                    "kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+                    "kodeVerdi": "1",
+                    "tidligereKodeVerdi": []
+                  },
+                  "lyd": {}
+                }
+              ]
+            },
+            "motorOgDrivverk": {
+              "girkassetype": {
+                "kodeBeskrivelse": "Manuell",
+                "kodeNavn": "Manuell",
+                "kodeTypeId": "TEKNISKEDATA.GIRKASSETYPE",
+                "kodeVerdi": "M",
+                "tidligereKodeVerdi": []
+              },
+              "girutvekslingPrGir": [],
+              "maksimumHastighet": [],
+              "maksimumHastighetMalt": [],
+              "motor": [
+                {
+                  "drivstoff": [
+                    {
+                      "drivstoffKode": {
+                        "kodeBeskrivelse": "Bensin",
+                        "kodeNavn": "Bensin",
+                        "kodeTypeId": "TEKNISKEDATA.DRIVSTOFFTYPE",
+                        "kodeVerdi": "1",
+                        "tidligereKodeVerdi": []
+                      },
+                      "effektVektForhold": 0.21,
+                      "maksNettoEffekt": 43.0
+                    }
+                  ],
+                  "slagvolum": 498
+                }
+              ]
+            },
+            "ovrigeTekniskeData": [],
+            "persontall": {
+              "sitteplasserForan": 1,
+              "sitteplasserTotalt": 1
+            },
+            "tilhengerkopling": {
+              "kopling": []
+            },
+            "vekter": {
+              "egenvekt": 205,
+              "nyttelast": 62,
+              "tillattTotalvekt": 337,
+              "vogntogvektAvhBremsesystem": []
+            }
+          },
+          "unntak": []
+        },
+        "tilleggsgodkjenninger": []
+      }
+    }
+  ]
+}

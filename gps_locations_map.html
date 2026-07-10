@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GPS Locations Map</title>
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin=""
+  />
+  <style>
+    html, body { margin: 0; padding: 0; height: 100%; }
+    #map { width: 100%; height: 100%; }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""
+  ></script>
+  <script>
+    const map = L.map('map').setView([59.900460563, 10.832398546], 13);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const points = [[59.900460563, 10.832398546], [59.900460563, 10.832398546], [59.900460618, 10.832398412], [59.900460618, 10.832398412], [59.900460536, 10.832397225], [59.900460536, 10.832397225], [59.900461242, 10.832393054], [59.900461242, 10.832393054], [59.900461188, 10.832390179], [59.900461188, 10.832390179], [59.900461081, 10.83238997], [59.900461081, 10.83238997], [59.900461073, 10.832387622], [59.900461073, 10.832387622], [59.900460469, 10.832387697], [59.900460469, 10.832387697], [59.900460296, 10.832384504], [59.900460296, 10.832384504], [59.900459743, 10.832385874], [59.900459743, 10.832385874], [59.900459182, 10.832385565], [59.900459182, 10.832385565], [59.900458503, 10.832384796]];
+    L.marker([59.900460563, 10.832398546]).addTo(map).bindPopup('Time: 2026-05-02T16:04:18.070691+00:00<br>Lat: 59.900461<br>Lon: 10.832399<br>Speed: 0.02<br>Altitude: 125.58');L.marker([59.900460563, 10.832398546]).addTo(map).bindPopup('Time: 2026-05-02T16:04:38.085771+00:00<br>Lat: 59.900461<br>Lon: 10.832399<br>Speed: 0.02<br>Altitude: 125.58');L.marker([59.900460618, 10.832398412]).addTo(map).bindPopup('Time: 2026-05-02T16:04:58.101254+00:00<br>Lat: 59.900461<br>Lon: 10.832398<br>Speed: 0.03<br>Altitude: 125.67');L.marker([59.900460618, 10.832398412]).addTo(map).bindPopup('Time: 2026-05-02T16:05:18.116818+00:00<br>Lat: 59.900461<br>Lon: 10.832398<br>Speed: 0.03<br>Altitude: 125.67');L.marker([59.900460536, 10.832397225]).addTo(map).bindPopup('Time: 2026-05-02T16:05:38.130476+00:00<br>Lat: 59.900461<br>Lon: 10.832397<br>Speed: 0.03<br>Altitude: 125.71');L.marker([59.900460536, 10.832397225]).addTo(map).bindPopup('Time: 2026-05-02T16:05:58.146195+00:00<br>Lat: 59.900461<br>Lon: 10.832397<br>Speed: 0.03<br>Altitude: 125.71');L.marker([59.900461242, 10.832393054]).addTo(map).bindPopup('Time: 2026-05-02T16:06:18.159554+00:00<br>Lat: 59.900461<br>Lon: 10.832393<br>Speed: 0.01<br>Altitude: 125.83');L.marker([59.900461242, 10.832393054]).addTo(map).bindPopup('Time: 2026-05-02T16:06:38.174944+00:00<br>Lat: 59.900461<br>Lon: 10.832393<br>Speed: 0.01<br>Altitude: 125.83');L.marker([59.900461188, 10.832390179]).addTo(map).bindPopup('Time: 2026-05-02T16:06:58.188310+00:00<br>Lat: 59.900461<br>Lon: 10.832390<br>Speed: 0.01<br>Altitude: 125.80');L.marker([59.900461188, 10.832390179]).addTo(map).bindPopup('Time: 2026-05-02T16:07:18.204977+00:00<br>Lat: 59.900461<br>Lon: 10.832390<br>Speed: 0.01<br>Altitude: 125.80');L.marker([59.900461081, 10.83238997]).addTo(map).bindPopup('Time: 2026-05-02T16:07:38.219894+00:00<br>Lat: 59.900461<br>Lon: 10.832390<br>Speed: 0.07<br>Altitude: 125.80');L.marker([59.900461081, 10.83238997]).addTo(map).bindPopup('Time: 2026-05-02T16:07:58.235257+00:00<br>Lat: 59.900461<br>Lon: 10.832390<br>Speed: 0.07<br>Altitude: 125.80');L.marker([59.900461073, 10.832387622]).addTo(map).bindPopup('Time: 2026-05-02T16:08:18.248443+00:00<br>Lat: 59.900461<br>Lon: 10.832388<br>Speed: 0.09<br>Altitude: 125.79');L.marker([59.900461073, 10.832387622]).addTo(map).bindPopup('Time: 2026-05-02T16:08:38.263814+00:00<br>Lat: 59.900461<br>Lon: 10.832388<br>Speed: 0.09<br>Altitude: 125.79');L.marker([59.900460469, 10.832387697]).addTo(map).bindPopup('Time: 2026-05-02T16:08:58.277064+00:00<br>Lat: 59.900460<br>Lon: 10.832388<br>Speed: 0.04<br>Altitude: 125.73');L.marker([59.900460469, 10.832387697]).addTo(map).bindPopup('Time: 2026-05-02T16:09:18.294380+00:00<br>Lat: 59.900460<br>Lon: 10.832388<br>Speed: 0.04<br>Altitude: 125.73');L.marker([59.900460296, 10.832384504]).addTo(map).bindPopup('Time: 2026-05-02T16:09:38.307613+00:00<br>Lat: 59.900460<br>Lon: 10.832385<br>Speed: 0.02<br>Altitude: 125.65');L.marker([59.900460296, 10.832384504]).addTo(map).bindPopup('Time: 2026-05-02T16:09:58.322928+00:00<br>Lat: 59.900460<br>Lon: 10.832385<br>Speed: 0.02<br>Altitude: 125.65');L.marker([59.900459743, 10.832385874]).addTo(map).bindPopup('Time: 2026-05-02T16:10:18.338254+00:00<br>Lat: 59.900460<br>Lon: 10.832386<br>Speed: 0.02<br>Altitude: 125.60');L.marker([59.900459743, 10.832385874]).addTo(map).bindPopup('Time: 2026-05-02T16:10:38.353283+00:00<br>Lat: 59.900460<br>Lon: 10.832386<br>Speed: 0.02<br>Altitude: 125.60');L.marker([59.900459182, 10.832385565]).addTo(map).bindPopup('Time: 2026-05-02T16:10:58.366656+00:00<br>Lat: 59.900459<br>Lon: 10.832386<br>Speed: 0.07<br>Altitude: 125.56');L.marker([59.900459182, 10.832385565]).addTo(map).bindPopup('Time: 2026-05-02T16:11:18.381836+00:00<br>Lat: 59.900459<br>Lon: 10.832386<br>Speed: 0.07<br>Altitude: 125.56');L.marker([59.900458503, 10.832384796]).addTo(map).bindPopup('Time: 2026-05-02T16:11:38.395126+00:00<br>Lat: 59.900459<br>Lon: 10.832385<br>Speed: 0.03<br>Altitude: 125.46');
+
+    if (points.length > 1) {
+      const path = L.polyline(points, { color: 'red', weight: 3 }).addTo(map);
+      map.fitBounds(path.getBounds(), { padding: [20, 20] });
+    }
+  </script>
+</body>
+</html>

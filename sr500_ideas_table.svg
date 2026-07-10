@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 620" width="800" height="620">
+  <rect width="800" height="620" fill="#0d1117" rx="8"/>
+
+  <text x="400" y="32" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="bold" fill="#d29922">🏍️ SR500 Agent — Ideas &amp; Features</text>
+  <text x="400" y="50" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#8b949e" font-style="italic">Yamaha SR500 (1981, 2J4) Restoration Project</text>
+
+  <!-- Column headers -->
+  <rect x="20" y="65" width="50" height="24" rx="3" fill="#1c2333"/>
+  <text x="45" y="81" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#58a6ff">#</text>
+
+  <rect x="75" y="65" width="390" height="24" rx="3" fill="#1c2333"/>
+  <text x="270" y="81" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#58a6ff">Idea</text>
+
+  <rect x="470" y="65" width="130" height="24" rx="3" fill="#1c2333"/>
+  <text x="535" y="81" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#58a6ff">Category</text>
+
+  <rect x="605" y="65" width="175" height="24" rx="3" fill="#1c2333"/>
+  <text x="692" y="81" text-anchor="middle" font-family="sans-serif" font-size="10" font-weight="bold" fill="#58a6ff">Impact</text>
+
+  <!-- Row 1 -->
+  <rect x="20" y="93" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="106" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">1</text>
+  <text x="80" y="106" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Visual progress tracker — interactive SVG per component</text>
+  <text x="535" y="106" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🗺️ Visualization</text>
+  <text x="730" y="106" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 2 -->
+  <rect x="20" y="113" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">2</text>
+  <text x="80" y="126" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Budget calculator — log spending, compare suppliers</text>
+  <text x="535" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">💰 Finance</text>
+  <text x="730" y="126" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 3 -->
+  <rect x="20" y="133" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="146" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">3</text>
+  <text x="80" y="146" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Automated price monitoring — cron checking suppliers</text>
+  <text x="535" y="146" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🤖 Automation</text>
+  <text x="730" y="146" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 4 -->
+  <rect x="20" y="153" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="166" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">4</text>
+  <text x="80" y="166" font-family="sans-serif" font-size="9.5" fill="#238636">✦ Clickable SR500 exploded view ✅ Done</text>
+  <text x="535" y="166" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🗺️ Visualization</text>
+  <text x="730" y="166" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 5 -->
+  <rect x="20" y="173" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="186" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">5</text>
+  <text x="80" y="186" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Workshop chatbot — torque specs, sequences</text>
+  <text x="535" y="186" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🤖 AI</text>
+  <text x="730" y="186" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 6 -->
+  <rect x="20" y="193" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="206" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">6</text>
+  <text x="80" y="206" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Photo gallery — before/after from OneDrive</text>
+  <text x="535" y="206" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📸 Media</text>
+  <text x="730" y="206" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 7 -->
+  <rect x="20" y="213" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="226" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">7</text>
+  <text x="80" y="226" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Toolkit checklist — what you need for next job</text>
+  <text x="535" y="226" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🔧 Workshop</text>
+  <text x="730" y="226" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 8 -->
+  <rect x="20" y="233" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="246" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">8</text>
+  <text x="80" y="246" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Report generator — PDF with progress &amp; photos</text>
+  <text x="535" y="246" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📄 Document</text>
+  <text x="730" y="246" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 9 -->
+  <rect x="20" y="253" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="266" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">9</text>
+  <text x="80" y="266" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Vehicle registry — insurance &amp; inspection status</text>
+  <text x="535" y="266" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🔗 API</text>
+  <text x="730" y="266" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Low</text>
+
+  <!-- Row 10 -->
+  <rect x="20" y="273" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="286" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">10</text>
+  <text x="80" y="286" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Garage timer — log hours per subsystem</text>
+  <text x="535" y="286" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">⏱️ Workshop</text>
+  <text x="730" y="286" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 11 -->
+  <rect x="20" y="293" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="306" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">11</text>
+  <text x="80" y="306" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Auto shopping list — generate from work session</text>
+  <text x="535" y="306" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🛒 Workshop</text>
+  <text x="730" y="306" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 12 -->
+  <rect x="20" y="313" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="326" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">12</text>
+  <text x="80" y="326" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Cross-reference tool — find compatible parts</text>
+  <text x="535" y="326" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🔍 Data</text>
+  <text x="730" y="326" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 13 -->
+  <rect x="20" y="333" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="346" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">13</text>
+  <text x="80" y="346" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Status dashboard — HTML with %, cost, progress</text>
+  <text x="535" y="346" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📊 Dashboard</text>
+  <text x="730" y="346" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 14 -->
+  <rect x="20" y="353" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="366" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">14</text>
+  <text x="80" y="366" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Garage assistant — voice Q&amp;A with ElevenLabs</text>
+  <text x="535" y="366" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🎤 Voice</text>
+  <text x="730" y="366" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 15 -->
+  <rect x="20" y="373" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="386" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">15</text>
+  <text x="80" y="386" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Auto photo documentation — organize &amp; before/after</text>
+  <text x="535" y="386" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📸 Media</text>
+  <text x="730" y="386" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 16 -->
+  <rect x="20" y="393" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="406" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">16</text>
+  <text x="80" y="406" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Weight calculator — savings per replaced part</text>
+  <text x="535" y="406" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">⚖️ Data</text>
+  <text x="730" y="406" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Low</text>
+
+  <!-- Row 17 -->
+  <rect x="20" y="413" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="426" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">17</text>
+  <text x="80" y="426" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Electronics planner — wiring, fuses, draw</text>
+  <text x="535" y="426" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🔌 Electrical</text>
+  <text x="730" y="426" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 18 -->
+  <rect x="20" y="433" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="446" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">18</text>
+  <text x="80" y="446" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Extended price monitoring — UK/DE/KEDO/CMSNL</text>
+  <text x="535" y="446" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🤖 Automation</text>
+  <text x="730" y="446" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Row 19 -->
+  <rect x="20" y="453" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="466" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">19</text>
+  <text x="80" y="466" font-family="sans-serif" font-size="9.5" fill="#e6edf3">MOT checklist — everything before road test</text>
+  <text x="535" y="466" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">✅ Workshop</text>
+  <text x="730" y="466" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 20 -->
+  <rect x="20" y="473" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="486" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">20</text>
+  <text x="80" y="486" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Digital vehicle history — logs, mileage, ownership</text>
+  <text x="535" y="486" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📋 Data</text>
+  <text x="730" y="486" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 21 -->
+  <rect x="20" y="493" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="506" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">21</text>
+  <text x="80" y="506" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Color visualization — swap paint on SVG</text>
+  <text x="535" y="506" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🎨 Design</text>
+  <text x="730" y="506" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 22 -->
+  <rect x="20" y="513" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="526" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">22</text>
+  <text x="80" y="526" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Time logger — start/stop per job</text>
+  <text x="535" y="526" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">⏱️ Workshop</text>
+  <text x="730" y="526" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 23 -->
+  <rect x="20" y="533" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="546" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">23</text>
+  <text x="80" y="546" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Auto IG/forum post — weekly build report</text>
+  <text x="535" y="546" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">📝 Media</text>
+  <text x="730" y="546" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 24 -->
+  <rect x="20" y="553" width="760" height="19" rx="2" fill="#161b22" opacity=".3"/><text x="45" y="566" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">24</text>
+  <text x="80" y="566" font-family="sans-serif" font-size="9.5" fill="#e6edf3">Part number decoder — explain OEM codes</text>
+  <text x="535" y="566" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🔍 Data</text>
+  <text x="730" y="566" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">Medium</text>
+
+  <!-- Row 25 -->
+  <rect x="20" y="573" width="760" height="19" rx="2" fill="#161b22" opacity=".5"/><text x="45" y="586" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">25</text>
+  <text x="80" y="586" font-family="sans-serif" font-size="9.5" fill="#238636">✦ Auto MEMORY update — log after each session</text>
+  <text x="535" y="586" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#8b949e">🧠 AI</text>
+  <text x="730" y="586" text-anchor="middle" font-family="sans-serif" font-size="9" fill="#238636">High</text>
+
+  <!-- Legend -->
+  <rect x="20" y="598" width="760" height="16" rx="2" fill="#161b22"/>
+  <rect x="30" y="602" width="8" height="8" rx="2" fill="#238636"/>
+  <text x="42" y="609" font-family="sans-serif" font-size="8" fill="#8b949e">High impact</text>
+  <rect x="120" y="602" width="8" height="8" rx="2" fill="#8b949e"/>
+  <text x="132" y="609" font-family="sans-serif" font-size="8" fill="#8b949e">Medium/Low</text>
+  <text x="230" y="609" font-family="sans-serif" font-size="8" fill="#238636">✦ = done</text>
+  <text x="680" y="609" font-family="sans-serif" font-size="8" fill="#484f58">2026-05-11</text>
+</svg>

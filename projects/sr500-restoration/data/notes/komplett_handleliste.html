@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SR500 – Komplett handleliste</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            color: #222;
+            padding: 2rem;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1 {
+            font-size: 1.6rem;
+            margin-bottom: 0.25rem;
+        }
+        .subtitle {
+            color: #666;
+            margin-bottom: 1.5rem;
+            font-size: 0.9rem;
+        }
+        .section {
+            margin-bottom: 1.5rem;
+        }
+        .section h2 {
+            font-size: 1.1rem;
+            padding: 0.5rem 1rem;
+            border-radius: 8px 8px 0 0;
+            color: #fff;
+        }
+        .section h2.done { background: #28a745; }
+        .section h2.transit { background: #007bff; }
+        .section h2.now { background: #dc3545; }
+        .section h2.later { background: #6c757d; }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: #fff;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+        th {
+            background: #f8f9fa;
+            color: #555;
+            text-align: left;
+            padding: 0.5rem 1rem;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.03em;
+            border-bottom: 2px solid #eee;
+        }
+        td {
+            padding: 0.5rem 1rem;
+            border-bottom: 1px solid #eee;
+            font-size: 0.85rem;
+            vertical-align: top;
+        }
+        tr:last-child td { border-bottom: none; }
+
+        .tag {
+            display: inline-block;
+            padding: 0.15rem 0.5rem;
+            border-radius: 20px;
+            font-size: 0.72rem;
+            font-weight: 600;
+        }
+        .tag-levert { background: #d4edda; color: #155724; }
+        .tag-sendt  { background: #cce5ff; color: #004085; }
+        .tag-kjopt  { background: #d4edda; color: #155724; }
+
+        .detail {
+            display: block;
+            font-size: 0.75rem;
+            color: #888;
+            margin-top: 0.15rem;
+        }
+
+        .plain-list {
+            background: #fff;
+            padding: 0.5rem 1rem;
+            border-radius: 0 0 8px 8px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+        }
+        .plain-list ul {
+            list-style: none;
+            padding: 0;
+        }
+        .plain-list li {
+            padding: 0.4rem 0;
+            border-bottom: 1px solid #f0f0f0;
+            font-size: 0.85rem;
+        }
+        .plain-list li:last-child { border-bottom: none; }
+        .plain-list .price {
+            color: #888;
+            font-size: 0.8rem;
+        }
+
+        .total-bar {
+            margin-top: 1rem;
+            padding: 0.8rem 1rem;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+            display: flex;
+            gap: 1.5rem;
+            flex-wrap: wrap;
+        }
+        .total-item { text-align: center; }
+        .total-item .num {
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: #2c3e50;
+        }
+        .total-item .lbl {
+            font-size: 0.7rem;
+            color: #888;
+            text-transform: uppercase;
+        }
+    </style>
+</head>
+<body>
+
+<h1>🔧 SR500 — Komplett handleliste</h1>
+<p class="subtitle">Sist oppdatert: 13. juni 2026</p>
+
+<!-- ✅ LEVERT -->
+<div class="section">
+    <h2 class="done">✅ Levert / kjøpt</h2>
+    <table>
+        <tr><th>#</th><th>Del</th><th>Pris</th></tr>
+        <tr><td>1</td><td><strong>Footrest Damper ×4</strong> — Yambits <span class="detail">Ordre #389881</span></td><td>£33,99</td></tr>
+        <tr><td>2</td><td><strong>Chain Guard Mounting Rubber</strong> — Yambits <span class="detail">Ordre #389879</span></td><td>£12,41</td></tr>
+        <tr><td>3</td><td><strong>Fuel Tank Support Rubber 2 pcs</strong> — eBay <span class="detail">sakito_classicbike</span></td><td>kr 376,32</td></tr>
+        <tr><td>4</td><td><strong>Seal, Guard (431-22151-03-00) ×2</strong> — CMSNL</td><td>€34,92</td></tr>
+        <tr><td>5</td><td><strong>Oil Seal (93108-35004-00) ×2</strong> — CMSNL</td><td>€29,92</td></tr>
+        <tr><td>6</td><td><strong>Biltema Avfettingsspray</strong></td><td>~kr 300</td></tr>
+        <tr><td>7</td><td><strong>jm no 705 35 31 — Rear Brake Switch</strong></td><td>€23,43</td></tr>
+        <tr><td>8</td><td><strong>102YF117 — Fuel Petcock</strong> (bensinkran)</td><td>€24,67</td></tr>
+        <tr><td>9</td><td><strong>Engine Cover Screw Bolt Set</strong></td><td>£22,27</td></tr>
+    </table>
+</div>
+
+<!-- 🚚 SENDT -->
+<div class="section">
+    <h2 class="transit">🚚 Sendt / på vei</h2>
+    <table>
+        <tr><th>#</th><th>Del</th><th>Pris</th></tr>
+        <tr><td>10</td><td><strong>1J3-25834-01-00 — Låseskive</strong> (eBay)</td><td>€16,88</td></tr>
+    </table>
+</div>
+
+<!-- 🛒 SKAL KJØPES NÅ -->
+<div class="section">
+    <h2 class="now">🛒 Skal kjøpes nå</h2>
+    <div class="plain-list">
+        <ul>
+            <li><strong>90101-08312-00 — Bolt, Flange M8</strong> <span class="price">— fra USD 4,39</span></li>
+            <li><strong>KEDO Replica Front Brake Caliper Left</strong> <span class="price">— €118</span></li>
+            <li><strong>Ny bremseslange</strong> (enkelt-slange, stålomspunnet) <span class="price">— må måles</span></li>
+            <li><strong>Side Panel Mounting Grommet</strong> — Yambits</li>
+            <li><strong>Side Panel Mounting Grommet L/H Lower</strong> — Yambits</li>
+            <li><strong>Side Panel Mounting Grommet R/H Lower</strong> — Yambits</li>
+            <li><strong>Side Panel Mounting Kit</strong> — Yambits</li>
+            <li><strong>Battery Box Damper</strong> — Yambits</li>
+            <li><strong>Battery Box Damper Rubber</strong> — Yambits</li>
+            <li><strong>Mudguard Rear Mounting Bush 78-82</strong> — Yambits</li>
+            <li><strong>Mudguard Rear Mounting Grommet 78-82</strong> — Yambits</li>
+            <li><strong>Airbox Mounting Grommet</strong> — Yambits</li>
+            <li><strong>Grab Rail Plug</strong> — Yambits</li>
+            <li><strong>Indicator Damper Rubber Front & Rear</strong> — Yambits</li>
+        </ul>
+    </div>
+</div>
+
+<!-- ⏳ ØNSKES KJØPT SENERE -->
+<div class="section">
+    <h2 class="later">⏳ Ønskes kjøpt senere</h2>
+    <div class="plain-list">
+        <ul>
+            <li><strong>Motorfeste-bolter (OEM)</strong> — 17 deler <span class="price">— ca USD 130</span></li>
+            <li><strong>Kjede 94580-05104-00</strong> <span class="price">— USD 42,95 + frakt ~USD 42</span></li>
+            <li><strong>JMT Litium-Ion Batteri</strong> <span class="price">— NOK 702</span> (Højstyling)</li>
+            <li><strong>Vape Ignition System</strong> <span class="price">— €512</span> (Tola-Tools)</li>
+            <li><strong>Foot Peg Rubbers (2 stk)</strong> <span class="price">— US $15,95</span> (eBay)</li>
+            <li><strong>Push Pull Throttle kit</strong> <span class="price">— AUD $152,95</span> (eBay)</li>
+            <li><strong>LED Frontlykt Insert</strong> <span class="price">— £219</span> (KEDO)</li>
+            <li><strong>Filternett (583-21756-00-00)</strong> <span class="price">— fra USD 46,28</span></li>
+        </ul>
+        <p style="margin: 0.5rem 0 0 0; padding-top: 0.5rem; border-top: 1px solid #eee; font-size: 0.85rem;"><strong>motogadget elektrisk:</strong></p>
+        <ul>
+            <li>mo.unit blue — €335,29</li>
+            <li>mo.button — €99,00</li>
+            <li>mo.unit ground distributor — €39,00</li>
+            <li>Breakout box — €89,00</li>
+            <li>motoscope pro — €399,00</li>
+            <li>motoscope pro mounting plate — €40,00</li>
+            <li>mo.switch basic LED 3 button ×2 — €278,00</li>
+            <li>mo.unit battery cable 40A fuse (short) — €45,01</li>
+            <li style="font-weight: 600; color: #555;">Sum motogadget: <span class="price">≈ €1.324</span></li>
+        </ul>
+        <p style="margin: 0.5rem 0 0 0; padding-top: 0.5rem; border-top: 1px solid #eee; font-size: 0.85rem;"><strong>Push Pull Throttle kit</strong> (Kedo Parts Australia) <span class="price">— AUD $139,00</span></p>
+    </div>
+</div>
+
+<div class="total-bar">
+    <div class="total-item"><div class="num">9</div><div class="lbl">Levert</div></div>
+    <div class="total-item"><div class="num">1</div><div class="lbl">På vei</div></div>
+    <div class="total-item"><div class="num">~15</div><div class="lbl">Skal kjøpes</div></div>
+    <div class="total-item"><div class="num">~15</div><div class="lbl">Ønskes senere</div></div>
+    <div class="total-item"><div class="num">~40</div><div class="lbl">Totalt</div></div>
+</div>
+
+</body>
+</html>

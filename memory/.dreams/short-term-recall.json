@@ -1,0 +1,518 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-10T10:32:54.068Z",
+  "entries": {
+    "memory:memory/2026-04-26.md:1:18": {
+      "key": "memory:memory/2026-04-26.md:1:18",
+      "path": "memory/2026-04-26.md",
+      "startLine": 1,
+      "endLine": 18,
+      "source": "memory",
+      "snippet": "# 2026-04-26 - Satt opp Vegvesen AKF enkeltoppslag i workspace. - Script: `vegvesen_lookup.py` - Kortkommando: `regnr` - Bruker endpoint `GET /enkeltoppslag/kjoretoydata` - Auth må sendes som header `SVV-Authorization: Apikey <VEGVESEN_API_KEY>` - `.env` i workspace inneholder `VEGVESEN_API_KEY` - Bruk: - `./regnr NU1537` - `./vegvesen_lookup.py NU1537` - `./vegvesen_lookup.py --understellsnummer <VIN>` - Når Johnny ber om å slå opp et kjennemerke, kan dette scriptet brukes direkte. - Struktur for lagrede Vegvesen-oppslag: `bibliotek/vegvesen/<kjoretoytype>/<merke>/<modell>/<kjennemerke>.json` - Første strukturerte lagring: `bibliotek/vegvesen/motorsykkel/yamaha/sr500-2j4/BB5092.json`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-26T11:57:15.866Z",
+      "lastRecalledAt": "2026-04-26T11:57:15.866Z",
+      "queryHashes": [
+        "33fdf13dd8fe"
+      ],
+      "recallDays": [
+        "2026-04-26"
+      ],
+      "conceptTags": [
+        "vegvesen-lookup.py",
+        "enkeltoppslag/kjoretoydata",
+        "svv-authorization",
+        "vegvesen-api-key",
+        "vegvesen-oppslag",
+        "bibliotek/vegvesen",
+        "satt",
+        "opp"
+      ]
+    },
+    "memory:memory/2026-04-26.md:1:19": {
+      "key": "memory:memory/2026-04-26.md:1:19",
+      "path": "memory/2026-04-26.md",
+      "startLine": 1,
+      "endLine": 19,
+      "source": "memory",
+      "snippet": "# 2026-04-26 - Satt opp Vegvesen AKF enkeltoppslag i workspace. - Script: `vegvesen_lookup.py` - Kortkommando: `regnr` - Bruker endpoint `GET /enkeltoppslag/kjoretoydata` - Auth må sendes som header `SVV-Authorization: Apikey <VEGVESEN_API_KEY>` - `.env` i workspace inneholder `VEGVESEN_API_KEY` - Bruk: - `./regnr NU1537` - `./vegvesen_lookup.py NU1537` - `./vegvesen_lookup.py --understellsnummer <VIN>` - Når Johnny ber om å slå opp et kjennemerke, kan dette scriptet brukes direkte. - Struktur for lagrede Vegvesen-oppslag: `bibliotek/vegvesen/<kjoretoytype>/<merke>/<modell>/<kjennemerke>.json` - Første strukturerte lagring: `bibliotek/vegvesen/motorsykkel/yamaha/sr500-2j4/BB5092.json`",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.47789391216612254,
+      "maxScore": 0.47789391216612254,
+      "firstRecalledAt": "2026-04-27T13:18:30.515Z",
+      "lastRecalledAt": "2026-04-27T13:18:30.515Z",
+      "queryHashes": [
+        "51b31237a561"
+      ],
+      "recallDays": [
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "vegvesen-lookup.py",
+        "enkeltoppslag/kjoretoydata",
+        "svv-authorization",
+        "vegvesen-api-key",
+        "vegvesen-oppslag",
+        "bibliotek/vegvesen",
+        "satt",
+        "opp"
+      ]
+    },
+    "memory:memory/2026-04-28.md:42:46": {
+      "key": "memory:memory/2026-04-28.md:42:46",
+      "path": "memory/2026-04-28.md",
+      "startLine": 42,
+      "endLine": 46,
+      "source": "memory",
+      "snippet": "- CMSNL: [Link to Yamaha SR500 1981 parts](https://www.cmsnl.com/en-no/yamaha-sr500-1981-usa_model8813/partslist/D-01.html). - MegaZip: [MegaZip SR500 Parts Listing](https://www.megazip.net/zapchasti-dlya-motocyklov/yamaha/sr500-14186/sr500-28087/sr500h-808850/front-fender-rear-fender-14499290). ### Images Provided: - 5 randomly selected project images shared, including notable visual documentation of current SR500 states and progress.",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1.1110724300146102,
+      "maxScore": 0.3764920741319656,
+      "firstRecalledAt": "2026-04-29T06:10:17.096Z",
+      "lastRecalledAt": "2026-06-11T17:35:09.477Z",
+      "queryHashes": [
+        "48bfe5b66048",
+        "25726bce0d35",
+        "29d6e467aa44"
+      ],
+      "recallDays": [
+        "2026-04-29",
+        "2026-06-07",
+        "2026-06-11"
+      ],
+      "conceptTags": [
+        "cmsnl",
+        "link",
+        "yamaha",
+        "sr500",
+        "parts",
+        "https",
+        "www.cmsnl.com",
+        "usa-model8813"
+      ]
+    },
+    "memory:memory/2026-04-28.md:1:45": {
+      "key": "memory:memory/2026-04-28.md:1:45",
+      "path": "memory/2026-04-28.md",
+      "startLine": 1,
+      "endLine": 45,
+      "source": "memory",
+      "snippet": "# April 28th, 2026 ## Session-related Notes ### Magneto Part Details: - Found part No. 6 for magneto: - Name: \"Screw, Pan Head\" - Quantity: 3 - Weight: 0.01 kg - Note: Part number changed - Part Number: 98503-06014-00 - Del No. 2 from Magneto.csv: - Name: Unknown (???????) - Quantity: 1 - Part Number: 2J2-81416-50-00 - Status: Out of Production --- ### Documents Loaded: All content in `/home/johnny/.openclaw/workspace/workspace/yamaha_sr500/notes` read and indexed for immediate use. --- ### Directories Indexed: - Indexed `/home/johnny/.openclaw/workspace/workspace/yamaha_sr500/magneto` for magneto-related details. - Indexed `/home/johnny/.openclaw/workspace/workspace/",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.4849188659072772,
+      "maxScore": 0.4849188659072772,
+      "firstRecalledAt": "2026-04-29T06:10:51.600Z",
+      "lastRecalledAt": "2026-04-29T06:10:51.600Z",
+      "queryHashes": [
+        "068cf26d8e13"
+      ],
+      "recallDays": [
+        "2026-04-29"
+      ],
+      "conceptTags": [
+        "session-related",
+        "0.01",
+        "98503-06014-00",
+        "magneto.csv",
+        "2j2-81416-50-00",
+        "home/johnny",
+        "magneto-related",
+        "openclaw/workspace/workspace"
+      ]
+    },
+    "memory:memory/2026-04-29.md:1:30": {
+      "key": "memory:memory/2026-04-29.md:1:30",
+      "path": "memory/2026-04-29.md",
+      "startLine": 1,
+      "endLine": 30,
+      "source": "memory",
+      "snippet": "### Logget informasjon for 2026-04-29 #### GPS-koordinater - **59.914982, 10.633614** - Delt via live-lokasjon på Telegram #### Notat om clutch - Del 7 identifisert som \"Plate, Pressure 1\" med delenummer **498-16351-00-00** - Mulige kjøpssteder: YoshiParts og eBay #### Status angående \"Pri Drvn Gear\" - Delenummer: 2J2-16150-00-00 - Pris: Fra US $356.45 - Mulige kjøpssteder: CMSNL, Skruvat.no, eBay #### Bilder fra prosjektet Yamaha SR500 Fem bilder hentet fra arbeidet med motorsykkelen og vist: 1. 20260401_114106.jpg 2. 20260401_122509.jpg 3. 20260401_112828.jpg 4. 20260401_114507.jpg 5. 20260329_130545.jpg #### Neste steg for motorfjerning 1. Koble fra drivlinje: fjern alle bolter mello",
+      "recallCount": 9,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.695933634235879,
+      "maxScore": 0.5621123464846816,
+      "firstRecalledAt": "2026-05-04T09:33:35.806Z",
+      "lastRecalledAt": "2026-06-26T12:46:49.177Z",
+      "queryHashes": [
+        "73cbfa8a8bd0",
+        "44b3358d5603",
+        "4d06d96454f2",
+        "d7528356208c",
+        "eabeb8150cc8",
+        "63a02307f999",
+        "02d49e6e0038",
+        "65b0eb269a28",
+        "b7e1bffa638e"
+      ],
+      "recallDays": [
+        "2026-05-04",
+        "2026-05-07",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-06-07",
+        "2026-06-26"
+      ],
+      "conceptTags": [
+        "gps-koordinater",
+        "59.914982",
+        "10.633614",
+        "live-lokasjon",
+        "498-16351-00-00",
+        "2j2-16150-00-00",
+        "356.45",
+        "skruvat.no"
+      ]
+    },
+    "memory:memory/2026-05-02.md:1:9": {
+      "key": "memory:memory/2026-05-02.md:1:9",
+      "path": "memory/2026-05-02.md",
+      "startLine": 1,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "- Det har vært problemer med å laste opp bilder til Telegram tidligere, inkludert bilder relatert til SR500-prosjektet (spesielt filsti- og format-relaterte feil). Disse ble identifisert og jobbet rundt. - Johnny viste interesse for flere spesifikke SR500-komponenter: frontgaffel, forgasser, baknav, og komponentspesifikasjoner for deler som tank og sylinder. - Jeg sendte bilder av fem tilfeldige SR500-komponenter: 1. Baknav 2. Kickstarter-deler 3. Crankcase 4. Sylinderseksjonen 5. Drivstofftanken - Bildesendingsproblemet ble løst etter å ha forsøkt en annen tilnærming for opplasting.",
+      "recallCount": 12,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4.547504761815071,
+      "maxScore": 0.42739857137203213,
+      "firstRecalledAt": "2026-05-04T09:33:35.806Z",
+      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "queryHashes": [
+        "73cbfa8a8bd0",
+        "44b3358d5603",
+        "be353d801d06",
+        "8c4396f41f6c",
+        "4d06d96454f2",
+        "d7528356208c",
+        "2f8d687c8b6d",
+        "9c4193a98c90",
+        "0bace523aea1",
+        "dd8e0e7f1f2c",
+        "102af80fc61a",
+        "911c7c7f6b89"
+      ],
+      "recallDays": [
+        "2026-05-04",
+        "2026-05-07",
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-17",
+        "2026-06-01",
+        "2026-07-02",
+        "2026-07-05"
+      ],
+      "conceptTags": [
+        "sr500-prosjektet",
+        "format-relaterte",
+        "sr500-komponenter",
+        "kickstarter-deler",
+        "det",
+        "har",
+        "vært",
+        "problemer"
+      ]
+    },
+    "memory:memory/2026-05-24.md:1:13": {
+      "key": "memory:memory/2026-05-24.md:1:13",
+      "path": "memory/2026-05-24.md",
+      "startLine": 1,
+      "endLine": 13,
+      "source": "memory",
+      "snippet": "# 2026-05-24 — SR500: Motoren ute av ramma 🏗️ ## Prosjektframgang - **Motoren er løsnet og tatt ut av ramma** ✅ — kun to bolter som var lette å løsne - **Ramma er vasket én gang**, men har fortsatt mye fett/gammel olje som må fjernes før pulverlakkering - **Alle rammedeler er fjernet** — klar for dyprengjøring - **37 nye bilder tatt** — ligger i OneDrive/SR500prosjekt/, filnavn `20260524_*.jpg` - (Kan ev. kopiere relevante bilder til prosjektmappa for bedre tilgang) ## Neste steg - Dyprengjøring av ramma før lakk - Sende til pulverlakkering hos Oslopulverlakk",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.295304703712463,
+      "maxScore": 0.4449497491121292,
+      "firstRecalledAt": "2026-05-24T17:05:34.429Z",
+      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "queryHashes": [
+        "636c12ffe6d1",
+        "9c4193a98c90",
+        "63a02307f999",
+        "29d6e467aa44",
+        "102af80fc61a",
+        "911c7c7f6b89"
+      ],
+      "recallDays": [
+        "2026-05-24",
+        "2026-06-01",
+        "2026-06-07",
+        "2026-06-11",
+        "2026-07-02",
+        "2026-07-05"
+      ],
+      "conceptTags": [
+        "fett/gammel",
+        "onedrive/sr500prosjekt",
+        "sr500",
+        "motoren",
+        "ute",
+        "ramma",
+        "prosjektframgang",
+        "løsnet"
+      ]
+    },
+    "memory:memory/2026-05-31.md:1:7": {
+      "key": "memory:memory/2026-05-31.md:1:7",
+      "path": "memory/2026-05-31.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "# 2026-05-31 ## SR500-prosjektet - **Sandblåser mottatt** ✅ - Plan: blåse deler først, ramma kommer etterpå",
+      "recallCount": 6,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.3708670765161513,
+      "maxScore": 0.44086840152740475,
+      "firstRecalledAt": "2026-06-01T09:49:10.712Z",
+      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "queryHashes": [
+        "9c4193a98c90",
+        "de70e2111e90",
+        "65b0eb269a28",
+        "dd8e0e7f1f2c",
+        "102af80fc61a",
+        "911c7c7f6b89"
+      ],
+      "recallDays": [
+        "2026-06-01",
+        "2026-06-22",
+        "2026-06-26",
+        "2026-07-02",
+        "2026-07-05"
+      ],
+      "conceptTags": [
+        "sr500-prosjektet",
+        "sr500",
+        "prosjektet",
+        "sandblåser",
+        "mottatt",
+        "plan",
+        "blåse",
+        "deler"
+      ]
+    },
+    "memory:memory/2026-06-07.md:1:8": {
+      "key": "memory:memory/2026-06-07.md:1:8",
+      "path": "memory/2026-06-07.md",
+      "startLine": 1,
+      "endLine": 8,
+      "source": "memory",
+      "snippet": "# 2026-06-07 ## SR500 Prosjektstatus - Johnny har gått over svingarm og ramme for siste rengjøring før lakkering - Plan: sende ramma til Oslopulverlakk i uke 24 - Forstillingen er helt demontert - Nye bilder lastet opp i OneDrive (10 stk)",
+      "recallCount": 8,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3.065422818064689,
+      "maxScore": 0.4160763412714004,
+      "firstRecalledAt": "2026-06-07T10:06:27.017Z",
+      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "queryHashes": [
+        "63a02307f999",
+        "25726bce0d35",
+        "29d6e467aa44",
+        "de70e2111e90",
+        "65b0eb269a28",
+        "dd8e0e7f1f2c",
+        "102af80fc61a",
+        "911c7c7f6b89"
+      ],
+      "recallDays": [
+        "2026-06-07",
+        "2026-06-11",
+        "2026-06-22",
+        "2026-06-26",
+        "2026-07-02",
+        "2026-07-05"
+      ],
+      "conceptTags": [
+        "sr500",
+        "prosjektstatus",
+        "johnny",
+        "har",
+        "gått",
+        "svingarm",
+        "ramme",
+        "siste"
+      ]
+    },
+    "memory:memory/2026-06-19.md:1:27": {
+      "key": "memory:memory/2026-06-19.md:1:27",
+      "path": "memory/2026-06-19.md",
+      "startLine": 1,
+      "endLine": 27,
+      "source": "memory",
+      "snippet": "# 2026-06-19 — SR500 prosjekt ## Ramme og svingarm tilbake fra pulverlakk - **Oslopulverlakk** — levert 2026-06-11, hentet 2026-06-19 ✅ - Kostnad: **kr 5 250** - Resultat: superbra! Nye bilder på OneDrive - Leverandør i Rælingen — anbefales ## Tank levert for glassblåsing og lakkering - Status: på verksted ## Handleliste oppdatert - Cafe Racer / Scrambler-sete (Motea, Craftride flat brun) — kr 1 199,99 - Bakdempere Zaddox RS2 (Motea) — fra kr 1 747,49 - Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96 ## Nye leverandører lagt til - Omega Racer — skandinavisk cafe racer - Cafe Racer Webshop — Nederland - Backyard Engineering — norsk ra",
+      "recallCount": 7,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2.754288026690483,
+      "maxScore": 0.41698715984821316,
+      "firstRecalledAt": "2026-06-22T09:24:29.137Z",
+      "lastRecalledAt": "2026-07-10T09:30:18.197Z",
+      "queryHashes": [
+        "de70e2111e90",
+        "65b0eb269a28",
+        "b7e1bffa638e",
+        "0bace523aea1",
+        "dd8e0e7f1f2c",
+        "911c7c7f6b89",
+        "0b1f4ed4c864"
+      ],
+      "recallDays": [
+        "2026-06-22",
+        "2026-06-26",
+        "2026-07-02",
+        "2026-07-05",
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "scrambler-sete",
+        "sr500",
+        "prosjekt",
+        "ramme",
+        "svingarm",
+        "tilbake",
+        "fra",
+        "pulverlakk"
+      ]
+    },
+    "memory:memory/2026-06-11.md:1:10": {
+      "key": "memory:memory/2026-06-11.md:1:10",
+      "path": "memory/2026-06-11.md",
+      "startLine": 1,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "# 2026-06-11 ## SR500 Prosjektstatus - Sandblåseren har vært i drift! - Øvre styrekrone sandblåst (6. juni) - Nedre styrekrone sandblåst (11. juni) - **Ramme + svingarm levert til Oslopulverlakk** — forventet ferdig om ~2 uker - Før lakkering: Johnny skrudde oljefilteret på plass for å hindre sand/støv i oljetanken - Ny bloggpost publisert: sandblåsing og lakk-levering",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3661651939153671,
+      "maxScore": 0.3661651939153671,
+      "firstRecalledAt": "2026-06-22T09:24:29.137Z",
+      "lastRecalledAt": "2026-06-22T09:24:29.137Z",
+      "queryHashes": [
+        "de70e2111e90"
+      ],
+      "recallDays": [
+        "2026-06-22"
+      ],
+      "conceptTags": [
+        "sand/støv",
+        "lakk-levering",
+        "sr500",
+        "prosjektstatus",
+        "sandblåseren",
+        "har",
+        "vært",
+        "drift"
+      ]
+    },
+    "memory:memory/2026-06-21.md:1:22": {
+      "key": "memory:memory/2026-06-21.md:1:22",
+      "path": "memory/2026-06-21.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 21. juni 2026 — Fremgang forstilling + backup oppsett ## Hendelser - **Styrekroner montert med gaffelbein** — sort lakk, klare for ramma - **Nytt styre bestilt** — eBay, sort, nær originalt design, kr 643 inkl. frakt via PayPal. ETA 10.–31. juli - **Bloggpost publisert** — https://nasselang.github.io/sr500-restoration/ — om styrekroner + nytt styre - **Bildeanalyse fikset** — `gemma3:4b` satt som default image model i openclaw.json - **Backup oppsett:** - Prosjektdata pushet til GitHub (samme repo som bloggen: `nasselang/sr500-restoration`, `prosjektdata/`-katalog) - Auto-backup cron: hver 3. dag kl 12:00 (script: `scripts/backup-sr500.sh`) - 167 filer, ~78 MB på GitHub - **Bremsesk",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3538375794887543,
+      "maxScore": 0.3538375794887543,
+      "firstRecalledAt": "2026-07-05T08:07:06.962Z",
+      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "queryHashes": [
+        "911c7c7f6b89"
+      ],
+      "recallDays": [
+        "2026-07-05"
+      ],
+      "conceptTags": [
+        "backup",
+        "openclaw.json",
+        "nasselang/sr500-restoration",
+        "auto-backup",
+        "scripts/backup-sr500.sh",
+        "juni",
+        "fremgang",
+        "forstilling"
+      ]
+    },
+    "memory:memory/2026-06-27.md:1:21": {
+      "key": "memory:memory/2026-06-27.md:1:21",
+      "path": "memory/2026-06-27.md",
+      "startLine": 1,
+      "endLine": 21,
+      "source": "memory",
+      "snippet": "# 2026-06-27 — Handleliste + regnskap ## Handlelista omstrukturert - Sortert i bestilt (øvre del) / ønsket (nedre del) med tydelig separator - Lagt til regnskap nederst på lista ## Regnskapet - Betalt hittil-delen ble detaljert med individuelle priser funnet via epost (komplett_handleliste.html): - Oslopulverlakk: kr 5 250 - Yambits: Footrest Damper £33,99 + Chain Guard Rubber £12,41 - CMSNL: Seal Guard €34,92 + Oil Seal €29,92 - eBay: Fuel Tank Support Rubber kr 376 - Diverse: Rear Brake Switch €23,43, Bensinkran €24,67, Engine Cover Screws £22,27 - Biltema spray ~kr 300, Låseskive €16,88 - Sandblåserkabinett (verktøy) kr 1 990 - La til NOK-omregningskolonne - Slo sammen \"Be",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3891634881496429,
+      "maxScore": 0.3891634881496429,
+      "firstRecalledAt": "2026-07-10T10:32:54.068Z",
+      "lastRecalledAt": "2026-07-10T10:32:54.068Z",
+      "queryHashes": [
+        "45feafb5a60f"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "hittil-delen",
+        "komplett-handleliste.html",
+        "nok-omregningskolonne",
+        "handleliste",
+        "regnskap",
+        "handlelista",
+        "omstrukturert",
+        "sortert"
+      ]
+    },
+    "memory:memory/2026-06-28.md:1:20": {
+      "key": "memory:memory/2026-06-28.md:1:20",
+      "path": "memory/2026-06-28.md",
+      "startLine": 1,
+      "endLine": 20,
+      "source": "memory",
+      "snippet": "# 2026-06-28 — Daglige notater ## GitHub Pages build-feil - Run #47 feilet: `blog_shoppinglist_utfkast.md` hadde `---` som Jekyll tolket som YAML front matter. - Fikset ved å bytte til HTML-kommentar i stedet. Run #48 gikk grønt ✅ - **Viktig:** Bloggen har sin egen `SHOPPINGLIST.md` på rota (`sr500-blog/SHOPPINGLIST.md`) — denne må oppdateres *i tillegg* til `prosjektdata/data/notes/shopping_list.md`. Glemte å oppdatere den ved forrige push, så Johnny så ikke endringene på bloggen. ## Oljefilter SR500 - Original delenummer: `4X7-13440-90-00` (patronfilter, venstre side) - Ettermarked: HiFlo HF145, K&N KN-126, Yambits - O-ringer som trengs: #24 (`93210-64297-00`) filterdeksel, #27 (`93210-0",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.3862545847892761,
+      "maxScore": 0.3862545847892761,
+      "firstRecalledAt": "2026-07-10T10:32:54.068Z",
+      "lastRecalledAt": "2026-07-10T10:32:54.068Z",
+      "queryHashes": [
+        "45feafb5a60f"
+      ],
+      "recallDays": [
+        "2026-07-10"
+      ],
+      "conceptTags": [
+        "build-feil",
+        "blog-shoppinglist-utfkast.md",
+        "html-kommentar",
+        "shoppinglist.md",
+        "sr500-blog/shoppinglist.md",
+        "4x7-13440-90-00",
+        "kn-126",
+        "o-ringer"
+      ]
+    }
+  }
+}

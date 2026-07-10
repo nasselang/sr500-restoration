@@ -1,0 +1,8 @@
+ID                DATE              FROM                                                              SUBJECT                                                               LABELS                            THREAD
+19f06dc1b7c2aca2  2026-06-27 04:15  PayPal Status <noreply@paypal.com>                                Initial Notification: Impact to checkout services                     CATEGORY_UPDATES,INBOX            -
+19f0638559f754f4  2026-06-27 01:16  nasselang@gmail.com                                               SR500 - Oppdatert: Domino Throttle bestilt                            SENT,INBOX                        -
+19f0636648dd8946  2026-06-27 01:14  nasselang@gmail.com                                               SR500 - Komplett handleliste m/URL-er 27.06.2026                      SENT,INBOX                        -
+19f06344dbddd4db  2026-06-27 01:11  nasselang@gmail.com                                               SR500 - Komplett handleliste 27.06.2026                               SENT,INBOX                        -
+19f0626be248d7ec  2026-06-27 00:57  eBay <ebay@ebay.com>                                              Intellitronix Speed… is listed by an experienced eBay seller, Johnny  CATEGORY_UPDATES,INBOX            -
+19f0405cee42d66e  2026-06-26 15:01  "service@paypal.com" <service@paypal.com>                         Receipt for your PayPal payment                                       IMPORTANT,CATEGORY_UPDATES,INBOX  -
+19f0405a19b16ab8  2026-06-26 15:01  "Kundenservice / Buchhaltung von tola-tools" <info@tolatools.de>  Your tola-tools online order from Friday, June 26, 2026               CATEGORY_PERSONAL,INBOX           -
