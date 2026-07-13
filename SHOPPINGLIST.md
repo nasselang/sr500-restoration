@@ -23,7 +23,7 @@ Sist oppdatert: 2026-07-13
 | Verkstedhåndbok | $58,96 | 🟡 Kan være henteklar (eBay tryfan44010/C Jones — sjekk!) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
 | Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | ✅ Klar til henting på Extra Skøyenåsen (LO427521045GB, hentekode GV39, hylle F2) |
-| Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 | 🆕 Bestilt 12.07, ETA 4.–18. aug |
+| Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 | ✅ Bestilt 12.07 — bekreftet/betalt 13.07, ETA 4.–18. aug |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -82,8 +82,8 @@ Sist oppdatert: 2026-07-13
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Klar til henting Extra Skøyenåsen (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
-| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express registrert 11.07 |
-| 27 | Komplett pakningssett motor (SR500/XT500 79-89) | ~£38,94 | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🆕 Bestilt 12.07, ETA 4.–18. aug |
+| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express (registrert 11.07, hos lokal transportør 13.07) |
+| 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | ✅ Bestilt 12.07 — bekreftet/betalt 13.07, ETA 4.–18. aug |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
 | | **Sum betalt hittil** | | **~kr 31 458** | | |
 
