@@ -2,7 +2,7 @@
 # SR500 prosjektbackup — kjøres hver 3. dag
 set -e
 
-cd /home/johnny/.openclaw/workspace/sr500-blog
+cd /home/johnny/.openclaw/workspace/projects/sr500-restoration/blog_repo
 
 # Sync project data fra arbeidsmappa
 rsync -a --delete /home/johnny/.openclaw/workspace/projects/sr500-restoration/data/ prosjektdata/data/
@@ -19,6 +19,9 @@ cp /home/johnny/.openclaw/workspace/projects/sr500-restoration/IDENTITY.md prosj
 
 # Sync MEMORY.md fra workspace root
 cp /home/johnny/.openclaw/workspace/MEMORY.md prosjektdata/
+
+# Sync handleliste
+cp /home/johnny/.openclaw/workspace/projects/sr500-restoration/data/notes/shopping_list.md SHOPPINGLIST.md
 
 # Commit og push om det er endringer
 if ! git diff --quiet; then

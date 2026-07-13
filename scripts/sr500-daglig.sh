@@ -7,7 +7,7 @@ set -e
 WORKSPACE="/home/johnny/.openclaw/workspace"
 PROJECT="$WORKSPACE/projects/sr500-restoration"
 DETAILED="$PROJECT/data/notes/shopping_list.md"
-BLOG="$WORKSPACE/blog"
+SR500_BLOG="$PROJECT/blog_repo"
 LOG="$WORKSPACE/scripts/sr500-daglig.log"
 
 echo "===== $(date) =====" | tee -a "$LOG"
@@ -27,9 +27,9 @@ if grep -qi "order\|shipping\|tracking\|dispatched\|bestilling\|forsendelse\|spo
     grep -i "order\|shipping\|tracking\|dispatched\|bestilling\|forsendelse\|sporings\|pakke\|levert\|shipped" /tmp/sr500-email-check.txt 2>/dev/null | head -10 | tee -a "$LOG"
 fi
 
-# --- 2. Sync detaljert handleliste → SHOPPINGLIST.md på master ---
-if [ -f "$BLOG/SHOPPINGLIST.md" ] && [ -f "$DETAILED" ]; then
-    cp "$DETAILED" "$BLOG/SHOPPINGLIST.md"
+# --- 2. Sync detaljert handleliste → SHOPPINGLIST.md ---
+if [ -f "$SR500_BLOG/SHOPPINGLIST.md" ] && [ -f "$DETAILED" ]; then
+    cp "$DETAILED" "$SR500_BLOG/SHOPPINGLIST.md"
     echo "📋 Synket shopping_list.md → SHOPPINGLIST.md" | tee -a "$LOG"
 fi
 
@@ -44,13 +44,13 @@ if ! git diff --quiet; then
     PUSHED=true
 fi
 
-# --- 4. Commit og push blog (master) ---
-cd "$BLOG"
+# --- 4. Commit og push blog (main) ---
+cd "$SR500_BLOG"
 if ! git diff --quiet; then
-    echo "⬆️  Pusher master (SHOPPINGLIST.md)..." | tee -a "$LOG"
+    echo "⬆️  Pusher main (SHOPPINGLIST.md)..." | tee -a "$LOG"
     git add -A
     git commit -m "📋 Handleliste oppdatert $(date +%Y-%m-%d)"
-    git push origin master 2>&1 | tee -a "$LOG"
+    git push origin main 2>&1 | tee -a "$LOG"
     PUSHED=true
 fi
 
