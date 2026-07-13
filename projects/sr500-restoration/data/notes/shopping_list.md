@@ -84,7 +84,8 @@ Sist oppdatert: 2026-07-13
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express registrert 11.07 |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | ~£38,94 | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🆕 Bestilt 12.07, ETA 4.–18. aug |
-| | **Sum betalt hittil** | | **~kr 28 458** | | |
+| 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
+| | **Sum betalt hittil** | | **~kr 31 458** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -96,4 +97,4 @@ Sist oppdatert: 2026-07-13
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 28 458**
+**🔢 Totalt investert hittil: ~kr 31 458**
