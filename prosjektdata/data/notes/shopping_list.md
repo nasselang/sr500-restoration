@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-09
+Sist oppdatert: 2026-07-13
 
 ---
 
@@ -18,11 +18,12 @@ Sist oppdatert: 2026-07-09
 **eBay**
 | Del | Pris | Status |
 |---|---|---|
-| Styre | kr 643 | 🟡 Bestilt (ETA 10-31 jul) |
+| Styre | kr 643 | 🟡 Kan være henteklar (eBay tryfan44010/C Jones — sjekk!) |
 | Forskjerm | $92,21 | ✅ Hentet 02.07 |
-| Verkstedhåndbok | $58,96 | 🟡 Bestilt (ETA 23 jul-12 aug) |
+| Verkstedhåndbok | $58,96 | 🟡 Kan være henteklar (eBay tryfan44010/C Jones — sjekk!) |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
-| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
+| Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | ✅ Klar til henting på Extra Skøyenåsen (LO427521045GB, hentekode GV39, hylle F2) |
+| Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 | 🆕 Bestilt 12.07, ETA 4.–18. aug |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -31,7 +32,7 @@ Sist oppdatert: 2026-07-09
 | VAPE Ignition SR500/TT500/XT500 | **TOLA-Tools** (#202652798) | €533,79 (~kr 6 200) | 🆕 Bestilt 26.06, PayPal ✅ |
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | ✅ Mottatt |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
-| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🆕 Bestilt 25.06, gratis frakt 5-8 dager |
+| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit pr 10.07) |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 |
 
@@ -46,8 +47,7 @@ Sist oppdatert: 2026-07-09
 - JMT Lithium-ion (Højstyling) — <https://www.hojstyling.no/mc-deler/service-mc-deler/reservedeler-till-mc/jmt-kraftfullt-litium-ion-batteri-til-motorsykkel/>
 - Shido LTZ5S Lithium (alternativ) — ca. kr 800–1 200
 - Bremseklosser foran EBC FA87 (organisk) — ca. kr 250–500
-- Gasket, Crcs Cover (`3HT-15451-00-00`) — $19,27
-- Gasket, Crankcase Cover 3 (`3HT-15462-00-00`) — $21,46
+  *(Gasket, Crcs Cover & Crankcase Cover 3 er dekket av det komplette pakningssettet — fjernet)*
 
 ---
 
@@ -76,14 +76,16 @@ Sist oppdatert: 2026-07-09
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | ✅ Mottatt |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | ✅ Mottatt |
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | ✅ Levert 28.06 |
-| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🆕 Bestilt 25.06 |
-| 21 | Styre | kr 643 | kr 643 | eBay | 🟡 Bestilt, ETA 10-31 jul |
-| 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay | 🟡 Bestilt, ETA 23 jul-12 aug |
-| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | 🟢 Ankommet lokalt, levering pågår (LO427521045GB) |
+| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit 10.07) |
+| 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | 🟡 Kan være henteklar — sjekk! |
+| 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay (tryfan44010/C Jones) | 🟡 Kan være henteklar — sjekk! |
+| 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Klar til henting Extra Skøyenåsen (LO427521045GB) |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
-| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🆕 Bestilt 05.07 |
-| | **Sum betalt hittil** | | **~kr 27 923** | | |
+| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express registrert 11.07 |
+| 27 | Komplett pakningssett motor (SR500/XT500 79-89) | ~£38,94 | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🆕 Bestilt 12.07, ETA 4.–18. aug |
+| 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
+| | **Sum betalt hittil** | | **~kr 31 458** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -95,4 +97,4 @@ Sist oppdatert: 2026-07-09
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 27 923**
+**🔢 Totalt investert hittil: ~kr 31 458**

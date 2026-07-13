@@ -65,4 +65,6 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 ## AliExpress
 - Flensbolt M8×12mm (95811-08012-00) ×5 bestilt 05.07 — under kr 100. Bra alternativ for standardbolter til en brøkdel av OEM-pris.
 
-- **Publiseringsrutine:** Alltid vis utkast til Johnny før publisering til GitHub Pages. Aldri push uten godkjenning. Blogg: https://nasselang.github.io/sr500-restoration/
+- **Publiseringsrutine (⚠️ VIKTIG):** Alltid vis utkast til Johnny _før_ publisering til GitHub Pages. Aldri push uten godkjenning. Dette gjelder **alle** blogg-innlegg og filer i `blog_repo/`.
+- Blogg: https://nasselang.github.io/sr500-restoration/
+- Merk: `blog_repo/` er et eget git-repo (branch: `main`) som hostes på GitHub Pages. Hovedrepoet har `master`.
