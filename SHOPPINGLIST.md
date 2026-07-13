@@ -33,7 +33,7 @@ Sist oppdatert: 2026-07-13 (kveld)
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | ✅ Mottatt |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit pr 10.07) |
-| Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | 🆕 Bestilt 28.06, EMS-frakt |
+| Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 
 ---
@@ -80,7 +80,7 @@ Sist oppdatert: 2026-07-13 (kveld)
 | 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | 🟡 Kan være henteklar — sjekk! |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay (tryfan44010/C Jones) | ✅ Hentet 13.07 |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Hentet 13.07 |
-| 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | 🆕 Bestilt 28.06 |
+| 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | ✅ Mottatt 13.07 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express (registrert 11.07, hos lokal transportør 13.07) |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | ✅ Bestilt 12.07 — bekreftet/betalt 13.07, ETA 4.–18. aug |
