@@ -18,7 +18,7 @@ Sist oppdatert: 2026-07-13 (kveld)
 **eBay**
 | Del | Pris | Status |
 |---|---|---|
-| Styre | kr 643 | 🟡 Kan være henteklar (eBay tryfan44010/C Jones — sjekk!) |
+| Styre | kr 643 | ✅ Hentet 14.07 |
 | Forskjerm | $92,21 | ✅ Hentet 02.07 |
 | Verkstedhåndbok | $58,96 | ✅ Hentet 13.07 |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
@@ -77,15 +77,17 @@ Sist oppdatert: 2026-07-13 (kveld)
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | ✅ Mottatt |
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | ✅ Levert 28.06 |
 | 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit 10.07) |
-| 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | 🟡 Kan være henteklar — sjekk! |
+| 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | ✅ Hentet 14.07 |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay (tryfan44010/C Jones) | ✅ Hentet 13.07 |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Hentet 13.07 |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | ✅ Mottatt 13.07 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express (registrert 11.07, hos lokal transportør 13.07) |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | ✅ Bestilt 12.07 — bekreftet/betalt 13.07, ETA 4.–18. aug |
+| 28 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | 🟡 Bestilt 14.07 — ordrebekreftet, venter på levering |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
-| | **Sum betalt hittil** | | **~kr 31 458** | | |
+| 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Bestilt 13.07 — ordrebekreftet |
+| | **Sum betalt hittil** | | **~kr 31 801** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
