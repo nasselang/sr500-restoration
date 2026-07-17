@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-14 (12:00)
+Sist oppdatert: 2026-07-17 (14:50)
 
 ---
 
@@ -82,7 +82,7 @@ Sist oppdatert: 2026-07-14 (12:00)
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Hentet 13.07 |
 | 24 | Damper, Locating 3 (2J2-24183-01-00) | $26,15 | ~kr 275 | MegaZip | ✅ Mottatt 13.07 |
 | 25 | 5.75" LED frontlykt-innsats (sort) | €14,20 | ~kr 164 | AliExpress | ✅ Hentet 09.07 |
-| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | 🟡 Underveis — Helthjem/SF Express (registrert 11.07, hos lokal transportør 13.07) |
+| 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | ✅ Klar til henting 17.07 — Princess Bryn, kode 9264, sporingsnr 370724763494238737 |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🟡 Sendt 13.07 — Poczta Polska, ETA 4.–18. aug |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
 | 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
