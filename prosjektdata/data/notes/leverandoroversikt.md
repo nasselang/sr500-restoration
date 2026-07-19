@@ -97,6 +97,7 @@ Kategorisert slik at det er lett å finne fram.
 - **Type:** Rimelige ettermarkedsdeler, bolter, smådeler
 - **Notat:** Veldig lave priser, men lang frakt. Bra for standardbolter og smådeler som OEM-prisen er latterlig høy på.
 - **Bestilt:** Flensbolt M8×12mm (95811-08012-00) ×5 stk — under kr 100 (2026-07-05)
+- **Bestilt:** Speil med blinklys 22mm/7" (blå linse) — €29,45 (2026-07-14)
 
 ### The Vintage Spoke — USA
 - **URL:** <https://www.thevintagespoke.com/shop/SR500/Frame--Body/Side-Covers-Fenders--Mounting-Supplies.htm>

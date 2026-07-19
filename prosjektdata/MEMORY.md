@@ -58,9 +58,11 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-06-27:** Lager+simring-sett forhjul bestilt fra Online MC (#89847) — kr 530
 - **2026-07-02:** CMSNL flensbolt, Motogadget-pakke, Online MC forhjul-sett og Thansen svinghjulsavdrager ✅ **Mottatt**
 - **2026-07-03:** ✅ **Tank hentet fra lakkering — sort finish!** Bilder lagret i `data/tank/`.
+- **2026-07-14:** Speil med blinklys (22mm 7/8", blå linse) bestilt fra AliExpress Bonastar Store — €29,45 (~kr 343)
+- **2026-07-14:** Styre hentet fra eBay (tryfan44010/C Jones) — kr 643 ✅
 
 ## Totalt investert hittil
-- ~kr 27 923
+- ~kr 31 801
 
 ## AliExpress
 - Flensbolt M8×12mm (95811-08012-00) ×5 bestilt 05.07 — under kr 100. Bra alternativ for standardbolter til en brøkdel av OEM-pris.
