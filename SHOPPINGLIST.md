@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-17 (14:50)
+Sist oppdatert: 2026-07-19 (12:00)
 
 ---
 
@@ -32,7 +32,7 @@ Sist oppdatert: 2026-07-17 (14:50)
 | VAPE Ignition SR500/TT500/XT500 | **TOLA-Tools** (#202652798) | €533,79 (~kr 6 200) | ✅ Mottatt 13.07 |
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | ✅ Mottatt |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
-| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit pr 10.07) |
+| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🟡 Underveis — Yun Express YT2619101400446816 (Carrier updated 18.07) |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 
@@ -76,7 +76,7 @@ Sist oppdatert: 2026-07-17 (14:50)
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | ✅ Mottatt |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | ✅ Mottatt |
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | ✅ Levert 28.06 |
-| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit 10.07) |
+| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🟡 Underveis — Yun Express YT2619101400446816 (Carrier updated 18.07) |
 | 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | ✅ Hentet 14.07 |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay (tryfan44010/C Jones) | ✅ Hentet 13.07 |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Hentet 13.07 |
