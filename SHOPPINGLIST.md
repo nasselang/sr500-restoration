@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-21 (10:31)
+Sist oppdatert: 2026-07-21 (11:12)
 
 ---
 
@@ -37,6 +37,7 @@ Sist oppdatert: 2026-07-21 (10:31)
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 | Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | 🟡 Bestilt 20.07 — PayPal ✅
 | Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
+| 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟡 Bestilt 21.07 — ETA 7.–14. aug
 
 ---
 
@@ -92,7 +93,8 @@ Sist oppdatert: 2026-07-21 (10:31)
 | **Sum betalt hittil** | | **~kr 31 801** | |
 | | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | 🟡 Bestilt 20.07 — PayPal ✅, venter på sporing |
 | | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
-| | **Sum betalt hittil** | | **~kr 33 537** | | |
+| | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟡 Bestilt 21.07 — ETA 7.–14. aug |
+| | **Sum betalt hittil** | | **~kr 34 683** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -104,4 +106,4 @@ Sist oppdatert: 2026-07-21 (10:31)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 33 537**
+**🔢 Totalt investert hittil: ~kr 34 683**
