@@ -75,5 +75,9 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - Oxford Retro Grips bestilt 21.07 — kr 286 inkl frakt. Retro-stil håndtak til SR500.
 
 - **Publiseringsrutine (⚠️ VIKTIG):** Alltid vis utkast til Johnny _før_ publisering til GitHub Pages. Aldri push uten godkjenning. Dette gjelder **alle** blogg-innlegg og filer i `blog_repo/`.
+- **Dobbel push-rutine (⚠️ VIKTIG):** Hver gang shoppinglista oppdateres, må **begge** filene endres:
+  1. `data/notes/shopping_list.md` (hovedrepo, master)
+  2. `blog_repo/SHOPPINGLIST.md` (GitHub Pages, main)
+  Husk også å committe submodul-referansen i hovedrepoet etter at blog_repo er pushet.
 - Blogg: https://nasselang.github.io/sr500-restoration/
 - Merk: `blog_repo/` er et eget git-repo (branch: `main`) som hostes på GitHub Pages. Hovedrepoet har `master`.
