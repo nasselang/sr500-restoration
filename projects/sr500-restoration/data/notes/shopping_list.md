@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-17 (14:50)
+Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 
@@ -32,9 +32,10 @@ Sist oppdatert: 2026-07-17 (14:50)
 | VAPE Ignition SR500/TT500/XT500 | **TOLA-Tools** (#202652798) | €533,79 (~kr 6 200) | ✅ Mottatt 13.07 |
 | Komplett lager+simring-sett forhjul | **Online MC** (#89847) | kr 530 | ✅ Mottatt |
 | Flensbolt + klembolter ×2 | **CMSNL** | €37,35 | ✅ Mottatt |
-| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit pr 10.07) |
+| Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | ✅ Hentet 19.07 |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
+| Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | 🟡 Bestilt 20.07 — PayPal ✅
 
 ---
 
@@ -76,7 +77,7 @@ Sist oppdatert: 2026-07-17 (14:50)
 | 17 | Lager+simring forhjul (Online MC) | kr 530 | kr 530 | Online MC | ✅ Mottatt |
 | 18 | Svinghjulsavdrager (Thansen) | kr 119 | kr 119 | Thansen | ✅ Mottatt |
 | 19 | Oxford eksosbånd | kr 330 | kr 330 | Højstyling | ✅ Levert 28.06 |
-| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | 🟡 Underveis — Yun Express YT2619101400446816 (In Transit 10.07) |
+| 20 | Domino Push/Pull Throttle | $48,41 | ~kr 508 | Cafe Racer Garage | ✅ Hentet 19.07 |
 | 21 | Styre | kr 643 | kr 643 | eBay (tryfan44010/C Jones) | ✅ Hentet 14.07 |
 | 22 | Verkstedhåndbok | $58,96 | ~kr 619 | eBay (tryfan44010/C Jones) | ✅ Hentet 13.07 |
 | 23 | Oljefilter (4X7-13440-90-00) + O-ringer | — | — | eBay | ✅ Hentet 13.07 |
@@ -86,7 +87,10 @@ Sist oppdatert: 2026-07-17 (14:50)
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🟡 Sendt 13.07 — Poczta Polska, ETA 4.–18. aug |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
 | 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
-| | **Sum betalt hittil** | | **~kr 31 801** | | |
+| | | | | |
+| **Sum betalt hittil** | | **~kr 31 801** | |
+| | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | 🟡 Bestilt 20.07 — PayPal ✅, venter på sporing |
+| | **Sum betalt hittil** | | **~kr 33 251** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -98,4 +102,4 @@ Sist oppdatert: 2026-07-17 (14:50)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 31 458**
+**🔢 Totalt investert hittil: ~kr 33 251**
