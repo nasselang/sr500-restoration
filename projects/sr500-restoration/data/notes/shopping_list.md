@@ -36,6 +36,7 @@ Sist oppdatert: 2026-07-20 (11:34)
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 | Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | 🟡 Bestilt 20.07 — PayPal ✅
+| Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
 
 ---
 
@@ -90,7 +91,8 @@ Sist oppdatert: 2026-07-20 (11:34)
 | | | | | |
 | **Sum betalt hittil** | | **~kr 31 801** | |
 | | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | 🟡 Bestilt 20.07 — PayPal ✅, venter på sporing |
-| | **Sum betalt hittil** | | **~kr 33 251** | | |
+| | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
+| | **Sum betalt hittil** | | **~kr 33 537** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -102,4 +104,4 @@ Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 33 251**
+**🔢 Totalt investert hittil: ~kr 33 537**
