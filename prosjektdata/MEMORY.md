@@ -60,13 +60,24 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-03:** ✅ **Tank hentet fra lakkering — sort finish!** Bilder lagret i `data/tank/`.
 - **2026-07-14:** Speil med blinklys (22mm 7/8", blå linse) bestilt fra AliExpress Bonastar Store — €29,45 (~kr 343)
 - **2026-07-14:** Styre hentet fra eBay (tryfan44010/C Jones) — kr 643 ✅
+- **2026-07-20:** Replica Front Brake Caliper Left (SKU 41127) bestilt fra KEDO (#34000027422) — €124,16 totalt inkl frakt. PayPal ✅
 
 ## Totalt investert hittil
-- ~kr 31 801
+- ~kr 33 537
+
+## Nye bestillinger
+- **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
 
 ## AliExpress
 - Flensbolt M8×12mm (95811-08012-00) ×5 bestilt 05.07 — under kr 100. Bra alternativ for standardbolter til en brøkdel av OEM-pris.
 
+## Højstyling
+- Oxford Retro Grips bestilt 21.07 — kr 286 inkl frakt. Retro-stil håndtak til SR500.
+
 - **Publiseringsrutine (⚠️ VIKTIG):** Alltid vis utkast til Johnny _før_ publisering til GitHub Pages. Aldri push uten godkjenning. Dette gjelder **alle** blogg-innlegg og filer i `blog_repo/`.
+- **Dobbel push-rutine (⚠️ VIKTIG):** Hver gang shoppinglista oppdateres, må **begge** filene endres:
+  1. `data/notes/shopping_list.md` (hovedrepo, master)
+  2. `blog_repo/SHOPPINGLIST.md` (GitHub Pages, main)
+  Husk også å committe submodul-referansen i hovedrepoet etter at blog_repo er pushet.
 - Blogg: https://nasselang.github.io/sr500-restoration/
 - Merk: `blog_repo/` er et eget git-repo (branch: `main`) som hostes på GitHub Pages. Hovedrepoet har `master`.

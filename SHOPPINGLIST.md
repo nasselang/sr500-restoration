@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-21 (19:36)
+Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 

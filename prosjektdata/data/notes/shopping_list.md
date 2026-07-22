@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-17 (14:50)
+Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 
@@ -35,6 +35,15 @@ Sist oppdatert: 2026-07-17 (14:50)
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | ✅ Hentet 19.07 |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
+| Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | 🟡 Bestilt 20.07 — PayPal ✅
+| Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
+| 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟡 Bestilt 21.07 — ETA 7.–14. aug
+| Swing Arm Bearing Kit for SR500/XT500/TT500 | **eBay** (endurocult, #12-14906-38541) | GBP 32,50 (~kr 441) | 🟡 Bestilt 17.07 — Sendt, ETA 23.–29. jul
+| Cafe Racer Seat Flat Saddle Dark Brown | **eBay** (wanyymotor_1, #21-14898-60742) | $110,83 (~kr 1 114) | 🟡 Bestilt 19.07 — ETA 10.–20. aug
+| Brake Master Cylinder/Clutch Lever 7/8" | **eBay** (supersuperstore, #05-14930-07779) | GBP 19,26 (~kr 260) | 🟡 Bestilt 20.07 — ETA 24.aug–21.sep
+| 350Pcs Nylon Flat Gaskets | **AliExpress** (#8212398329463056) | €2,13 (~kr 24) | 🟡 Sendt
+| 10Pcs Flange Bolt M5x20mm | **AliExpress** (#8212398329443056) | €2,13 (~kr 24) | 🟡 Sendt
+| 170pcs Waterproof Connectors | **AliExpress** (#8212398329483056) | €7,06 (~kr 80) | 🟡 Sendt
 
 ---
 
@@ -86,7 +95,18 @@ Sist oppdatert: 2026-07-17 (14:50)
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🟡 Sendt 13.07 — Poczta Polska, ETA 4.–18. aug |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
 | 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
-| | **Sum betalt hittil** | | **~kr 31 801** | | |
+| | | | | |
+| **Sum betalt hittil** | | **~kr 31 801** | |
+| | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | 🟡 Bestilt 20.07 — PayPal ✅, venter på sporing |
+| | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
+| | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟡 Bestilt 21.07 — ETA 7.–14. aug |
+| | 33 | Swing Arm Bearing Kit (eBay) | GBP 32,50 | ~kr 441 | eBay (endurocult) | 🟡 Bestilt 17.07 — Sendt 20.07 |
+| | 34 | Cafe Racer Seat (eBay) | $110,83 | ~kr 1 114 | eBay (wanyymotor_1) | 🟡 Bestilt 19.07 — ETA 10.–20. aug |
+| | 35 | Brake Master Cyl./Clutch Lever 7/8" (eBay) | GBP 19,26 | ~kr 260 | eBay (supersuperstore) | 🟡 Bestilt 20.07 — ETA 24.aug–21.sep |
+| | 36 | 350Pcs Nylon Flat Gaskets (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
+| | 37 | 10Pcs Flange Bolt M5x20mm (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
+| | 38 | 170pcs Waterproof Connectors (AliEx) | €7,06 | ~kr 80 | AliExpress | 🟡 Sendt |
+| | **Sum betalt hittil** | | **~kr 36 626** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -98,4 +118,4 @@ Sist oppdatert: 2026-07-17 (14:50)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 31 458**
+**🔢 Totalt investert hittil: ~kr 36 626**
