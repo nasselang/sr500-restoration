@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13T10:11:22.604Z",
+  "updatedAt": "2026-07-22T10:41:14.255Z",
   "entries": {
     "memory:memory/2026-04-26.md:1:18": {
       "key": "memory:memory/2026-04-26.md:1:18",
@@ -234,20 +234,21 @@
       "endLine": 13,
       "source": "memory",
       "snippet": "# 2026-05-24 — SR500: Motoren ute av ramma 🏗️ ## Prosjektframgang - **Motoren er løsnet og tatt ut av ramma** ✅ — kun to bolter som var lette å løsne - **Ramma er vasket én gang**, men har fortsatt mye fett/gammel olje som må fjernes før pulverlakkering - **Alle rammedeler er fjernet** — klar for dyprengjøring - **37 nye bilder tatt** — ligger i OneDrive/SR500prosjekt/, filnavn `20260524_*.jpg` - (Kan ev. kopiere relevante bilder til prosjektmappa for bedre tilgang) ## Neste steg - Dyprengjøring av ramma før lakk - Sende til pulverlakkering hos Oslopulverlakk",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.295304703712463,
+      "totalScore": 2.659420222043991,
       "maxScore": 0.4449497491121292,
       "firstRecalledAt": "2026-05-24T17:05:34.429Z",
-      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
       "queryHashes": [
         "636c12ffe6d1",
         "9c4193a98c90",
         "63a02307f999",
         "29d6e467aa44",
         "102af80fc61a",
-        "911c7c7f6b89"
+        "911c7c7f6b89",
+        "afd59ccb5cb0"
       ],
       "recallDays": [
         "2026-05-24",
@@ -255,7 +256,8 @@
         "2026-06-07",
         "2026-06-11",
         "2026-07-02",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-22"
       ],
       "conceptTags": [
         "fett/gammel",
@@ -275,27 +277,29 @@
       "endLine": 7,
       "source": "memory",
       "snippet": "# 2026-05-31 ## SR500-prosjektet - **Sandblåser mottatt** ✅ - Plan: blåse deler først, ramma kommer etterpå",
-      "recallCount": 6,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.3708670765161513,
+      "totalScore": 2.726037275791168,
       "maxScore": 0.44086840152740475,
       "firstRecalledAt": "2026-06-01T09:49:10.712Z",
-      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
       "queryHashes": [
         "9c4193a98c90",
         "de70e2111e90",
         "65b0eb269a28",
         "dd8e0e7f1f2c",
         "102af80fc61a",
-        "911c7c7f6b89"
+        "911c7c7f6b89",
+        "afd59ccb5cb0"
       ],
       "recallDays": [
         "2026-06-01",
         "2026-06-22",
         "2026-06-26",
         "2026-07-02",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-22"
       ],
       "conceptTags": [
         "sr500-prosjektet",
@@ -315,13 +319,13 @@
       "endLine": 8,
       "source": "memory",
       "snippet": "# 2026-06-07 ## SR500 Prosjektstatus - Johnny har gått over svingarm og ramme for siste rengjøring før lakkering - Plan: sende ramma til Oslopulverlakk i uke 24 - Forstillingen er helt demontert - Nye bilder lastet opp i OneDrive (10 stk)",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.065422818064689,
+      "totalScore": 3.4424896299839016,
       "maxScore": 0.4160763412714004,
       "firstRecalledAt": "2026-06-07T10:06:27.017Z",
-      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
       "queryHashes": [
         "63a02307f999",
         "25726bce0d35",
@@ -330,7 +334,8 @@
         "65b0eb269a28",
         "dd8e0e7f1f2c",
         "102af80fc61a",
-        "911c7c7f6b89"
+        "911c7c7f6b89",
+        "afd59ccb5cb0"
       ],
       "recallDays": [
         "2026-06-07",
@@ -338,7 +343,8 @@
         "2026-06-22",
         "2026-06-26",
         "2026-07-02",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-22"
       ],
       "conceptTags": [
         "sr500",
@@ -358,13 +364,13 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-06-19 — SR500 prosjekt ## Ramme og svingarm tilbake fra pulverlakk - **Oslopulverlakk** — levert 2026-06-11, hentet 2026-06-19 ✅ - Kostnad: **kr 5 250** - Resultat: superbra! Nye bilder på OneDrive - Leverandør i Rælingen — anbefales ## Tank levert for glassblåsing og lakkering - Status: på verksted ## Handleliste oppdatert - Cafe Racer / Scrambler-sete (Motea, Craftride flat brun) — kr 1 199,99 - Bakdempere Zaddox RS2 (Motea) — fra kr 1 747,49 - Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96 ## Nye leverandører lagt til - Omega Racer — skandinavisk cafe racer - Cafe Racer Webshop — Nederland - Backyard Engineering — norsk ra",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.754288026690483,
+      "totalScore": 3.1197110265493393,
       "maxScore": 0.41698715984821316,
       "firstRecalledAt": "2026-06-22T09:24:29.137Z",
-      "lastRecalledAt": "2026-07-10T09:30:18.197Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
       "queryHashes": [
         "de70e2111e90",
         "65b0eb269a28",
@@ -372,14 +378,16 @@
         "0bace523aea1",
         "dd8e0e7f1f2c",
         "911c7c7f6b89",
-        "0b1f4ed4c864"
+        "0b1f4ed4c864",
+        "afd59ccb5cb0"
       ],
       "recallDays": [
         "2026-06-22",
         "2026-06-26",
         "2026-07-02",
         "2026-07-05",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-22"
       ],
       "conceptTags": [
         "scrambler-sete",
@@ -399,18 +407,20 @@
       "endLine": 10,
       "source": "memory",
       "snippet": "# 2026-06-11 ## SR500 Prosjektstatus - Sandblåseren har vært i drift! - Øvre styrekrone sandblåst (6. juni) - Nedre styrekrone sandblåst (11. juni) - **Ramme + svingarm levert til Oslopulverlakk** — forventet ferdig om ~2 uker - Før lakkering: Johnny skrudde oljefilteret på plass for å hindre sand/støv i oljetanken - Ny bloggpost publisert: sandblåsing og lakk-levering",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.3661651939153671,
+      "totalScore": 0.7246418982744216,
       "maxScore": 0.3661651939153671,
       "firstRecalledAt": "2026-06-22T09:24:29.137Z",
-      "lastRecalledAt": "2026-06-22T09:24:29.137Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
       "queryHashes": [
-        "de70e2111e90"
+        "de70e2111e90",
+        "afd59ccb5cb0"
       ],
       "recallDays": [
-        "2026-06-22"
+        "2026-06-22",
+        "2026-07-22"
       ],
       "conceptTags": [
         "sand/støv",
@@ -514,6 +524,37 @@
         "4x7-13440-90-00",
         "kn-126",
         "o-ringer"
+      ]
+    },
+    "memory:memory/2026-07-20.md:1:10": {
+      "key": "memory:memory/2026-07-20.md:1:10",
+      "path": "memory/2026-07-20.md",
+      "startLine": 1,
+      "endLine": 10,
+      "source": "memory",
+      "snippet": "# 2026-07-20 ## SR500 - **Ny bremsekaliper bestilt:** Replica Front Brake Caliper Left (SKU 41127) fra KEDO (#34000027422) - Pris: €99,16 + €25 frakt = €124,16 (~kr 1 450) - Betaling: PayPal ✅ - Status: Bestilt, venter på sporing - Den gamle kaliperen var helt kjørt, orket ikke overhaling",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.35703564584255215,
+      "maxScore": 0.35703564584255215,
+      "firstRecalledAt": "2026-07-22T10:41:14.255Z",
+      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
+      "queryHashes": [
+        "afd59ccb5cb0"
+      ],
+      "recallDays": [
+        "2026-07-22"
+      ],
+      "conceptTags": [
+        "sr500",
+        "bremsekaliper",
+        "bestilt",
+        "replica",
+        "front",
+        "brake",
+        "caliper",
+        "left"
       ]
     }
   }

@@ -63,10 +63,11 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-20:** Replica Front Brake Caliper Left (SKU 41127) bestilt fra KEDO (#34000027422) — €124,16 totalt inkl frakt. PayPal ✅
 
 ## Totalt investert hittil
-- ~kr 33 537
+- ~kr 33 791
 
 ## Nye bestillinger
 - **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
+- **2026-07-22:** Nålelager HMK 2220 LSHRE (Kulelagerhuset Drammen) — kr 254
 
 ## AliExpress
 - Flensbolt M8×12mm (95811-08012-00) ×5 bestilt 05.07 — under kr 100. Bra alternativ for standardbolter til en brøkdel av OEM-pris.
