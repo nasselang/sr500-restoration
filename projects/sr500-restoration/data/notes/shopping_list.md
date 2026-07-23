@@ -39,6 +39,7 @@ Sist oppdatert: 2026-07-20 (11:34)
 | Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
 | 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟡 Bestilt 21.07 — ETA 7.–14. aug
 | Swing Arm Bearing Kit for SR500/XT500/TT500 | **eBay** (endurocult, #12-14906-38541) | GBP 32,50 (~kr 441) | 🟡 Bestilt 17.07 — Sendt, ETA 23.–29. jul
+| Mud Guard / Innerskjerm (2J2-21629-01-00) N.O.S | **eBay** (retromotorteile, #01-14951-59557) | $126,38 (~kr 1 261) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep
 | Nålelager HMK 2220 LSHRE | **Kulelagerhuset Drammen** | kr 254 | ✅ Hentet 22.07
 | Cafe Racer Seat Flat Saddle Dark Brown | **eBay** (wanyymotor_1, #21-14898-60742) | $110,83 (~kr 1 114) | 🟡 Bestilt 19.07 — ETA 10.–20. aug
 | Brake Master Cylinder/Clutch Lever 7/8" | **eBay** (supersuperstore, #05-14930-07779) | GBP 19,26 (~kr 260) | 🟡 Bestilt 20.07 — ETA 24.aug–21.sep
@@ -107,7 +108,8 @@ Sist oppdatert: 2026-07-20 (11:34)
 | | 36 | 350Pcs Nylon Flat Gaskets (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
 | | 37 | 10Pcs Flange Bolt M5x20mm (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
 | | 38 | 170pcs Waterproof Connectors (AliEx) | €7,06 | ~kr 80 | AliExpress | 🟡 Sendt |
-| | **Sum betalt hittil** | | **~kr 36 626** | | |
+| | 39 | Mud Guard / Innerskjerm 2J2-21629-01-00 (eBay) | $126,38 | ~kr 1 261 | eBay (retromotorteile) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep |
+| | **Sum betalt hittil** | | **~kr 37 887** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -119,4 +121,4 @@ Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 36 626**
+**🔢 Totalt investert hittil: ~kr 37 887**

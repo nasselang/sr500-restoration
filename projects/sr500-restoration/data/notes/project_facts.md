@@ -32,3 +32,4 @@
 - **2026-06-19:** 🔄 **Tank levert for glassblåsing og lakkering.**
 - **2026-07-03:** ✅ **Tank hentet fra lakkering!** Sort finish. Bilder på OneDrive og i `data/tank/`.
 - **2026-07-14:** ✅ **Styre hentet fra eBay!**
+- **2026-07-23:** 🔄 **Innerskjerm (Mud Guard 2J2-21629-01-00) bestilt fra eBay (retromotorteile)** — $126,38 (~kr 1 261), ETA 13.aug–4.sep

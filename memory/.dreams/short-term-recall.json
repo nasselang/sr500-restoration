@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22T10:41:14.255Z",
+  "updatedAt": "2026-07-23T13:02:54.006Z",
   "entries": {
     "memory:memory/2026-04-26.md:1:18": {
       "key": "memory:memory/2026-04-26.md:1:18",
@@ -184,13 +184,13 @@
       "endLine": 9,
       "source": "memory",
       "snippet": "- Det har vært problemer med å laste opp bilder til Telegram tidligere, inkludert bilder relatert til SR500-prosjektet (spesielt filsti- og format-relaterte feil). Disse ble identifisert og jobbet rundt. - Johnny viste interesse for flere spesifikke SR500-komponenter: frontgaffel, forgasser, baknav, og komponentspesifikasjoner for deler som tank og sylinder. - Jeg sendte bilder av fem tilfeldige SR500-komponenter: 1. Baknav 2. Kickstarter-deler 3. Crankcase 4. Sylinderseksjonen 5. Drivstofftanken - Bildesendingsproblemet ble løst etter å ha forsøkt en annen tilnærming for opplasting.",
-      "recallCount": 12,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.547504761815071,
+      "totalScore": 4.902553379535674,
       "maxScore": 0.42739857137203213,
       "firstRecalledAt": "2026-05-04T09:33:35.806Z",
-      "lastRecalledAt": "2026-07-05T08:07:06.962Z",
+      "lastRecalledAt": "2026-07-23T13:02:54.006Z",
       "queryHashes": [
         "73cbfa8a8bd0",
         "44b3358d5603",
@@ -203,7 +203,8 @@
         "0bace523aea1",
         "dd8e0e7f1f2c",
         "102af80fc61a",
-        "911c7c7f6b89"
+        "911c7c7f6b89",
+        "f3b0706373a0"
       ],
       "recallDays": [
         "2026-05-04",
@@ -214,7 +215,8 @@
         "2026-05-17",
         "2026-06-01",
         "2026-07-02",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-23"
       ],
       "conceptTags": [
         "sr500-prosjektet",
@@ -277,13 +279,13 @@
       "endLine": 7,
       "source": "memory",
       "snippet": "# 2026-05-31 ## SR500-prosjektet - **Sandblåser mottatt** ✅ - Plan: blåse deler først, ramma kommer etterpå",
-      "recallCount": 7,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.726037275791168,
+      "totalScore": 3.0912495523691175,
       "maxScore": 0.44086840152740475,
       "firstRecalledAt": "2026-06-01T09:49:10.712Z",
-      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
+      "lastRecalledAt": "2026-07-23T13:02:54.006Z",
       "queryHashes": [
         "9c4193a98c90",
         "de70e2111e90",
@@ -291,7 +293,8 @@
         "dd8e0e7f1f2c",
         "102af80fc61a",
         "911c7c7f6b89",
-        "afd59ccb5cb0"
+        "afd59ccb5cb0",
+        "f3b0706373a0"
       ],
       "recallDays": [
         "2026-06-01",
@@ -299,7 +302,8 @@
         "2026-06-26",
         "2026-07-02",
         "2026-07-05",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ],
       "conceptTags": [
         "sr500-prosjektet",
@@ -364,13 +368,13 @@
       "endLine": 27,
       "source": "memory",
       "snippet": "# 2026-06-19 — SR500 prosjekt ## Ramme og svingarm tilbake fra pulverlakk - **Oslopulverlakk** — levert 2026-06-11, hentet 2026-06-19 ✅ - Kostnad: **kr 5 250** - Resultat: superbra! Nye bilder på OneDrive - Leverandør i Rælingen — anbefales ## Tank levert for glassblåsing og lakkering - Status: på verksted ## Handleliste oppdatert - Cafe Racer / Scrambler-sete (Motea, Craftride flat brun) — kr 1 199,99 - Bakdempere Zaddox RS2 (Motea) — fra kr 1 747,49 - Fuel Tank + Seat Set VT1 (Motea) — kr 2 499,99 - Lithium Battery CCA240 (Cafe Racer Webshop) — €149,96 ## Nye leverandører lagt til - Omega Racer — skandinavisk cafe racer - Cafe Racer Webshop — Nederland - Backyard Engineering — norsk ra",
-      "recallCount": 8,
+      "recallCount": 9,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.1197110265493393,
+      "totalScore": 3.4741651505231856,
       "maxScore": 0.41698715984821316,
       "firstRecalledAt": "2026-06-22T09:24:29.137Z",
-      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
+      "lastRecalledAt": "2026-07-23T13:02:54.006Z",
       "queryHashes": [
         "de70e2111e90",
         "65b0eb269a28",
@@ -379,7 +383,8 @@
         "dd8e0e7f1f2c",
         "911c7c7f6b89",
         "0b1f4ed4c864",
-        "afd59ccb5cb0"
+        "afd59ccb5cb0",
+        "f3b0706373a0"
       ],
       "recallDays": [
         "2026-06-22",
@@ -387,7 +392,8 @@
         "2026-07-02",
         "2026-07-05",
         "2026-07-10",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ],
       "conceptTags": [
         "scrambler-sete",
@@ -533,18 +539,20 @@
       "endLine": 10,
       "source": "memory",
       "snippet": "# 2026-07-20 ## SR500 - **Ny bremsekaliper bestilt:** Replica Front Brake Caliper Left (SKU 41127) fra KEDO (#34000027422) - Pris: €99,16 + €25 frakt = €124,16 (~kr 1 450) - Betaling: PayPal ✅ - Status: Bestilt, venter på sporing - Den gamle kaliperen var helt kjørt, orket ikke overhaling",
-      "recallCount": 1,
+      "recallCount": 2,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 0.35703564584255215,
-      "maxScore": 0.35703564584255215,
+      "totalScore": 0.7416237413883209,
+      "maxScore": 0.3845880955457687,
       "firstRecalledAt": "2026-07-22T10:41:14.255Z",
-      "lastRecalledAt": "2026-07-22T10:41:14.255Z",
+      "lastRecalledAt": "2026-07-23T13:02:54.006Z",
       "queryHashes": [
-        "afd59ccb5cb0"
+        "afd59ccb5cb0",
+        "f3b0706373a0"
       ],
       "recallDays": [
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ],
       "conceptTags": [
         "sr500",
@@ -555,6 +563,37 @@
         "brake",
         "caliper",
         "left"
+      ]
+    },
+    "memory:memory/2026-07-22.md:1:7": {
+      "key": "memory:memory/2026-07-22.md:1:7",
+      "path": "memory/2026-07-22.md",
+      "startLine": 1,
+      "endLine": 7,
+      "source": "memory",
+      "snippet": "# 2026-07-22 ## SR500 - **Nålelagre hentet på Kulelagerhuset Drammen:** HMK 2220 LSHRE — skulle passe — kr 254 - **Pakningssett mottatt** (SR500/XT500 79-89, kr 535) — tidligere enn forventet!",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.38996970653533936,
+      "maxScore": 0.38996970653533936,
+      "firstRecalledAt": "2026-07-23T13:02:54.006Z",
+      "lastRecalledAt": "2026-07-23T13:02:54.006Z",
+      "queryHashes": [
+        "f3b0706373a0"
+      ],
+      "recallDays": [
+        "2026-07-23"
+      ],
+      "conceptTags": [
+        "sr500/xt500",
+        "79-89",
+        "sr500",
+        "nålelagre",
+        "hentet",
+        "kulelagerhuset",
+        "drammen",
+        "hmk"
       ]
     }
   }
