@@ -68,6 +68,7 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 ## Nye bestillinger
 - **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
 - **2026-07-23:** Mud Guard (innerskjerm) 2J2-21629-01-00 bestilt eBay retromotorteile — $126,38 (~kr 1 261)
+- **2026-07-23:** Cap Dome Acorn Nuts M10×1.25 Chrome ×4 bestilt eBay GSP — $31,84 (~kr 318)
 - **2026-07-22:** Nålelager HMK 2220 LSHRE (Kulelagerhuset Drammen) — kr 254
 
 ## AliExpress

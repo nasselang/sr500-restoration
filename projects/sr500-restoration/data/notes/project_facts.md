@@ -33,3 +33,4 @@
 - **2026-07-03:** ✅ **Tank hentet fra lakkering!** Sort finish. Bilder på OneDrive og i `data/tank/`.
 - **2026-07-14:** ✅ **Styre hentet fra eBay!**
 - **2026-07-23:** 🔄 **Innerskjerm (Mud Guard 2J2-21629-01-00) bestilt fra eBay (retromotorteile)** — $126,38 (~kr 1 261), ETA 13.aug–4.sep
+- **2026-07-23:** 🔄 **Cap Dome Acorn Nuts M10×1.25 Chrome ×4 bestilt via eBay (GSP)** — $31,84 (~kr 318), ETA 12.–19. aug
