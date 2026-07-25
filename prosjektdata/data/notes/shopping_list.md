@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-07-20 (11:34)
+Sist oppdatert: 2026-07-24 (16:05)
 
 ---
 
@@ -23,7 +23,7 @@ Sist oppdatert: 2026-07-20 (11:34)
 | Verkstedhåndbok | $58,96 | ✅ Hentet 13.07 |
 | Låseskive frambrems (1J3-25834-01-00) | €16,88 | ✅ Levert 28.06 |
 | Oljefilter (4X7-13440-90-00) + O-ringer ×2 | — | ✅ Hentet 13.07 |
-| Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 | 🟡 Sendt 13.07 — Poczta Polska, ETA 4.–18. aug |
+| Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 | ✅ Mottatt 22.07 |
 
 **Annet**
 | Del | Kilde | Pris | Status |
@@ -35,10 +35,13 @@ Sist oppdatert: 2026-07-20 (11:34)
 | Domino Push/Pull Throttle | **Cafe Racer Garage** (#330875) | $48,41 (~kr 508) | ✅ Hentet 19.07 |
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
-| Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | 🟡 Bestilt 20.07 — PayPal ✅
+| Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | ✅ **Mottatt 24.07** — Montert
 | Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
 | 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟡 Bestilt 21.07 — ETA 7.–14. aug
 | Swing Arm Bearing Kit for SR500/XT500/TT500 | **eBay** (endurocult, #12-14906-38541) | GBP 32,50 (~kr 441) | 🟡 Bestilt 17.07 — Sendt, ETA 23.–29. jul
+| Mud Guard / Innerskjerm (2J2-21629-01-00) N.O.S | **eBay** (retromotorteile, #01-14951-59557) | $126,38 (~kr 1 261) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep
+| Cap Dome Acorn Nuts Chrome M10×1.25 ×4 | **eBay** (GSP, #01-14951-61486) | $31,84 (~kr 318) | 🟡 Bestilt 23.07 — ETA 12.–19. aug
+| Nålelager HMK 2220 LSHRE | **Kulelagerhuset Drammen** | kr 254 | ✅ Hentet 22.07
 | Cafe Racer Seat Flat Saddle Dark Brown | **eBay** (wanyymotor_1, #21-14898-60742) | $110,83 (~kr 1 114) | 🟡 Bestilt 19.07 — ETA 10.–20. aug
 | Brake Master Cylinder/Clutch Lever 7/8" | **eBay** (supersuperstore, #05-14930-07779) | GBP 19,26 (~kr 260) | 🟡 Bestilt 20.07 — ETA 24.aug–21.sep
 | 350Pcs Nylon Flat Gaskets | **AliExpress** (#8212398329463056) | €2,13 (~kr 24) | 🟡 Sendt
@@ -97,7 +100,7 @@ Sist oppdatert: 2026-07-20 (11:34)
 | 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
 | | | | | |
 | **Sum betalt hittil** | | **~kr 31 801** | |
-| | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | 🟡 Bestilt 20.07 — PayPal ✅, venter på sporing |
+| | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | ✅ Mottatt 24.07 — Montert |
 | | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
 | | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟡 Bestilt 21.07 — ETA 7.–14. aug |
 | | 33 | Swing Arm Bearing Kit (eBay) | GBP 32,50 | ~kr 441 | eBay (endurocult) | 🟡 Bestilt 17.07 — Sendt 20.07 |
@@ -106,7 +109,9 @@ Sist oppdatert: 2026-07-20 (11:34)
 | | 36 | 350Pcs Nylon Flat Gaskets (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
 | | 37 | 10Pcs Flange Bolt M5x20mm (AliEx) | €2,13 | ~kr 24 | AliExpress | 🟡 Sendt |
 | | 38 | 170pcs Waterproof Connectors (AliEx) | €7,06 | ~kr 80 | AliExpress | 🟡 Sendt |
-| | **Sum betalt hittil** | | **~kr 36 626** | | |
+| | 39 | Mud Guard / Innerskjerm 2J2-21629-01-00 (eBay) | $126,38 | ~kr 1 261 | eBay (retromotorteile) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep |
+| | 40 | Cap Dome Acorn Nuts M10×1.25 Chrome ×4 (eBay) | $31,84 | ~kr 318 | eBay (GSP) | 🟡 Bestilt 23.07 — ETA 12.–19. aug |
+| | **Sum betalt hittil** | | **~kr 38 205** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -118,4 +123,4 @@ Sist oppdatert: 2026-07-20 (11:34)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 36 626**
+**🔢 Totalt investert hittil: ~kr 38 205**
