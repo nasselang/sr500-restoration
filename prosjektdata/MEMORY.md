@@ -61,15 +61,36 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-14:** Speil med blinklys (22mm 7/8", blå linse) bestilt fra AliExpress Bonastar Store — €29,45 (~kr 343)
 - **2026-07-14:** Styre hentet fra eBay (tryfan44010/C Jones) — kr 643 ✅
 - **2026-07-20:** Replica Front Brake Caliper Left (SKU 41127) bestilt fra KEDO (#34000027422) — €124,16 totalt inkl frakt. PayPal ✅
+- **2026-08-06:** Epost-gjennomgang etter lengre nedetid. Shoppingliste + MEMORY oppdatert. Nytt siden sist: thansen svinghjulsholder (klar til henting), Højstyling LED-bolt, eBay slip-on eksos + LED blinklys + Motion Pro clutchlever, motogadget mo.lock NFC, Spraylakk, 24hshop. AliExpress-pakker (speil, flensbolter, gassketer) levert 28.07. KEDO-ordre #34000027660 refundert — må bestilles på nytt med deler.
 
 ## Totalt investert hittil
-- ~kr 33 791
+- ~kr 41 700 (oppdatert 06.08)
 
 ## Nye bestillinger
 - **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
 - **2026-07-23:** Mud Guard (innerskjerm) 2J2-21629-01-00 bestilt eBay retromotorteile — $126,38 (~kr 1 261)
 - **2026-07-23:** Cap Dome Acorn Nuts M10×1.25 Chrome ×4 bestilt eBay GSP — $31,84 (~kr 318)
 - **2026-07-22:** Nålelager HMK 2220 LSHRE (Kulelagerhuset Drammen) — kr 254
+- **2026-07-22:** Motion Pro Black Clutch Lever SR500 78-81 (eBay piratemx3) — $50,75 (~kr 509), ETA 11.–18. aug
+- **2026-07-21:** 4.5" Gloss Black LED Bottom Mount Headlight (eBay a-z-shop) — $113,74 (~kr 1 146), ETA 7.–14. aug
+- **2026-07-27:** mo.lock NFC (motogadget #24676) — €143,11 (~kr 1 647), sendt 28.07 DHL CE381821038DE
+- **2026-07-18:** Motip Engine Paint Aluminium (Spraylakk.no #110860) — kr 227, sendt 22.07
+- **2026-07-30:** Polerings-/slipeskiver 101 stk 50 mm (24hshop.no #6265595) — sendt 30.07 Bring LC399087051NO
+- **2026-08-03:** Svinghjulsholder (Thansen #115824570) — kr 449, 🟢 **klar til henting** Enebakkveien 300 Oslo (ankom 05.08)
+- **2026-08-03:** LED-bolt nummerskiltbelysning sort (Højstyling #100112595) — kr 242, sendt 04.08 Postnord
+- **2026-08-03:** Slip-On Exhaust Muffler Cone Chrome 2" (eBay mylad27, #09-14900-54455) — ute for levering 05.08
+- **2026-08-03:** LED Turn Signals Flexible Strip (eBay 91led_autoparts, #18-14889-58877) — ute for levering 03.08
+
+## Leveranser mottatt (28.07)
+- **AliExpress-pakke CN26071802222:** 170pcs waterproof connectors, 350pcs nylon gaskets, **speil m/blinklys (Bonastar)**, 10pcs M5x20 flensbolter ✅
+- **AliExpress-pakke 00370724763488217977:** Flensbolt M8×12mm ×5 (95811-08012-00) ✅
+- Importavgifter betalt: KEDO-caliper (CA417580101DE, 23.07) + en sending til (LF466227712DE, 27.07)
+- **2026-08-06:** Johnny bekreftet mottatt: LED turn signals (eBay), Slip-On Exhaust Muffler (eBay), mo.lock NFC (motogadget), Motip Engine Paint (Spraylakk), Polerings-/slipeskiver (24hshop) + AliExpress-pakken (speil, blinklys, connectors, nylon gaskets, M5 flensbolter) + **Swing Arm Bearing Kit (eBay endurocult)** + **Brake Master Cylinder/Clutch Lever (eBay supersuperstore)**.
+
+## KEDO-saken
+- **2026-08-03:** Ny KEDO-ordre #34000027660 — bestilte 2× verktøy for å demontere glass i kickindikator, men ikke delene (glass, bush, pakning). KEDO tok kontakt og spurte om dette var riktig.
+- Johnny ba om å få korrigert → KEDO **refunderte €46** (Gutschrift #5022630, PayPal 04.08, kr 529,34) og ba om å bestille på nytt i webshopen.
+- **2026-08-06:** Johnny sier det ikke er nødvendig å bestille på nytt — droppet. 🚫
 
 ## AliExpress
 - Flensbolt M8×12mm (95811-08012-00) ×5 bestilt 05.07 — under kr 100. Bra alternativ for standardbolter til en brøkdel av OEM-pris.
