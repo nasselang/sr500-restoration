@@ -107,12 +107,12 @@ Sist oppdatert: 2026-08-06 (11:45)
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | ✅ Hentet |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | 🟡 Sendt 13.07 — Poczta Polska, ETA 4.–18. aug |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
-| 29 | Speil m/blinklys 22mm 7/8" blå linse (AliEx/Bonastar) | €29,45 | ~kr 343 | AliExpress | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
+| 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
 | | | | | |
 | **Sum betalt hittil** | | **~kr 31 801** | |
 | | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | ✅ Mottatt 24.07 — Montert |
 | | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
-| | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟢 Sendt 21.07 — ETA 7.–14. aug |
+| | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟡 Bestilt 21.07 — ETA 7.–14. aug |
 | | 33 | Swing Arm Bearing Kit (eBay) | GBP 32,50 | ~kr 441 | eBay (endurocult) | ✅ Mottatt |
 | | 34 | Cafe Racer Seat (eBay) | $110,83 | ~kr 1 114 | eBay (wanyymotor_1) | 🟡 Bestilt 19.07 — ETA 10.–20. aug |
 | | 35 | Brake Master Cyl./Clutch Lever 7/8" (eBay) | GBP 19,26 | ~kr 260 | eBay (supersuperstore) | ✅ Mottatt ~06.08 |
@@ -128,4 +128,19 @@ Sist oppdatert: 2026-08-06 (11:45)
 | | 43 | Slip-On Exhaust Muffler Cone Chrome 2" (eBay mylad27) | — | — | eBay | ✅ Mottatt ~06.08 |
 | | 44 | LED Turn Signals Flexible Strip (eBay 91led_autoparts) | — | — | eBay | ✅ Mottatt ~06.08 |
 | | 45 | Motion Pro Clutch Lever (eBay piratemx3) | $50,75 | ~kr 509 | eBay | 🟡 ETA 11.–18. aug |
-| | 46 | mo.lock NFC (motogadget #24676) | €143,11 | ~kr 1 647 | motogadget | ✅
+| | 46 | mo.lock NFC (motogadget #24676) | €143,11 | ~kr 1 647 | motogadget | ✅ Mottatt |
+| | 47 | Motip Engine Paint Aluminium (Spraylakk #110860) | kr 227 | ~kr 227 | Spraylakk.no | ✅ Mottatt |
+| | 48 | Polerings-/slipeskiver 101 stk (24hshop #6265595) | — | — | 24hshop.no | ✅ Mottatt |
+| **Sum betalt hittil** | | **~kr 41 700** | | |
+
+### 🎯 Gjenstående ønsker (estimert)
+
+| Del | Estimert pris |
+|---|---|
+| Lithium Battery CCA240 (Cafe Racer Webshop) | ~€150 (~kr 1 750) |
+| Bremseklosser foran EBC FA87 | ~kr 400 |
+| **Estimert sum gjenstående** | **~kr 2 150+** |
+
+---
+
+**🔢 Totalt investert hittil: ~kr 38 205**
