@@ -37,7 +37,7 @@ Sist oppdatert: 2026-08-06 (11:45)
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 | Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | ✅ **Mottatt 24.07** — Montert
 | Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
-| 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟡 Bestilt 21.07 — ETA 7.–14. aug
+| 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟢 Sendt 21.07 — ETA 7.–14. aug
 | Swing Arm Bearing Kit for SR500/XT500/TT500 | **eBay** (endurocult, #12-14906-38541) | GBP 32,50 (~kr 441) | ✅ Mottatt
 | Mud Guard / Innerskjerm (2J2-21629-01-00) N.O.S | **eBay** (retromotorteile, #01-14951-59557) | $126,38 (~kr 1 261) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep
 | Cap Dome Acorn Nuts Chrome M10×1.25 ×4 | **eBay** (GSP, #01-14951-61486) | $31,84 (~kr 318) | 🟡 Bestilt 23.07 — ETA 12.–19. aug
