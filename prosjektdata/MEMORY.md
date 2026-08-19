@@ -71,7 +71,7 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-23:** Mud Guard (innerskjerm) 2J2-21629-01-00 bestilt eBay retromotorteile — $126,38 (~kr 1 261)
 - **2026-07-23:** Cap Dome Acorn Nuts M10×1.25 Chrome ×4 bestilt eBay GSP — $31,84 (~kr 318)
 - **2026-07-22:** Nålelager HMK 2220 LSHRE (Kulelagerhuset Drammen) — kr 254
-- **2026-07-22:** Motion Pro Black Clutch Lever SR500 78-81 (eBay piratemx3) — $50,75 (~kr 509), ETA 11.–18. aug
+- **2026-07-22:** Motion Pro Black Clutch Lever SR500 78-81 (eBay piratemx3) — $50,75 (~kr 509), ETA 11.–18. aug — ✅ **hentet 18.08**
 - **2026-07-21:** 4.5" Gloss Black LED Bottom Mount Headlight (eBay a-z-shop) — $113,74 (~kr 1 146), ETA 7.–14. aug
 - **2026-07-27:** mo.lock NFC (motogadget #24676) — €143,11 (~kr 1 647), sendt 28.07 DHL CE381821038DE
 - **2026-07-18:** Motip Engine Paint Aluminium (Spraylakk.no #110860) — kr 227, sendt 22.07
