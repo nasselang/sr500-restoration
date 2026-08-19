@@ -53,7 +53,7 @@ Sist oppdatert: 2026-08-06 (11:45)
 | LED-bolt nummerskiltbelysning (sort) | **Højstyling** (#100112595) | kr 242 | 🟡 Sendt 04.08 — Postnord, levering 2–3 dager
 | Slip-On Exhaust Muffler Cone Chrome 2" | **eBay** (mylad27, #09-14900-54455) | — | ✅ Mottatt (hentet ~06.08)
 | LED Turn Signals Flexible Strip | **eBay** (91led_autoparts, #18-14889-58877) | — | ✅ Mottatt (hentet ~06.08)
-| Motion Pro Black Clutch Lever SR500 78-81 | **eBay** (piratemx3, #04-14939-52671) | $50,75 (~kr 509) | 🟡 Bestilt 22.07 — ETA 11.–18. aug
+| Motion Pro Black Clutch Lever SR500 78-81 | **eBay** (piratemx3, #04-14939-52671) | $50,75 (~kr 509) | 🟢 Sendt 17.08 — tracking # oppdateres
 | mo.lock NFC | **motogadget** (#24676) | €143,11 (~kr 1 647) | ✅ Mottatt
 | Motip Engine Paint Aluminium | **Spraylakk.no** (#110860) | kr 227 | ✅ Mottatt
 | Polerings-/slipeskiver 101 stk 50 mm | **24hshop.no** (#6265595) | — | ✅ Mottatt
