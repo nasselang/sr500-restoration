@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-08-06 (11:45)
+Sist oppdatert: 2026-08-27 (10:05)
 
 ---
 
@@ -36,13 +36,13 @@ Sist oppdatert: 2026-08-06 (11:45)
 | Damper, Locating 3 (2J2-24183-01-00) | **MegaZip** (#1497110) | $26,15 (~kr 275) | ✅ Mottatt 13.07 |
 | 5.75" LED frontlykt-innsats (sort) | **AliExpress** (#8212745423963056) | €14,20 (~kr 164) | ✅ Hentet 09.07 (også nevnt 13.07)
 | Replica Front Brake Caliper, Left (SKU 41127) | **KEDO** (#34000027422) | €124,16 (~kr 1 450) | ✅ **Mottatt 24.07** — Montert
-| Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | 🟡 Bestilt 21.07 — Betalt ✅
+| Oxford Retro Grips | **Højstyling** (#100111767) | kr 286 (ink. frakt) | ✅ **Hentet 27.08** |
 | 4.5" Gloss Black LED Bottom Mount Headlight | **eBay** (a-z-shop, #07-14930-25852) | $113,74 (~kr 1 146) | 🟢 Sendt 21.07 — ETA 7.–14. aug
 | Swing Arm Bearing Kit for SR500/XT500/TT500 | **eBay** (endurocult, #12-14906-38541) | GBP 32,50 (~kr 441) | ✅ Mottatt
-| Mud Guard / Innerskjerm (2J2-21629-01-00) N.O.S | **eBay** (retromotorteile, #01-14951-59557) | $126,38 (~kr 1 261) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep
-| Cap Dome Acorn Nuts Chrome M10×1.25 ×4 | **eBay** (GSP, #01-14951-61486) | $31,84 (~kr 318) | 🟡 Bestilt 23.07 — ETA 12.–19. aug
+| Mud Guard / Innerskjerm (2J2-21629-01-00) N.O.S | **eBay** (retromotorteile, #01-14951-59557) | $126,38 (~kr 1 261) | ✅ **Hentet 27.08** |
+| Cap Dome Acorn Nuts Chrome M10×1.25 ×4 | **eBay** (GSP, #01-14951-61486) | $31,84 (~kr 318) | ✅ **Hentet 27.08** |
 | Nålelager HMK 2220 LSHRE | **Kulelagerhuset Drammen** | kr 254 | ✅ Hentet 22.07
-| Cafe Racer Seat Flat Saddle Dark Brown | **eBay** (wanyymotor_1, #21-14898-60742) | $110,83 (~kr 1 114) | 🟡 Bestilt 19.07 — ETA 10.–20. aug
+| Cafe Racer Seat Flat Saddle Dark Brown | **eBay** (wanyymotor_1, #21-14898-60742) | $110,83 (~kr 1 114) | ✅ **Hentet 27.08** |
 | Brake Master Cylinder/Clutch Lever 7/8" | **eBay** (supersuperstore, #05-14930-07779) | GBP 19,26 (~kr 260) | ✅ Mottatt ~06.08
 | 350Pcs Nylon Flat Gaskets | **AliExpress** (#8212398329463056) | €2,13 (~kr 24) | ✅ Mottatt 28.07
 | 10Pcs Flange Bolt M5x20mm | **AliExpress** (#8212398329443056) | €2,13 (~kr 24) | ✅ Mottatt 28.07
@@ -50,10 +50,10 @@ Sist oppdatert: 2026-08-06 (11:45)
 | Speil m/blinklys 22mm 7/8" (blå linse) | **AliExpress** (Bonastar) | €29,45 (~kr 343) | ✅ Mottatt 28.07 (pakke CN26071802222)
 | Flensbolt M8×12mm (95811-08012-00) ×5 | **AliExpress** (#8212915341433056) | €7,19 (~kr 83) | ✅ Mottatt 28.07 (pakke 00370724763488217977)
 | Svinghjulsholder (clutch) | **Thansen** (#115824570) | kr 449 | 🟢 **Klar til henting** Enebakkveien 300, Oslo (ankom 05.08)
-| LED-bolt nummerskiltbelysning (sort) | **Højstyling** (#100112595) | kr 242 | 🟡 Sendt 04.08 — Postnord, levering 2–3 dager
+| LED-bolt nummerskiltbelysning (sort) | **Højstyling** (#100112595) | kr 242 | ✅ **Hentet 27.08** |
 | Slip-On Exhaust Muffler Cone Chrome 2" | **eBay** (mylad27, #09-14900-54455) | — | ✅ Mottatt (hentet ~06.08)
 | LED Turn Signals Flexible Strip | **eBay** (91led_autoparts, #18-14889-58877) | — | ✅ Mottatt (hentet ~06.08)
-| Motion Pro Black Clutch Lever SR500 78-81 | **eBay** (piratemx3, #04-14939-52671) | $50,75 (~kr 509) | 🟢 Sendt 17.08 — tracking # oppdateres
+| Motion Pro Black Clutch Lever SR500 78-81 | **eBay** (piratemx3, #04-14939-52671) | $50,75 (~kr 509) | ✅ **Hentet 27.08** |
 | mo.lock NFC | **motogadget** (#24676) | €143,11 (~kr 1 647) | ✅ Mottatt
 | Motip Engine Paint Aluminium | **Spraylakk.no** (#110860) | kr 227 | ✅ Mottatt
 | Polerings-/slipeskiver 101 stk 50 mm | **24hshop.no** (#6265595) | — | ✅ Mottatt
@@ -111,23 +111,23 @@ Sist oppdatert: 2026-08-06 (11:45)
 | | | | | |
 | **Sum betalt hittil** | | **~kr 31 801** | |
 | | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | ✅ Mottatt 24.07 — Montert |
-| | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | 🟡 Bestilt 21.07 — Betalt ✅ |
+| | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | ✅ Hentet 27.08 |
 | | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | 🟡 Bestilt 21.07 — ETA 7.–14. aug |
 | | 33 | Swing Arm Bearing Kit (eBay) | GBP 32,50 | ~kr 441 | eBay (endurocult) | ✅ Mottatt |
-| | 34 | Cafe Racer Seat (eBay) | $110,83 | ~kr 1 114 | eBay (wanyymotor_1) | 🟡 Bestilt 19.07 — ETA 10.–20. aug |
+| | 34 | Cafe Racer Seat (eBay) | $110,83 | ~kr 1 114 | eBay (wanyymotor_1) | ✅ Hentet 27.08 |
 | | 35 | Brake Master Cyl./Clutch Lever 7/8" (eBay) | GBP 19,26 | ~kr 260 | eBay (supersuperstore) | ✅ Mottatt ~06.08 |
 | | 36 | 350Pcs Nylon Flat Gaskets (AliEx) | €2,13 | ~kr 24 | AliExpress | ✅ Mottatt 28.07 |
 | | 37 | 10Pcs Flange Bolt M5x20mm (AliEx) | €2,13 | ~kr 24 | AliExpress | ✅ Mottatt 28.07 |
 | | 38 | 170pcs Waterproof Connectors (AliEx) | €7,06 | ~kr 80 | AliExpress | ✅ Mottatt 28.07 |
 | | 38b | Speil m/blinklys 22mm 7/8" blå linse (AliEx/Bonastar) | €29,45 | ~kr 343 | AliExpress | ✅ Mottatt 28.07 |
 | | 38c | Flensbolt M8×12mm ×5 (AliEx) | €7,19 | ~kr 83 | AliExpress | ✅ Mottatt 28.07 |
-| | 39 | Mud Guard / Innerskjerm 2J2-21629-01-00 (eBay) | $126,38 | ~kr 1 261 | eBay (retromotorteile) | 🟡 Bestilt 23.07 — ETA 13.aug–4.sep |
-| | 40 | Cap Dome Acorn Nuts M10×1.25 Chrome ×4 (eBay) | $31,84 | ~kr 318 | eBay (GSP) | 🟡 Bestilt 23.07 — ETA 12.–19. aug |
+| | 39 | Mud Guard / Innerskjerm 2J2-21629-01-00 (eBay) | $126,38 | ~kr 1 261 | eBay (retromotorteile) | ✅ Hentet 27.08 |
+| | 40 | Cap Dome Acorn Nuts M10×1.25 Chrome ×4 (eBay) | $31,84 | ~kr 318 | eBay (GSP) | ✅ Hentet 27.08 |
 | | | 41 | Svinghjulsholder (Thansen #115824570) | kr 449 | ~kr 449 | Thansen | 🟢 Klar til henting 05.08 |
-| | 42 | LED-bolt nummerskiltbelysning (Højstyling #100112595) | kr 242 | ~kr 242 | Højstyling | 🟡 Sendt 04.08 |
+| | 42 | LED-bolt nummerskiltbelysning (Højstyling #100112595) | kr 242 | ~kr 242 | Højstyling | ✅ Hentet 27.08 |
 | | 43 | Slip-On Exhaust Muffler Cone Chrome 2" (eBay mylad27) | — | — | eBay | ✅ Mottatt ~06.08 |
 | | 44 | LED Turn Signals Flexible Strip (eBay 91led_autoparts) | — | — | eBay | ✅ Mottatt ~06.08 |
-| | 45 | Motion Pro Clutch Lever (eBay piratemx3) | $50,75 | ~kr 509 | eBay | 🟡 ETA 11.–18. aug |
+| | 45 | Motion Pro Clutch Lever (eBay piratemx3) | $50,75 | ~kr 509 | eBay | ✅ Hentet 27.08 |
 | | 46 | mo.lock NFC (motogadget #24676) | €143,11 | ~kr 1 647 | motogadget | ✅ Mottatt |
 | | 47 | Motip Engine Paint Aluminium (Spraylakk #110860) | kr 227 | ~kr 227 | Spraylakk.no | ✅ Mottatt |
 | | 48 | Polerings-/slipeskiver 101 stk (24hshop #6265595) | — | — | 24hshop.no | ✅ Mottatt |
