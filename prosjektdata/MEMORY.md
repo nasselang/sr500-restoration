@@ -66,6 +66,17 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 ## Totalt investert hittil
 - ~kr 41 700 (oppdatert 06.08)
 
+## Leveranser mottatt (27.08)
+- **Cafe Racer Seat** (eBay wanyymotor_1) ✅ hentet
+- **Motion Pro Clutch Lever** (eBay piratemx3) ✅ hentet
+- **Mud Guard/Innerskjerm 2J2-21629-01-00** (eBay retromotorteile) ✅ hentet
+- **Cap Dome Acorn Nuts M10×1.25 ×4** (eBay GSP) ✅ hentet
+- **LED-bolt nummerskiltbelysning** (Højstyling) ✅ hentet
+- **Oxford Retro Grips** (Højstyling) ✅ hentet
+- **Svinghjulsholder** (Thansen #115824570) ✅ hentet 27.08
+- **4.5" LED Headlight** (eBay a-z-shop) ✅ hentet 27.08
+- Shoppinglista oppdatert begge steder — venter på push-godkjenning
+
 ## Nye bestillinger
 - **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
 - **2026-07-23:** Mud Guard (innerskjerm) 2J2-21629-01-00 bestilt eBay retromotorteile — $126,38 (~kr 1 261)
