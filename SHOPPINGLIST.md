@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-09-25 (12:00)
+Sist oppdatert: 2026-09-28 (12:00)
 
 ---
 
@@ -57,7 +57,7 @@ Sist oppdatert: 2026-09-25 (12:00)
 | mo.lock NFC | **motogadget** (#24676) | €143,11 (~kr 1 647) | ✅ Mottatt
 | Motip Engine Paint Aluminium | **Spraylakk.no** (#110860) | kr 227 | ✅ Mottatt
 | Polerings-/slipeskiver 101 stk 50 mm | **24hshop.no** (#6265595) | — | ✅ Mottatt
-| Motogadget mo.lock NFC connection cable (98-6998) | **CafeRacerWebshop** (#CRW286703) | €34,47 (~kr 402) | 🟢 **Sendt 21.09** — FedEx spor.nr 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 (må avtales på nytt)
+| Motogadget mo.lock NFC connection cable (98-6998) | **CafeRacerWebshop** (#CRW286703) | €34,47 (~kr 402) | 🟢 **Sendt 21.09** — FedEx spor.nr 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 (må avtales på nytt) — 📄 FedEx importmoms-faktura kr 96 mottatt 28.09 (fakt.nr. 7833412, forfall 08.10.2026)
 
 ---
 
@@ -132,7 +132,7 @@ Sist oppdatert: 2026-09-25 (12:00)
 | | 46 | mo.lock NFC (motogadget #24676) | €143,11 | ~kr 1 647 | motogadget | ✅ Mottatt |
 | | 47 | Motip Engine Paint Aluminium (Spraylakk #110860) | kr 227 | ~kr 227 | Spraylakk.no | ✅ Mottatt |
 | | 48 | Polerings-/slipeskiver 101 stk (24hshop #6265595) | — | — | 24hshop.no | ✅ Mottatt |
-| | 49 | Motogadget mo.lock NFC connection cable (CafeRacerWebshop #CRW286703) | €34,47 | ~kr 402 | CafeRacerWebshop | 🟢 Sendt 21.09 — FedEx 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 |
+| | 49 | Motogadget mo.lock NFC connection cable (CafeRacerWebshop #CRW286703) | €34,47 | ~kr 402 | CafeRacerWebshop | 🟢 Sendt 21.09 — FedEx 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 — 📄 importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026) |
 | **Sum betalt hittil** | | **~kr 42 100** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
