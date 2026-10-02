@@ -63,15 +63,33 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-20:** Replica Front Brake Caliper Left (SKU 41127) bestilt fra KEDO (#34000027422) — €124,16 totalt inkl frakt. PayPal ✅
 - **2026-08-06:** Epost-gjennomgang etter lengre nedetid. Shoppingliste + MEMORY oppdatert. Nytt siden sist: thansen svinghjulsholder (klar til henting), Højstyling LED-bolt, eBay slip-on eksos + LED blinklys + Motion Pro clutchlever, motogadget mo.lock NFC, Spraylakk, 24hshop. AliExpress-pakker (speil, flensbolter, gassketer) levert 28.07. KEDO-ordre #34000027660 refundert — må bestilles på nytt med deler.
 
+## Prosjektstatus (forts.)
+- **2026-09-20:** Styret ferdig med nye konsoller — testet sammen med **mo.unit**, fungerer ✅. **Ventilhuset glassblåst** — ble veldig bra ✅. **Svinghjulet sitter dønn fast** ⚠️ (avdrager M27×1,0 LH + holder brukt). Bilder i `data/images/progress/2026-09-20/` (13 stk).
+
 ## Totalt investert hittil
 - ~kr 41 700 (oppdatert 06.08)
+
+## Kjente verktøy-/infra-problemer
+- **Bildeanalyse:** `agents.defaults.imageModel` = `ollama/gemma3:4b` er **pensjonert** i Ollama Cloud (HTTP 410). **Bruk `ollama/gemma4:31b`** (fungerer, god kvalitet). Lokal ollama har bare gemma3:4b/1b + qwen2.5 (svake på bilder).
+- **Svinghjul M27×1,0 LH-avdrager** er korrekt verktøy for XT/TT/SR500. Skjerm veivtappen (bronsehylse), ikke varm stator/coils.
+
+## Leveranser mottatt (27.08)
+- **Cafe Racer Seat** (eBay wanyymotor_1) ✅ hentet
+- **Motion Pro Clutch Lever** (eBay piratemx3) ✅ hentet
+- **Mud Guard/Innerskjerm 2J2-21629-01-00** (eBay retromotorteile) ✅ hentet
+- **Cap Dome Acorn Nuts M10×1.25 ×4** (eBay GSP) ✅ hentet
+- **LED-bolt nummerskiltbelysning** (Højstyling) ✅ hentet
+- **Oxford Retro Grips** (Højstyling) ✅ hentet
+- **Svinghjulsholder** (Thansen #115824570) ✅ hentet 27.08
+- **4.5" LED Headlight** (eBay a-z-shop) ✅ hentet 27.08
+- Shoppinglista oppdatert begge steder — venter på push-godkjenning
 
 ## Nye bestillinger
 - **2026-07-21:** Oxford Retro Grips (Højstyling #100111767) — kr 286
 - **2026-07-23:** Mud Guard (innerskjerm) 2J2-21629-01-00 bestilt eBay retromotorteile — $126,38 (~kr 1 261)
 - **2026-07-23:** Cap Dome Acorn Nuts M10×1.25 Chrome ×4 bestilt eBay GSP — $31,84 (~kr 318)
 - **2026-07-22:** Nålelager HMK 2220 LSHRE (Kulelagerhuset Drammen) — kr 254
-- **2026-07-22:** Motion Pro Black Clutch Lever SR500 78-81 (eBay piratemx3) — $50,75 (~kr 509), ETA 11.–18. aug
+- **2026-07-22:** Motion Pro Black Clutch Lever SR500 78-81 (eBay piratemx3) — $50,75 (~kr 509), ETA 11.–18. aug — ✅ **hentet 18.08**
 - **2026-07-21:** 4.5" Gloss Black LED Bottom Mount Headlight (eBay a-z-shop) — $113,74 (~kr 1 146), ETA 7.–14. aug
 - **2026-07-27:** mo.lock NFC (motogadget #24676) — €143,11 (~kr 1 647), sendt 28.07 DHL CE381821038DE
 - **2026-07-18:** Motip Engine Paint Aluminium (Spraylakk.no #110860) — kr 227, sendt 22.07
