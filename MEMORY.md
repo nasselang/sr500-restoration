@@ -65,6 +65,7 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 
 ## Prosjektstatus (forts.)
 - **2026-09-20:** Styret ferdig med nye konsoller — testet sammen med **mo.unit**, fungerer ✅. **Ventilhuset glassblåst** — ble veldig bra ✅. **Svinghjulet sitter dønn fast** ⚠️ (avdrager M27×1,0 LH + holder brukt). Bilder i `data/images/progress/2026-09-20/` (13 stk).
+- **2026-10-02:** 🎉 **Svinghjulet kom endelig av!** Veivtapp + stator eksponert. 4 nye bilder i `data/images/progress/2026-10-02/`. Neste: montere VAPE-tenning. Bloggpost 20.09 publisert + handleliste ryddet (totalt ~kr 42 650).
 
 ## Totalt investert hittil
 - ~kr 42 650 (oppdatert 02.10.2026 — konsolidert handleliste)
