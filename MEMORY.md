@@ -74,6 +74,7 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 ## Kjente verktøy-/infra-problemer
 - **Bildeanalyse:** `agents.defaults.imageModel` = `ollama/gemma3:4b` er **pensjonert** i Ollama Cloud (HTTP 410). **Bruk `ollama/gemma4:31b`** (fungerer, god kvalitet). Lokal ollama har bare gemma3:4b/1b + qwen2.5 (svake på bilder).
 - **Svinghjul M27×1,0 LH-avdrager** er korrekt verktøy for XT/TT/SR500. Skjerm veivtappen (bronsehylse), ikke varm stator/coils.
+- **Løsningen som faktisk fikk svinghjulet av (02.10.2026):** **litt varme på navet + kraftig muttertrekker** på avdragerens senterbolt. Krypende olje på konusfugen i forkant. Veivtappen var fin etterpå.
 
 ## Leveranser mottatt (27.08)
 - **Cafe Racer Seat** (eBay wanyymotor_1) ✅ hentet
