@@ -67,7 +67,8 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-09-20:** Styret ferdig med nye konsoller — testet sammen med **mo.unit**, fungerer ✅. **Ventilhuset glassblåst** — ble veldig bra ✅. **Svinghjulet sitter dønn fast** ⚠️ (avdrager M27×1,0 LH + holder brukt). Bilder i `data/images/progress/2026-09-20/` (13 stk).
 
 ## Totalt investert hittil
-- ~kr 41 700 (oppdatert 06.08)
+- ~kr 42 650 (oppdatert 02.10.2026 — konsolidert handleliste)
+- **Ubetalt:** FedEx importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026)
 
 ## Kjente verktøy-/infra-problemer
 - **Bildeanalyse:** `agents.defaults.imageModel` = `ollama/gemma3:4b` er **pensjonert** i Ollama Cloud (HTTP 410). **Bruk `ollama/gemma4:31b`** (fungerer, god kvalitet). Lokal ollama har bare gemma3:4b/1b + qwen2.5 (svake på bilder).
