@@ -122,4 +122,6 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
   2. `blog_repo/SHOPPINGLIST.md` (GitHub Pages, main)
   Husk også å committe submodul-referansen i hovedrepoet etter at blog_repo er pushet.
 - Blogg: https://nasselang.github.io/sr500-restoration/
+- **⚠️ Auto-push-felle:** `scripts/sr500-daglig.sh` (kl. 10) og `scripts/backup-sr500.sh` (hver 3. dag) gjør `git add -A` + commit + push på `blog_repo/`. Bloggutkast som ikke er godkjent må derfor ligge UTENFOR `blog_repo/` (f.eks. `status_updates/`) til Johnny sier ifra.
+- Siste innlegg: 2026-09-20 «Styret ferdig, ventilhus glassblåst — svinghjulet sitter bom fast»
 - Merk: `blog_repo/` er et eget git-repo (branch: `main`) som hostes på GitHub Pages. Hovedrepoet har `master`.
