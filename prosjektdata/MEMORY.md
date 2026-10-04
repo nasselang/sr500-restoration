@@ -63,8 +63,18 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 - **2026-07-20:** Replica Front Brake Caliper Left (SKU 41127) bestilt fra KEDO (#34000027422) — €124,16 totalt inkl frakt. PayPal ✅
 - **2026-08-06:** Epost-gjennomgang etter lengre nedetid. Shoppingliste + MEMORY oppdatert. Nytt siden sist: thansen svinghjulsholder (klar til henting), Højstyling LED-bolt, eBay slip-on eksos + LED blinklys + Motion Pro clutchlever, motogadget mo.lock NFC, Spraylakk, 24hshop. AliExpress-pakker (speil, flensbolter, gassketer) levert 28.07. KEDO-ordre #34000027660 refundert — må bestilles på nytt med deler.
 
+## Prosjektstatus (forts.)
+- **2026-09-20:** Styret ferdig med nye konsoller — testet sammen med **mo.unit**, fungerer ✅. **Ventilhuset glassblåst** — ble veldig bra ✅. **Svinghjulet sitter dønn fast** ⚠️ (avdrager M27×1,0 LH + holder brukt). Bilder i `data/images/progress/2026-09-20/` (13 stk).
+- **2026-10-02:** 🎉 **Svinghjulet kom endelig av!** Veivtapp + stator eksponert. 4 nye bilder i `data/images/progress/2026-10-02/`. Neste: montere VAPE-tenning. Bloggpost 20.09 publisert + handleliste ryddet (totalt ~kr 42 650).
+
 ## Totalt investert hittil
-- ~kr 41 700 (oppdatert 06.08)
+- ~kr 42 650 (oppdatert 02.10.2026 — konsolidert handleliste)
+- **Ubetalt:** FedEx importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026)
+
+## Kjente verktøy-/infra-problemer
+- **Bildeanalyse:** `agents.defaults.imageModel` = `ollama/gemma3:4b` er **pensjonert** i Ollama Cloud (HTTP 410). **Bruk `ollama/gemma4:31b`** (fungerer, god kvalitet). Lokal ollama har bare gemma3:4b/1b + qwen2.5 (svake på bilder).
+- **Svinghjul M27×1,0 LH-avdrager** er korrekt verktøy for XT/TT/SR500. Skjerm veivtappen (bronsehylse), ikke varm stator/coils.
+- **Løsningen som faktisk fikk svinghjulet av (02.10.2026):** **litt varme på navet + kraftig muttertrekker** på avdragerens senterbolt. Krypende olje på konusfugen i forkant. Veivtappen var fin etterpå.
 
 ## Leveranser mottatt (27.08)
 - **Cafe Racer Seat** (eBay wanyymotor_1) ✅ hentet
@@ -115,4 +125,6 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
   2. `blog_repo/SHOPPINGLIST.md` (GitHub Pages, main)
   Husk også å committe submodul-referansen i hovedrepoet etter at blog_repo er pushet.
 - Blogg: https://nasselang.github.io/sr500-restoration/
+- **⚠️ Auto-push-felle:** `scripts/sr500-daglig.sh` (kl. 10) og `scripts/backup-sr500.sh` (hver 3. dag) gjør `git add -A` + commit + push på `blog_repo/`. Bloggutkast som ikke er godkjent må derfor ligge UTENFOR `blog_repo/` (f.eks. `status_updates/`) til Johnny sier ifra.
+- Siste innlegg: 2026-09-20 «Styret ferdig, ventilhus glassblåst — svinghjulet sitter bom fast»
 - Merk: `blog_repo/` er et eget git-repo (branch: `main`) som hostes på GitHub Pages. Hovedrepoet har `master`.

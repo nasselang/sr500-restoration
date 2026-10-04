@@ -1,6 +1,6 @@
 # Shoppingliste — SR500-prosjektet
 
-Sist oppdatert: 2026-09-28 (12:00)
+Sist oppdatert: 2026-10-02 (11:20)
 
 ---
 
@@ -57,7 +57,7 @@ Sist oppdatert: 2026-09-28 (12:00)
 | mo.lock NFC | **motogadget** (#24676) | €143,11 (~kr 1 647) | ✅ Mottatt
 | Motip Engine Paint Aluminium | **Spraylakk.no** (#110860) | kr 227 | ✅ Mottatt
 | Polerings-/slipeskiver 101 stk 50 mm | **24hshop.no** (#6265595) | — | ✅ Mottatt
-| Motogadget mo.lock NFC connection cable (98-6998) | **CafeRacerWebshop** (#CRW286703) | €34,47 (~kr 402) | 🟢 **Sendt 21.09** — FedEx spor.nr 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 (må avtales på nytt) — 📄 FedEx importmoms-faktura kr 96 mottatt 28.09 (fakt.nr. 7833412, forfall 08.10.2026)
+| Motogadget mo.lock NFC connection cable (98-6998) | **CafeRacerWebshop** (#CRW286703) | €34,47 (~kr 402) | ✅ **Levert 28.09** (SendCloud 28/09 15:20) — FedEx spor.nr 877501868733 — 📄 FedEx importmoms-faktura kr 96 mottatt 28.09 (fakt.nr. 7833412, forfall 08.10.2026 — ubetalt)
 
 ---
 
@@ -108,9 +108,7 @@ Sist oppdatert: 2026-09-28 (12:00)
 | 26 | Flensbolt M8×12mm (95811-08012-00) ×5 | <kr 100 | ~kr 100 | AliExpress | ✅ Hentet |
 | 27 | Komplett pakningssett motor (SR500/XT500 79-89) | kr 535 (~£38,94) | ~kr 535 | eBay UK (John Wilson Motorcycles) | ✅ Mottatt 22.07 |
 | 28 | Tank lakkering (sort) | kr 3 000 | kr 3 000 | — | ✅ Ferdig 03.07 |
-| 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Betalt 14.07 — PayPal-kvittering mottatt, venter på forsendelse |
-| | | | | |
-| **Sum betalt hittil** | | **~kr 31 801** | |
+| 29 | Speil m/blinklys 22mm 7/8" (blå linse) | €29,45 | ~kr 343 | AliExpress (Bonastar Store) | ✅ Mottatt 28.07 |
 | | 30 | Replica Front Brake Caliper Left (SKU 41127) | €124,16 | ~kr 1 450 | KEDO (#34000027422) | ✅ Mottatt 24.07 — Montert |
 | | 31 | Oxford Retro Grips | kr 286 | ~kr 286 | Højstyling (#100111767) | ✅ Hentet 27.08 |
 | | 32 | 4.5" LED Headlight (eBay) | $113,74 | ~kr 1 146 | eBay (a-z-shop) | ✅ Hentet 27.08 |
@@ -120,8 +118,6 @@ Sist oppdatert: 2026-09-28 (12:00)
 | | 36 | 350Pcs Nylon Flat Gaskets (AliEx) | €2,13 | ~kr 24 | AliExpress | ✅ Mottatt 28.07 |
 | | 37 | 10Pcs Flange Bolt M5x20mm (AliEx) | €2,13 | ~kr 24 | AliExpress | ✅ Mottatt 28.07 |
 | | 38 | 170pcs Waterproof Connectors (AliEx) | €7,06 | ~kr 80 | AliExpress | ✅ Mottatt 28.07 |
-| | 38b | Speil m/blinklys 22mm 7/8" blå linse (AliEx/Bonastar) | €29,45 | ~kr 343 | AliExpress | ✅ Mottatt 28.07 |
-| | 38c | Flensbolt M8×12mm ×5 (AliEx) | €7,19 | ~kr 83 | AliExpress | ✅ Mottatt 28.07 |
 | | 39 | Mud Guard / Innerskjerm 2J2-21629-01-00 (eBay) | $126,38 | ~kr 1 261 | eBay (retromotorteile) | ✅ Hentet 27.08 |
 | | 40 | Cap Dome Acorn Nuts M10×1.25 Chrome ×4 (eBay) | $31,84 | ~kr 318 | eBay (GSP) | ✅ Hentet 27.08 |
 | | | 41 | Svinghjulsholder (Thansen #115824570) | kr 449 | ~kr 449 | Thansen | ✅ Hentet 27.08 |
@@ -132,8 +128,8 @@ Sist oppdatert: 2026-09-28 (12:00)
 | | 46 | mo.lock NFC (motogadget #24676) | €143,11 | ~kr 1 647 | motogadget | ✅ Mottatt |
 | | 47 | Motip Engine Paint Aluminium (Spraylakk #110860) | kr 227 | ~kr 227 | Spraylakk.no | ✅ Mottatt |
 | | 48 | Polerings-/slipeskiver 101 stk (24hshop #6265595) | — | — | 24hshop.no | ✅ Mottatt |
-| | 49 | Motogadget mo.lock NFC connection cable (CafeRacerWebshop #CRW286703) | €34,47 | ~kr 402 | CafeRacerWebshop | 🟢 Sendt 21.09 — FedEx 877501868733 — ⚠️ leveringsforsøk mislyktes 24.09 — 📄 importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026) |
-| **Sum betalt hittil** | | **~kr 42 100** | | |
+| | 49 | Motogadget mo.lock NFC connection cable (CafeRacerWebshop #CRW286703) | €34,47 | ~kr 402 | CafeRacerWebshop | ✅ Levert 28.09 (SendCloud 28/09 15:20) — FedEx 877501868733 — 📄 importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026 — ubetalt) |
+| **Sum betalt hittil** | | **~kr 42 650** | | |
 
 ### 🎯 Gjenstående ønsker (estimert)
 
@@ -145,4 +141,6 @@ Sist oppdatert: 2026-09-28 (12:00)
 
 ---
 
-**🔢 Totalt investert hittil: ~kr 38 205**
+**🔢 Totalt investert hittil: ~kr 42 650**
+
+**📄 Ubetalt:** FedEx importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026)
