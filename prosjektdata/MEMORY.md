@@ -69,7 +69,7 @@ Her lagrer vi viktige punkter, permanente referanser og kontekst som skal vare o
 
 ## Totalt investert hittil
 - ~kr 42 650 (oppdatert 02.10.2026 — konsolidert handleliste)
-- **Ubetalt:** FedEx importmoms kr 96 (fakt.nr. 7833412, forfall 08.10.2026)
+- **FedEx importmoms kr 96** (fakt.nr. 7833412) — ✅ betalt 22.10.2026
 
 ## Kjente verktøy-/infra-problemer
 - **Bildeanalyse:** `agents.defaults.imageModel` = `ollama/gemma3:4b` er **pensjonert** i Ollama Cloud (HTTP 410). **Bruk `ollama/gemma4:31b`** (fungerer, god kvalitet). Lokal ollama har bare gemma3:4b/1b + qwen2.5 (svake på bilder).
